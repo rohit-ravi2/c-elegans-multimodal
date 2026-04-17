@@ -1,0 +1,2 @@
+shared_classes,herm_edges,male_edges,sex_edge_jaccard,avg_motif_spearman,cook_herm_vs_witvliet_jaccard,verdict
+90,1399,829,0.3761581222977146,0.6030036939234898,0.4221879815100154,NULL — motif statistics not reliable across sexes OR across independent datasets
