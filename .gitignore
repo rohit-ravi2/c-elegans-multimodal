@@ -45,3 +45,4 @@ credentials.json
 # Individual files over GitHub's 100MB hard limit
 analysis/curated/gene_motif_spearman_optimized.tsv
 
+*.bak*
