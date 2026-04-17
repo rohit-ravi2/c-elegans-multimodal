@@ -1,0 +1,2 @@
+n_transitions,pooled_N,pooled_arrivals,pooled_auc,null_95pct,triangle_closure_coef,triangle_closure_perm_p,shared_out_coef,verdict
+3,98718,1837,0.7579292636283976,0.5260566548821243,0.26325627367394533,0.0,0.31370724193912736,POSITIVE — topological rule governs edge arrival during C. elegans development
