@@ -1,0 +1,2 @@
+n_class_pairs_with_contact,n_positives,n_negatives,contact_only_auc,compat_only_auc,full_auc,delta_full_minus_contact,null_95pct,n_families_positive,verdict
+3734,915,2819,0.7818352148871669,0.4953147650571976,0.7807647492212653,-0.001070465665901632,0.7821192929636487,0,NULL — compatibility does not add above contact baseline
