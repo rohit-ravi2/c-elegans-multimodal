@@ -1,0 +1,2 @@
+raw_gene_auc,n_stable_genes_freq_ge_0_5,null_95pct_count,n_top50_categorized,crit1_pass,crit2_pass,crit3_pass,verdict,flp21_in_set,ceh31_in_set,blos2_in_set
+0.625883490676687,56,55.1,4,True,True,False,POSITIVE (robust stability) but weak functional enrichment,True,True,True
