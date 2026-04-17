@@ -1,0 +1,355 @@
+{
+    "potential_deletes": [
+        {
+            "path": "b_malayi.PRJNA10729.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 3789307.65
+        },
+        {
+            "path": "b_malayi.PRJNA10729.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 9015.57
+        },
+        {
+            "path": "block1.wrm",
+            "reason": "Read fail",
+            "size_kb": 3968.0
+        },
+        {
+            "path": "block10.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block2.wrm",
+            "reason": "Read fail",
+            "size_kb": 19840.0
+        },
+        {
+            "path": "block26.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block27.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block28.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block29.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block3.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block30.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block4.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block46.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block47.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block48.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block49.wrm",
+            "reason": "Read fail",
+            "size_kb": 324064.0
+        },
+        {
+            "path": "block5.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block6.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block7.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block71.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block72.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block73.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block74.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block75.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block8.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block81.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "block82.wrm",
+            "reason": "Read fail",
+            "size_kb": 372992.0
+        },
+        {
+            "path": "block9.wrm",
+            "reason": "Read fail",
+            "size_kb": 999936.0
+        },
+        {
+            "path": "c_angaria.PRJNA51225.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 13496.54
+        },
+        {
+            "path": "c_becei.PRJEB28243.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 12104.34
+        },
+        {
+            "path": "c_bovis.PRJEB34497.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 8676.91
+        },
+        {
+            "path": "c_brenneri.PRJNA20035.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 3953957.24
+        },
+        {
+            "path": "c_brenneri.PRJNA20035.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 14237.14
+        },
+        {
+            "path": "c_briggsae.PRJNA10731.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 2408982.69
+        },
+        {
+            "path": "c_briggsae.PRJNA10731.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 12794.73
+        },
+        {
+            "path": "c_elegans.PRJEB28388.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 366829.73
+        },
+        {
+            "path": "c_elegans.PRJEB28388.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 15044.18
+        },
+        {
+            "path": "c_elegans.PRJNA13758.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 7709798.63
+        },
+        {
+            "path": "c_elegans.PRJNA13758.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 17578.97
+        },
+        {
+            "path": "c_inopinata.PRJDB5687.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 10312.56
+        },
+        {
+            "path": "c_japonica.PRJNA12591.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 8036750.0
+        },
+        {
+            "path": "c_japonica.PRJNA12591.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 13138.15
+        },
+        {
+            "path": "c_latens.PRJNA248912.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 11102.68
+        },
+        {
+            "path": "c_nigoni.PRJNA384657.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 20258.49
+        },
+        {
+            "path": "c_panamensis.PRJEB28259.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 11620.78
+        },
+        {
+            "path": "c_parvicauda.PRJEB12595.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 8246.93
+        },
+        {
+            "path": "c_quiockensis.PRJEB11354.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 10642.16
+        },
+        {
+            "path": "c_remanei.PRJNA53967.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 2967849.56
+        },
+        {
+            "path": "c_remanei.PRJNA53967.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 14641.92
+        },
+        {
+            "path": "c_remanei.PRJNA577507.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 11311.74
+        },
+        {
+            "path": "c_sinica.PRJNA194557.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 22558.21
+        },
+        {
+            "path": "c_sulstoni.PRJEB12601.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 9808.82
+        },
+        {
+            "path": "c_tribulationis.PRJEB12608.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 12482.83
+        },
+        {
+            "path": "c_tropicalis.PRJNA53597.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 12879.76
+        },
+        {
+            "path": "c_uteleia.PRJEB12600.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 13609.66
+        },
+        {
+            "path": "c_waitukubuli.PRJEB12602.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 13087.9
+        },
+        {
+            "path": "c_zanzibari.PRJEB12596.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 11161.31
+        },
+        {
+            "path": "caenorhabditis_elegans.PRJNA13758.WBPS19.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 7713232.49
+        },
+        {
+            "path": "caenorhabditis_elegans.PRJNA13758.WBPS19.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 17534.13
+        },
+        {
+            "path": "o_tipulae.PRJEB15512.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 7759.07
+        },
+        {
+            "path": "o_volvulus.PRJEB513.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 3878861.23
+        },
+        {
+            "path": "o_volvulus.PRJEB513.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 6092.76
+        },
+        {
+            "path": "p_pacificus.PRJNA12644.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 2391536.27
+        },
+        {
+            "path": "p_pacificus.PRJNA12644.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 13337.03
+        },
+        {
+            "path": "p_redivivus.PRJNA186477.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 11424.47
+        },
+        {
+            "path": "s_ratti.PRJEB125.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 2535492.31
+        },
+        {
+            "path": "s_ratti.PRJEB125.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 7480.86
+        },
+        {
+            "path": "t_muris.PRJEB126.WS297.annotations.gff3",
+            "reason": "Empty/no data",
+            "size_kb": 3391295.92
+        },
+        {
+            "path": "t_muris.PRJEB126.WS297.protein.fa",
+            "reason": "Invalid seq content",
+            "size_kb": 7318.73
+        }
+    ],
+    "counts": {
+        "total": 658,
+        "corrupted": 69,
+        "valid": 589
+    },
+    "errors": []
+}

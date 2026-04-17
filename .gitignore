@@ -1,0 +1,47 @@
+# Data — 123G, kept locally only
+data/
+
+# Reorg trash + manifests
+.trash_*/
+_reorg_manifest_*.log
+_phase_*_diff_*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binary formats (regeneratable; use external storage if needed)
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+*.nc
+*.mat
+*.tar
+*.tar.gz
+*.zip
+*.7z
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Individual files over GitHub's 100MB hard limit
+analysis/curated/gene_motif_spearman_optimized.tsv
+

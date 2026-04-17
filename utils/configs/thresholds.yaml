@@ -1,0 +1,9 @@
+co_presence_min_frac: 0.1
+expr_min_tpm: 0.5
+peptide_edge_aggregation: max
+relaxed:
+  expr_z: 0.2
+  min_pairs: 1
+strict:
+  expr_z: 0.5
+  min_pairs: 1

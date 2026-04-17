@@ -1,0 +1,13 @@
+,motif,depth,enrichment_pval,motif_count
+0,motif_oscillator,1,,198.723660404705
+1,motif_oscillator,2,,182.83836026052137
+2,motif_oscillator,3,,186.21945093353276
+3,motif_oscillator,4,,209.9919639407505
+4,motif_loop,1,,188.26821034516877
+5,motif_loop,2,,177.2021156867496
+6,motif_loop,3,,176.65941924850853
+7,motif_loop,4,,207.82927913673703
+8,motif_feedforward,1,,208.02274959415868
+9,motif_feedforward,2,,177.46688830895593
+10,motif_feedforward,3,,177.238530097502
+11,motif_feedforward,4,,192.92302377468167

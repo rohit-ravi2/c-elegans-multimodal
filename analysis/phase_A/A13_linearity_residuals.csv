@@ -1,0 +1,5 @@
+combo,resid_norm,resid_frac,w
+ASEL+ASER+ASHL,0.0,0.0,"[1.0, 0.0, 0.0]"
+ASER+ASHL+AWCL,0.0,0.0,"[1.0, 0.0, 0.0]"
+AWCR+ASER+ASHL,0.0,0.0,"[1.0, 0.0, 0.0]"
+ALMR+ASER+ASHL,0.0,0.0,"[1.0, 0.0, 0.0]"

@@ -1,0 +1,264 @@
+Col1,__SourceFile
+Cells and tissue appeared in the figures in Albertson and,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+Thomson (1976) other than the neurons,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+Albertson_Fig/,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""bm"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Pharyngeal basement membrane.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""g"", ""g1"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Pharyngeal gland cells.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""m[1,2,3,4,5,6,7]"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Pharyngeal muscle cells.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""mc"", ""mc2"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Pharyngeal marginal cells.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+Cells and tissue appeared in the figures in White et al. (1986),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+other than the neurons,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+White_Fig/,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""CEPsh[DL,DR,VL,VR]"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Cephalic sheath cells.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""GLR[DL,DR,L,R,VL,VR]"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Cells that form a thin cylindrical sheet between pharynx,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     and ring neuropil.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""HDC"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Hypodermis.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""MUSCLE"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Muscle.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""NMJ"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Neuromuscular junction.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""vm2"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Muscle of the vulva.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+Cells and tissue appeared in the tables in White et al. (1986),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+other than the neurons,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+White_Table/,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""HDC"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Hypodermis.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""NMJ"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Neuromuscular junction.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""Vm2"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Muscle of the vulva.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+"  ""VUL"":",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+     Vulva.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/name_others.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"         ""White_Text.txt""                                             ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"                    CCeP (Cybernetic Caenorhabditis elegans Program), ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"                                                  December 28, 2003.  ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+ INTRODUCTION,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"For PDA and PDB neurons, no figures and no tables of the synaptic",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+connectivity are shown in the paper:,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"  White, J. G., Southgate, E., Thomson, J. N. and Brenner, S. (1986).",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"  ""The structure of the nervous system of the nematode Caenorhabditis",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"  elegans"", Phil. Trans. R. Soc. London B 314, pp.1-340.",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+However some descriptions of PDA and PDB are given in the text of the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"paper. On the basis of these descriptions, we provide the data of the",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+synaptic connectivities of PDA and PDB.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+ FORMAT OF DATA,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+The data consists of six columns. The format is similar to that of the ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+"data in ""White_Table"" directory (folder).",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+[1st column] Name of reference neuron,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+[2nd column] Name of partner neuron,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+[3rd column] The number of singly contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+  reference neuron to the partner neuron,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+[4th column] The number of singly contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+  partner neuron to the reference neuron,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+[5th column] The number of multiply contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+  reference neuron to the partner neuron,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+[6th column] Name of corecipients of the 5th column,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+====================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+ SYNAPTIC CONNECTIVITY DATA,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+====================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDA  PVN  1  -  -  -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDA  DA9  1  -  -  -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDA  HDC  1  -  -  -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDA  NMJ  2  -  -  -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDA  DD6  1  -  -  -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDA  DVB  -  1  -  -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDB  NMJ  -  -  2  DD6,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+PDB  DD6  -  -  2  NMJ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Text.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         README for ""White_Table"" directory (folder)                  ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"                    CCeP (Cybernetic Caenorhabditis elegans Program), ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"                                                  December 28, 2003.  ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                                                                      ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+ INTRODUCTION,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"Files in this ""White_Table"" directory (folder) describe the synaptic",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+connectivity shown in the tables in the paper:,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  White, J. G., Southgate, E., Thomson, J. N. and Brenner, S. (1986).",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  ""The structure of the nervous system of the nematode Caenorhabditis",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  elegans"", Phil. Trans. R. Soc. London B 314, pp.1-340.",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"In that paper, authors have studied the somatic nervous system except that",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+in the pharynx.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+ NOTICE,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"The format of data in this ""White_Table"" directory (folder) is different",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"from those in the ""Albertson_Fig"" and the ""White_Fig"" directories (folders).",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"Furthermore, the data files in this directory (folder) describe the synaptic",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"connectivity between the neuron classes while those in the ""White_Fig""",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+directory (folder) describe the synaptic connectivity between the neurons.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+ FILES AND DIRECTORIES (FOLDERS),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+ - [White_Table] ---+- README_WT.txt,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                    +- synapse_WT.txt,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                    |,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                    +- [neurons] -+- XXX_WT.txt,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                                  +- XXX_WT_correct.txt,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  o README_WT.txt:,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      This file. ASCII text file that gives general information on files,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      in this ""White_Table"" directory (folder).",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  o synapse_WT.txt:,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      ASCII text file in which all of the data files ""XXX_WT.txt"" in the",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      ""neurons"" directory (folder) are included. For AVF, AVG, HSN and",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      PVN neurons, however, only ""AVF_WT_correct.txt"", ""AVG_WT_correct.txt"",",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      ""HSN_WT_correct.txt"" and ""PVN_WT_correct.txt"" (the corrected data)",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      are included to make this file (see below for the reason).,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  o XXX_WT.txt in the ""neurons"" directory (folder):",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      ASCII text files that describe synaptic connectivity shown in the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      tables in the original paper for each reference neuron. Here XXX,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      denotes a name of reference neuron.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      In the original paper, inconsistent data are found in the tables of",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      AVF, AVG, HSN and PVN neurons. Those data are recorded in ""AVF_WT.txt"",",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      ""AVG_WT.txt"", ""HSN_WT.txt"" and ""PVN_WT.txt"" as it stands. We have",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      corrected the data and the corrected data are found in,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      ""AVF_WT_correct.txt"", ""AVG_WT_correct.txt"", ""HSN_WT_correct.txt"" and",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"      ""PVN_WT_correct.txt"". We have confirmed by a private communication",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      with Dr. J. G. White that the correction is adequate.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+ FORMAT OF DATA,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+=================================,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+The synaptic connectivity shown in the tables in the original paper consists,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+of the following eight items in the format shown in Table 1.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (1) name of reference neuron class,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (2) mostly name of partner neuron class,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (3) the number of gap junctions,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (4) the number of singly contacted chemical synapses from the partner,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      neuron (class) to the reference neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (5) the number of multiply contacted chemical synapses from the partner,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      neuron (class) to the reference neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (6) the number of singly contacted chemical synapses from the reference,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      neuron (class) to the partner neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (7) the number of multiply contacted chemical synapses from the reference,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+      neuron (class) to the partner neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (8) name of corecipients of the multiply contacted chemical synapses,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  Table 1. Example of the synaptic connectivity table in the original,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+           paper. A part of the data of PDE neurons is shown.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+-------------------------------------------------------------------------,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+                       PDE VENTRAL CORD SYNAPSES,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[partners] [gap junctions] [synapses from] [synapses to and corecipients],_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"     AVK           -               2+2m           1, 20DVA, HDC",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"     HDC           -                  -           2, AVK, VA9",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+     PVC           1                 1m           2,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+-------------------------------------------------------------------------,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+To exactly list the synaptic connectivity shown in the tables in the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"original paper, we present the eight items of the original data with eight",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+columns of the table and an additional 9th item for the present data files.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  (9) comment on a questionable data in the original paper.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+Table 2 shows the present form of record corresponding to Table 1.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  Table 2. The corresponding record to Table 1.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+-------------------------------------------------,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+column   1     2     3  4  5  6  7 8       9,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+-------------------------------------------------,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   AVK    -  2  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   AVK    -  -  2  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   AVK    -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   AVK    -  -  -  - 20 DVA     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   AVK    -  -  -  -  1 HDC     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   HDC    -  -  -  2  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   HDC    -  -  -  -  1 AVK     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   HDC    -  -  -  -  1 VA9     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   PVC    1  -  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   PVC    -  -  1  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+        PDE   PVC    -  -  -  2  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+-------------------------------------------------,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[1st column] Name of reference neuron class,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[2nd column] Mostly name of partner neuron class:,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  For the case of motorneuron, the name of neuron is denoted in the original",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  paper. Contact with ordinary muscle is represented by NMJ (neuron muscle,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  junction) and that with sex specific muscle cell ""vm2"" is represented by",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  this name.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[3rd column] The number of gap junctions,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[4th column] The number of singly contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  partner neuron (class) to the reference neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[5th column] The number of multiply contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  partner neuron (class) to the reference neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[6th column] The number of singly contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  reference neuron (class) to the partner neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[7th column] The number of multiply contacted chemical synapses from the,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  reference neuron (class) to the partner neuron (class),_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[8th column] Name of corecipients of the 7th column,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+[9th column] Comment index:,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  When questionable descriptions are found in the original tables, we have ",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  commented in this column. We have classified the comments into three types,",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+  and distinguish them by the following indices.,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"    ""-"": Nothing to comment.",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  ""wt1"": The corecipient neuron is not listed as a partner neuron class",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         in the original paper. The lacking record is added in ""synapse_WT.txt""",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         and in the corrected data ""XXX_WT_correct.txt"" (White, private",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+         communication).,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  ""wt2"": In the table on PVN neurons in the original paper, the number of",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+         chemical synapses in the 22nd line is inconsistent with that in,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         the 33rd line. The correct number in the 22nd line is ""2"" (White,",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         private communication). This is corrected in ""synapse_WT.txt"" and",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         ""PVN_WT_correct.txt"".",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"  ""wt3"": In the table on PVN neurons in the original paper, the data on",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+         the 77th line duplicates that on the 45th line. Data on the 77th,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+"         line is deleted in ""synapse_WT.txt"" and ""PVN_WT_correct.txt"" (White,",_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+         private communication). ,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/README_WT.txt
+HSN   VC5    -  -  -  5  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   NMJ    -  -  -  2  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   NMJ    -  -  -  -  1 VC2     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   SABV   -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   SABV   -  -  -  -  2 AVD     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVD    -  -  -  -  2 SABV    -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVD    -  -  -  -  1 AVE     wt1,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   BDU    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   BDU    -  -  2  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVL    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   SABD   -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   VC2    -  -  -  -  1 NMJ     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   VC2    -  -  -  -  1 Vm2     wt1,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AS5    -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   PLM    -  2  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVB    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVJ    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   PVQ    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   PVN    -  -  1  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   VA6    -  -  -  -  1 DA5     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   DA5    -  -  -  -  1 VA6     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   DA6    -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVG    -  -  1  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   AVE    -  -  -  -  1 AVD     wt1,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   Vm2    -  -  -  -  1 VC2     wt1,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT_correct.txt
+HSN   VC5    -  -  -  5  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   NMJ    -  -  -  2  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   NMJ    -  -  -  -  1 VC2     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   SABV   -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   SABV   -  -  -  -  2 AVD     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AVD    -  -  -  -  2 SABV    -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AVD    -  -  -  -  1 AVE     wt1,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   BDU    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   BDU    -  -  2  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AVL    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   SABD   -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   VC2    -  -  -  -  1 NMJ     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   VC2    -  -  -  -  1 Vm2     wt1,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AS5    -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   PLM    -  2  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AVB    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AVJ    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   PVQ    -  1  -  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   PVN    -  -  1  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   VA6    -  -  -  -  1 DA5     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   DA5    -  -  -  -  1 VA6     -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   DA6    -  -  -  1  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt
+HSN   AVG    -  -  1  -  - -       -,_extracted_txt/Ce_synapse_UNIX/Ce_synapse/White_Table/neurons/HSN_WT.txt

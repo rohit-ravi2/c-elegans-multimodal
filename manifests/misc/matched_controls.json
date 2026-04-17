@@ -1,0 +1,308 @@
+{
+  "degree": {
+    "ADAL": [
+      "HSNL",
+      "URYDL",
+      "SAAVR"
+    ],
+    "RMDVR": [
+      "AIMR",
+      "URXL",
+      "RIBR"
+    ],
+    "RICR": [
+      "AVM",
+      "IL1VL",
+      "RMDVL"
+    ],
+    "RID": [
+      "URADL",
+      "PVPR",
+      "AWBR"
+    ],
+    "RIFL": [
+      "RMDVL",
+      "ASKL",
+      "ADLR"
+    ],
+    "RIFR": [
+      "ASHL",
+      "SMBVL",
+      "AINL"
+    ],
+    "RIGL": [
+      "URXL",
+      "AVBL",
+      "URAVR"
+    ],
+    "RIGR": [
+      "AFDR",
+      "AIBL",
+      "AVAL"
+    ],
+    "RIH": [
+      "BDUL",
+      "URBR",
+      "HSNL"
+    ],
+    "RIML": [
+      "AIZR",
+      "ADLR",
+      "PVCL"
+    ],
+    "RIMR": [
+      "AVHR",
+      "AFDR",
+      "AVAR"
+    ],
+    "RIPL": [
+      "URADL",
+      "URXL",
+      "AINL"
+    ],
+    "RIPR": [
+      "AVL",
+      "CEPVR",
+      "ALMR"
+    ],
+    "RIR": [
+      "AVJR",
+      "RIBR",
+      "AIZL"
+    ],
+    "RIS": [
+      "AUAR",
+      "AIAR",
+      "ASEL"
+    ],
+    "RIVL": [
+      "AVDR",
+      "AVKR",
+      "AINL"
+    ],
+    "RIVR": [
+      "RMFR",
+      "BDUR",
+      "BAGR"
+    ],
+    "RMDDL": [
+      "AUAL",
+      "ASER",
+      "OLQVL"
+    ],
+    "RMDDR": [
+      "SMDDR",
+      "PVCL",
+      "SMBVL"
+    ],
+    "RMDL": [
+      "SIAVR",
+      "ASHL",
+      "OLQDL"
+    ]
+  },
+  "betweenness": {
+    "ADAL": [
+      "HSNL",
+      "URYDL",
+      "SAAVR"
+    ],
+    "RMDVR": [
+      "AIMR",
+      "URXL",
+      "RIBR"
+    ],
+    "RICR": [
+      "AVM",
+      "IL1VL",
+      "RMDVL"
+    ],
+    "RID": [
+      "URADL",
+      "PVPR",
+      "AWBR"
+    ],
+    "RIFL": [
+      "RMDVL",
+      "ASKL",
+      "ADLR"
+    ],
+    "RIFR": [
+      "ASHL",
+      "SMBVL",
+      "AINL"
+    ],
+    "RIGL": [
+      "URXL",
+      "AVBL",
+      "URAVR"
+    ],
+    "RIGR": [
+      "AFDR",
+      "AIBL",
+      "AVAL"
+    ],
+    "RIH": [
+      "BDUL",
+      "URBR",
+      "HSNL"
+    ],
+    "RIML": [
+      "AIZR",
+      "ADLR",
+      "PVCL"
+    ],
+    "RIMR": [
+      "AVHR",
+      "AFDR",
+      "AVAR"
+    ],
+    "RIPL": [
+      "URADL",
+      "URXL",
+      "AINL"
+    ],
+    "RIPR": [
+      "AVL",
+      "CEPVR",
+      "ALMR"
+    ],
+    "RIR": [
+      "AVJR",
+      "RIBR",
+      "AIZL"
+    ],
+    "RIS": [
+      "AUAR",
+      "AIAR",
+      "ASEL"
+    ],
+    "RIVL": [
+      "AVDR",
+      "AVKR",
+      "AINL"
+    ],
+    "RIVR": [
+      "RMFR",
+      "BDUR",
+      "BAGR"
+    ],
+    "RMDDL": [
+      "AUAL",
+      "ASER",
+      "OLQVL"
+    ],
+    "RMDDR": [
+      "SMDDR",
+      "PVCL",
+      "SMBVL"
+    ],
+    "RMDL": [
+      "SIAVR",
+      "ASHL",
+      "OLQDL"
+    ]
+  },
+  "cycle": {
+    "ADAL": [
+      "HSNL",
+      "URYDL",
+      "SAAVR"
+    ],
+    "RMDVR": [
+      "AIMR",
+      "URXL",
+      "RIBR"
+    ],
+    "RICR": [
+      "AVM",
+      "IL1VL",
+      "RMDVL"
+    ],
+    "RID": [
+      "URADL",
+      "PVPR",
+      "AWBR"
+    ],
+    "RIFL": [
+      "RMDVL",
+      "ASKL",
+      "ADLR"
+    ],
+    "RIFR": [
+      "ASHL",
+      "SMBVL",
+      "AINL"
+    ],
+    "RIGL": [
+      "URXL",
+      "AVBL",
+      "URAVR"
+    ],
+    "RIGR": [
+      "AFDR",
+      "AIBL",
+      "AVAL"
+    ],
+    "RIH": [
+      "BDUL",
+      "URBR",
+      "HSNL"
+    ],
+    "RIML": [
+      "AIZR",
+      "ADLR",
+      "PVCL"
+    ],
+    "RIMR": [
+      "AVHR",
+      "AFDR",
+      "AVAR"
+    ],
+    "RIPL": [
+      "URADL",
+      "URXL",
+      "AINL"
+    ],
+    "RIPR": [
+      "AVL",
+      "CEPVR",
+      "ALMR"
+    ],
+    "RIR": [
+      "AVJR",
+      "RIBR",
+      "AIZL"
+    ],
+    "RIS": [
+      "AUAR",
+      "AIAR",
+      "ASEL"
+    ],
+    "RIVL": [
+      "AVDR",
+      "AVKR",
+      "AINL"
+    ],
+    "RIVR": [
+      "RMFR",
+      "BDUR",
+      "BAGR"
+    ],
+    "RMDDL": [
+      "AUAL",
+      "ASER",
+      "OLQVL"
+    ],
+    "RMDDR": [
+      "SMDDR",
+      "PVCL",
+      "SMBVL"
+    ],
+    "RMDL": [
+      "SIAVR",
+      "ASHL",
+      "OLQDL"
+    ]
+  }
+}

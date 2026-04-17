@@ -1,0 +1,3 @@
+label,a,b,c,d,N,n,K,coverage,jaccard,overlap,odds_ratio,risk_ratio,phi,exp,var,z,fisher_p,hypergeom_p,chi2,chi2_p,cov_ci_low,cov_ci_high,emp_p_uniform,emp_z_uniform,emp_p_degree,emp_z_degree,perm_uniform_mean,perm_uniform_std,perm_degree_mean,perm_degree_std
+Basal,36,0,143,0,179,36,179,1.0,0.2011173184357542,1.0,0.25435540069686413,0.9899237216310387,,36.0,0.0,,1.0,1.0,,,0.9035813714055363,1,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+NPR10,36,0,143,0,179,36,179,1.0,0.2011173184357542,1.0,0.25435540069686413,0.9899237216310387,,36.0,0.0,,1.0,1.0,,,0.9035813714055363,1,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0

@@ -1,0 +1,839 @@
+,community
+AINL,0
+AINR,1
+ASIR,2
+ASJR,3
+PVT,4
+RIAR,5
+RIH,6
+RIMR,7
+SMBVR,8
+ADER,9
+ASIL,10
+BDUR,11
+DVC,12
+AVFR,13
+CEPVR,14
+URYVR,15
+ADLR,16
+RMFL,17
+AIBR,18
+AVAR,19
+AIBL,20
+AIYR,21
+AUAR,22
+URXR,23
+AFDR,24
+BAGL,25
+ASEL,26
+RID,27
+RIML,28
+AVHR,29
+CEPVL,30
+ASKR,31
+AWCR,32
+ASGR,33
+BAGR,34
+ASJL,35
+URBL,36
+BDUL,37
+IL2DL,38
+PVQL,39
+AWCL,40
+RIS,41
+RIVR,42
+URYVL,43
+RIFL,44
+ASGL,45
+IL2DR,46
+SMBDL,47
+IL1R,48
+IL2VR,49
+RMDL,50
+RMDR,51
+RMDVL,52
+RMDVR,53
+SMBVL,54
+SMDDL,55
+SMDDR,56
+SMDVL,57
+SMDVR,58
+RIVL,59
+RICR,60
+ALNR,61
+CEPDR,62
+RMFR,63
+CEPDL,64
+ASHR,65
+AIYL,66
+AWBR,67
+SIADL,68
+SIBDL,69
+DVA,70
+SAAVL,71
+SIAVL,72
+PVPR,73
+URYDL,74
+AVBR,75
+OLLL,76
+AVAL,77
+AVDR,78
+AVEL,79
+AVER,80
+SIBVL,81
+URYDR,82
+AVBL,83
+AVDL,84
+OLLR,85
+OLQVR,86
+OLQDR,87
+SIBDR,88
+RICL,89
+ADAR,90
+AVKR,91
+SAADR,92
+AVKL,93
+SAADL,94
+SAAVR,95
+HSNL,96
+HSNR,97
+URAVR,98
+URBR,99
+AVHL,100
+AWAR,101
+RMGR,102
+RMHL,103
+RMHR,104
+ADAL,105
+ADFL,106
+URXL,107
+AWAL,108
+AVFL,109
+PVPL,110
+PLNL,111
+FLPR,112
+FLPL,113
+AVJL,114
+PVCR,115
+PVCL,116
+AVJR,117
+IL1L,118
+RMEV,119
+URAVL,120
+IL2L,121
+OLQVL,122
+URADR,123
+IL1DL,124
+SMBDR,125
+URADL,126
+ALA,127
+AVL,128
+PVQR,129
+ASKL,130
+AFDL,131
+AUAL,132
+AIML,133
+ALML,134
+ADLL,135
+ADFR,136
+RIAL,137
+SIADR,138
+IL2VL,139
+SIBVR,140
+OLQDL,141
+RIFR,142
+PVR,143
+ALMR,144
+SIAVR,145
+AWBL,146
+IL2R,147
+AVM,148
+I1L ,149
+ I3            ,150
+ I5            ,151
+ I6            ,152
+ M2L           ,153
+ M3L           ,154
+ M3R           ,155
+ MCR           ,156
+ MI            ,157
+ NSML          ,158
+I5 ,159
+I6 ,160
+M1 ,161
+ I2L         ,162
+ M3L         ,163
+ NSML        ,164
+ RIPL        ,165
+I1R ,166
+M2L ,167
+MI ,168
+I2L ,169
+I3 ,170
+I4 ,171
+M2R ,172
+NSML ,173
+M3L ,173
+ADFL ,174
+IL1L ,175
+RIPL ,176
+RIPR ,177
+RMED ,178
+URAVL ,179
+ I2R           ,180
+ M1            ,181
+ M2R           ,182
+ NSMR          ,183
+ I4            ,184
+ NSMR        ,185
+ I1R         ,186
+ M1          ,173
+ M2R         ,173
+ M2L         ,173
+ M5          ,187
+ I2R         ,188
+ I3          ,173
+ M3R         ,189
+ RIPR        ,190
+ I5          ,173
+ MCL         ,191
+ I1L         ,192
+ I4          ,173
+ MI          ,173
+ I6          ,173
+M5 ,173
+MCL ,193
+ AWBL          ,194
+ ADLL          ,195
+ AWCR          ,196
+ URXL          ,197
+ AUAL          ,198
+ AIAL          ,199
+ AIBL          ,200
+ AIBR          ,201
+ ADAL          ,202
+ RIAL          ,203
+ RIBL          ,204
+ RIGL          ,205
+ RIR           ,206
+ RIVL          ,207
+ SMBDL         ,208
+ SMBVL         ,209
+ASER ,210
+ASHL ,211
+SDQR ,212
+AIAL ,213
+ADAL ,214
+RIGL ,215
+RMGL ,216
+HSNL ,217
+ ASHL        ,218
+ AWCL        ,219
+ AFDL        ,220
+ AIZL        ,221
+ ADAL        ,250
+ RIAL        ,223
+ URBL        ,224
+ADLL ,225
+ASEL ,226
+ASHR ,227
+AFDL ,228
+AVHR ,229
+HSNR ,230
+ADFR ,231
+ADLR ,232
+ASIL ,233
+ASIR ,234
+AWCL ,235
+AIAR ,236
+AIBR ,237
+AIZL ,238
+AIZR ,239
+AFDR ,240
+CEPDL ,241
+AINR ,242
+IL2L ,243
+CEPVL ,244
+URXL ,245
+URYVL ,246
+AQR ,247
+AUAL ,248
+AIML ,249
+RIAL ,250
+RIR ,251
+URBL ,252
+DVA ,253
+IL2DL ,254
+RIBL ,255
+ASGL ,256
+ASKL ,257
+ASKR ,258
+AWBL ,259
+AWCR ,260
+AVFR ,261
+PVQL ,262
+PVQR ,263
+FLPL ,264
+BAGL ,265
+AIBL ,266
+ADAR ,267
+RIBR ,268
+RICR ,269
+RIGR ,270
+DVC ,271
+PVT ,272
+RIML ,273
+RIMR ,274
+SAADL ,275
+SAADR ,276
+SAAVL ,277
+ASGR ,278
+SDQL ,279
+AVBR ,280
+RMHR ,281
+SAAVR ,282
+SMDVR ,283
+URYDL ,284
+RIFR ,285
+RIH ,286
+SMBDL ,287
+FLPR ,288
+BDUL ,289
+ADEL ,290
+RICL ,291
+PVPL ,292
+IL2VL ,293
+CEPVR ,294
+BAGR ,295
+RIAR ,296
+AVAL ,297
+RMDDL ,298
+RMDL ,299
+RMDR ,300
+RIVL ,301
+RIVR ,302
+SMDDL ,303
+SMDDR ,304
+SMDVL ,305
+OLLL ,306
+AINL ,307
+RIS ,308
+ADER ,309
+AVKR ,310
+AVAR ,311
+AWAR ,312
+URXR ,313
+RMGR ,314
+PVPR ,315
+SABVL ,316
+AWBR ,317
+AVHL ,318
+AVKL ,319
+SMBDR ,320
+CEPDR ,321
+ALNR ,322
+URBR ,323
+SIADL ,324
+SMBVL ,325
+PLNL ,326
+PLNR ,327
+AVFL ,328
+SIAVL ,329
+SIBDL ,330
+OLLR ,331
+URYVR ,332
+RMEV ,333
+SIAVR ,334
+SIBVL ,335
+OLQDL ,336
+OLQVL ,337
+AVDR ,338
+AVEL ,339
+ ASHR          ,340
+ AWAR          ,341
+ AWBR          ,342
+ AFDR          ,343
+ AIYR          ,344
+ AIZR          ,345
+ RIH           ,346
+ ASEL          ,347
+ ASER          ,348
+ ASGL          ,349
+ ASHL          ,350
+ AWCL          ,173
+ OLQVL         ,351
+ RIPL          ,352
+ AVJR          ,353
+ AVAL          ,354
+ AVAR          ,355
+ AVBL          ,356
+ AVDL          ,357
+ AVDR          ,358
+ ADLR          ,359
+ AIAR          ,360
+ RICL          ,361
+ RICR          ,362
+ AVBR          ,363
+ AIYL          ,364
+ ASGR        ,365
+ AWBR        ,173
+ AFDR        ,173
+ PVQR        ,366
+ ADFL          ,367
+ AVFL          ,368
+ AVHR          ,369
+ RIML          ,370
+ HSNL          ,371
+ RMGL        ,372
+ ADFL        ,250
+ ASHR        ,250
+ ASKL        ,373
+ RICL        ,173
+ AVER          ,374
+ HSNR          ,375
+ ASJR          ,376
+ ASKR          ,377
+ CEPDL         ,378
+ PVQL          ,379
+ AIML          ,380
+ AIMR          ,381
+ RMDVL         ,382
+ SIBDL         ,383
+ RMGL          ,384
+ RMDR          ,385
+ URAVL         ,386
+ AVEL          ,387
+ RMHL          ,388
+ BAGR          ,389
+ RMHR          ,390
+ SIBDR         ,391
+ SIBVR         ,392
+ SMDDL         ,393
+ SMDDR         ,394
+ SMDVR         ,395
+ ALML          ,396
+ SIAVL         ,397
+ SDQL          ,398
+ RID           ,399
+ DVA           ,400
+ SAADL         ,401
+ RIVL        ,250
+ AIBL        ,250
+ ALMR        ,402
+ DVA         ,250
+ SDQL        ,403
+ AVBL        ,404
+ RIVR        ,405
+ SAADL       ,173
+ SIAVR       ,406
+ SIBDL       ,173
+ PVPL          ,407
+ RIVR          ,173
+ AIAR        ,408
+ AWCR        ,173
+ AWBL        ,250
+ ASIR        ,409
+ ASJL        ,410
+ ASIL        ,411
+ ADAR        ,412
+ AVDR        ,173
+ PVQL        ,173
+ OLQVL       ,250
+ AVFR          ,413
+ AIBR        ,250
+ OLLL        ,414
+ RIBL        ,415
+ RIGR        ,416
+ OLQDL       ,417
+ AVKL        ,418
+ BAGL        ,419
+ PVPL        ,250
+ URYDL       ,420
+ URYVL       ,421
+ RMFL        ,422
+ ADLL        ,173
+ IL2L        ,423
+ AVEL        ,250
+ URXL        ,250
+ RMDDR       ,424
+ ALML        ,425
+ AVFR        ,173
+ RMHL        ,426
+ HSNR        ,250
+ ADFR          ,427
+ ADAR          ,173
+ RIAR          ,428
+ AVHL          ,429
+ PVPR          ,430
+ SMBVR         ,431
+ AWAL          ,432
+ ADLR        ,173
+ AWAL        ,433
+ RIFR          ,434
+ PVCL          ,435
+ IL2R          ,436
+ ASGL        ,173
+ AINR          ,437
+ ASKR        ,173
+ AIZR        ,438
+ RICR        ,250
+ RMGR        ,439
+ AVHL        ,173
+ AVAR        ,173
+ AVER        ,440
+ PVQR          ,173
+ ASEL        ,173
+ AIYL        ,441
+ BDUR          ,442
+ AQR           ,443
+ PVT           ,444
+ RIMR          ,445
+ SABD          ,446
+ PHBL        ,447
+ PHAR        ,448
+ PHBR        ,449
+ AVG         ,450
+ DVC         ,451
+ PVPR        ,173
+ AVJL        ,452
+ AVJR        ,453
+ PVT         ,173
+ SIAVL       ,173
+ AVFL        ,250
+ AVL         ,454
+ SABVR         ,455
+ ALA         ,456
+ BDUR        ,457
+ OLQVR         ,458
+ BAGL          ,250
+ URXR          ,459
+ URYVR         ,460
+ AUAR          ,461
+ SMBDR         ,462
+ RIH         ,250
+ SMBVR       ,463
+ SMDVR       ,173
+ CEPVR         ,464
+ URBR          ,465
+ RIPR          ,466
+ SIBVL         ,467
+ RMFL          ,468
+ SAAVL         ,469
+ AINR        ,173
+ AIAL        ,470
+ ASGR          ,173
+ AIYR        ,471
+ ASIL          ,173
+ AUAL        ,250
+ ASIR          ,173
+ URYDL         ,250
+ SAAVR         ,472
+ SAADR         ,473
+ ADFR        ,250
+ RIGL        ,474
+ SMDDL       ,173
+ RIS         ,475
+ RIML        ,250
+ SIBVL       ,173
+ ASER        ,476
+ URBR        ,173
+ RMDVR       ,477
+ URADL         ,478
+ OLLL          ,250
+ OLQDL         ,250
+ CEPDR         ,479
+ RIS           ,250
+ AINL          ,480
+ AINL        ,173
+ ADER        ,481
+ IL2L          ,250
+ PVR           ,482
+ RMDDL         ,483
+ RMDVR         ,484
+ RMER          ,485
+ IL1L          ,486
+ IL1VL         ,487
+ URYVL         ,250
+ AVL           ,488
+ RMEV          ,489
+ ADEL          ,490
+ RMER        ,491
+ RMDL        ,492
+ URAVL       ,173
+ CEPVL         ,493
+ RIBR          ,494
+ SIAVR         ,173
+ BDUL          ,495
+ PVCR          ,496
+ PVDR          ,497
+ AVKR        ,498
+ AUAR        ,499
+ RMDVL       ,500
+ SIBVR       ,501
+ SMDVL       ,502
+ BAGR        ,250
+ IL1L        ,250
+ PVWL          ,503
+ PDER          ,504
+ PVR         ,505
+ SDQR        ,506
+ PVM         ,507
+ PDEL        ,508
+ PDER        ,509
+ PVCL        ,510
+ PVCR        ,511
+ SIADR       ,512
+ SAAVR       ,173
+ AVBR        ,250
+ PQR           ,513
+ PVWR          ,514
+ AVHR        ,250
+ AVDL        ,515
+ LUAR        ,516
+ PQR         ,517
+ PVWR        ,518
+ RMEL          ,519
+ RMED          ,520
+ DVC           ,250
+ RMEV        ,173
+ RIBR        ,521
+ SIADL       ,522
+ AIML        ,173
+ AVG           ,523
+ PVDL          ,524
+ LUAL        ,525
+ PHAL        ,526
+ ASJR        ,527
+ URYDR         ,528
+ URAVR         ,529
+ ADER          ,250
+ AVKL          ,250
+ FLPR          ,530
+ FLPR        ,173
+ FLPL          ,531
+ RIR         ,532
+ ALNR          ,533
+ RMED        ,534
+ SMDDR       ,250
+ FLPL        ,250
+ RIMR        ,250
+ OLQDR       ,535
+ OLQVR       ,536
+ SMBDR       ,250
+ SIBDR       ,537
+ URXR        ,250
+ RMHR        ,250
+ OLLR        ,538
+ ADEL        ,539
+ URYDR       ,540
+ AQR         ,541
+ PVDR        ,542
+ DVB         ,543
+ AVAL        ,250
+ SMBDL       ,250
+ PLNL          ,544
+ SABD        ,545
+ SABVL         ,546
+ SMBVL       ,250
+ RIAR        ,250
+ SAAVL       ,250
+ IL2VR         ,547
+ OLQDR         ,548
+ CEPVL       ,250
+ SDQR          ,549
+ PDB         ,550
+ IL1DR         ,551
+ IL1R          ,552
+ IL1VR         ,553
+ AIMR        ,554
+ IL2VR       ,555
+ LUAR          ,556
+ LUAL          ,557
+ RMDDL       ,558
+ PHCL        ,559
+ PHCR        ,560
+ URYVR       ,250
+ SABVR       ,561
+ IL1VL       ,562
+ SAADR       ,250
+ ALNR        ,173
+ ALNL        ,563
+ RMDR        ,250
+ IL2DR       ,564
+ IL2VL       ,565
+ PVDL        ,566
+ SABVL       ,173
+ ALMR          ,567
+ IL2R        ,568
+ RIFR        ,250
+ PVWL        ,569
+ AVM           ,570
+ URADR         ,571
+ PLNR          ,572
+ PLML        ,573
+ PLMR        ,574
+ DVB           ,575
+ IL1DR       ,576
+ IL1DL       ,577
+AIYR ,250
+AIMR ,578
+AVJL ,579
+PVCL ,250
+IL2R ,250
+IL2VR ,250
+RMDVL ,250
+SIBVR ,173
+AUAR ,250
+IL1R ,580
+URYDR ,250
+AVER ,250
+URAVR ,581
+PVR ,250
+OLQVR ,250
+ALA ,582
+RMDVR ,250
+SMBVR ,250
+OLQDR ,250
+URADL ,583
+AVM ,584
+BDUR ,173
+PQR ,173
+PHAL ,585
+PVCR ,173
+AVL ,250
+AVBL ,250
+ALML ,250
+SIADR ,586
+AVDL ,250
+ CEPVR       ,250
+ IL1R        ,250
+ IL1VR       ,587
+ PVM           ,588
+ AVM         ,173
+ CEPDL       ,250
+ PHAR          ,589
+ PHBR          ,590
+ PLNL        ,173
+ BDUL        ,250
+IL1VL ,591
+ASJL ,592
+IL1DL ,593
+IL2DR ,594
+AVG ,173
+AVJR ,250
+LUAL ,173
+RIFL ,595
+LUAR ,173
+PVDL ,173
+PVDR ,173
+PHBL ,596
+PHBR ,173
+PHCL ,597
+PVWR ,173
+RMHL ,250
+ALMR ,250
+PDER ,173
+DVB ,173
+PVWL ,173
+RMDDR ,598
+PDB ,599
+PLML ,173
+PLMR ,173
+ PHAL          ,173
+ PDB           ,173
+ PHCR          ,600
+ PLNR        ,601
+IL1DR ,602
+RMEL ,603
+URADR ,604
+PVM ,173
+PHCR ,173
+ PHCL          ,173
+SABVR ,173
+RID ,605
+RMER ,606
+SABD ,173
+SIBDR ,250
+ PDEL          ,607
+PDEL ,173
+PLNR,250
+ALNL,608
+I2R ,173
+NSMR ,173
+M3R ,173
+MCR ,609
+AWAL ,250
+AIYL ,250
+ALNL ,610
+RMFL ,250
+IL1VR ,611
+RMFR ,612
+PHAR ,173
+ASJR ,250
+RIBL,250
+RIBR,250
+RIGR,613
+AIAR,250
+ASER,250
+RIGL,250
+IL1VR,250
+RMDDL,250
+RMDDR,614
+RMGL,250
+AIZL,615
+AIZR,250
+AQR,250
+RMED,250
+ASHL,250
+RIPR,250
+SDQR,250
+SDQL,250
+RMER,250
+IL1VL,250
+RIPL,250
+RIR,250
+ADEL,250
+AIAL,250
+AIMR,250
+RMEL,616
+IL1DR,250
+CANR,173
+ I2L           ,173
+ MCL           ,173
+ MCR         ,173
+ I1L           ,173
+ I1R           ,173
+ AFDL          ,250
+ AIZL          ,250
+ RIGR          ,250
+ SMDVL         ,250
+ AVJL          ,250
+ ASJL          ,250
+ ASKL          ,250
+ RMGR          ,250
+ RMDDR         ,250
+ RMDL          ,250
+ SIADR         ,250
+ RIFL          ,617
+ SIADL         ,250
+ AVKR          ,250
+ ALNL          ,250
+ RMEL        ,250
+ RIFL        ,250
+ ALA           ,250
+ OLLR          ,250
+ AWAR        ,250
+ HSNL        ,250
+ IL2DL         ,222
+ URBL          ,250
+ IL1DL         ,250
+ URADL       ,250
+ IL2DR         ,250
+ RMFR          ,250
+ RID         ,250
+ IL2VL         ,250
+ URAVR       ,250
+ URADR       ,250
+ CEPDR       ,250
+ IL2DL       ,250
+ PHBL          ,173

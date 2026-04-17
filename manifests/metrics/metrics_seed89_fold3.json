@@ -1,0 +1,27 @@
+{
+  "seed": 89,
+  "fold": 3,
+  "train": {
+    "macro_f1": 0.09422329231317994,
+    "weighted_f1": 0.021018312253626475,
+    "balanced_acc": 0.374717941331797,
+    "accuracy": 0.06907477820025348,
+    "per_class_f1": {
+      "0": 0.0,
+      "1": 0.23314606741573032,
+      "2": 0.049523809523809526
+    },
+    "majority_balAcc": 0.3333333333333333
+  },
+  "val": {
+    "macro_f1": 1.0,
+    "weighted_f1": 1.0,
+    "balanced_acc": 1.0,
+    "accuracy": 1.0,
+    "per_class_f1": {
+      "2": 1.0
+    },
+    "majority_balAcc": 1.0
+  },
+  "best_epoch": 0
+}

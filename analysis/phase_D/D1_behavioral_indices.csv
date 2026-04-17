@@ -1,0 +1,6 @@
+label,forward_minus_backward,freq_forward,freq_backward,freq_turning,duty_forward,duty_backward,duty_turning
+Basal,-0.037792339383195594,5,5,5,0.49,0.49,0.5
+True_NPR10,-0.0515556732925766,6,6,6,0.5,0.5,0.5
+Pred_NPR10,0.03440925478935242,5,5,5,0.5,0.5,0.5
+Ridge_NPR10,-0.05108615798501748,5,5,5,0.5,0.5,0.5
+Identity_NPR10,-0.037792339383195594,5,5,5,0.49,0.49,0.5

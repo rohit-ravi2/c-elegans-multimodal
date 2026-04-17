@@ -1,0 +1,9 @@
+{
+  "gene_expr": "/home/rohit/Desktop/Projects/C-Elegans/phase3_outputs/gene_expr_resolved.csv",
+  "edges": "/home/rohit/Desktop/Projects/C-Elegans/merged_edges_with_relatedness.csv",
+  "neuron_meta": "neuron_metadata.csv",
+  "motif_prof": "motif_participation_profiles.csv",
+  "motif_instances": null,
+  "wormbase_xref": null,
+  "gene_anno": null
+}

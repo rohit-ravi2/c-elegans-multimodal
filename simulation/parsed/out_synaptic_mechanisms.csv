@@ -1,0 +1,93 @@
+FilePath,Tag,MechanismName,Params
+./data/temp/Serotonin_Glutamate.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Serotonin_Glutamate.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin_Glutamate,{}
+./data/temp/Serotonin_Glutamate.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Serotonin_Glutamate.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Dopamine.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Dopamine.xml,{http://morphml.org/channelml/schema}synapse_type,Dopamine,{}
+./data/temp/Dopamine.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Dopamine.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Serotonin.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Serotonin.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin,{}
+./data/temp/Serotonin.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Serotonin.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Octapamine.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Octapamine.xml,{http://morphml.org/channelml/schema}synapse_type,Octapamine,{}
+./data/temp/Octapamine.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Octapamine.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Acetylcholine_GJ,{}
+./data/temp/Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/Acetylcholine.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Acetylcholine.xml,{http://morphml.org/channelml/schema}synapse_type,Acetylcholine,{}
+./data/temp/Acetylcholine.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Acetylcholine.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/LeakConductance.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/LeakConductance.xml,{http://morphml.org/channelml/schema}channel_type,LeakConductance,{'density': 'yes'}
+./data/temp/LeakConductance.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/LeakConductance.xml,{http://morphml.org/channelml/schema}current_voltage_relation,,"{'cond_law': 'ohmic', 'ion': 'non_specific', 'default_erev': '-65', 'default_gmax': '0.25'}"
+./data/temp/Octapamine_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Octapamine_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Octapamine_GJ,{}
+./data/temp/Octapamine_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Octapamine_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/Serotonin_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Serotonin_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin_GJ,{}
+./data/temp/Serotonin_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Serotonin_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/GABA.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/GABA.xml,{http://morphml.org/channelml/schema}synapse_type,GABA,{}
+./data/temp/GABA.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/GABA.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '-70'}"
+./data/temp/ElectSyn.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/ElectSyn.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin_Acetylcholine_GJ,{}
+./data/temp/ElectSyn.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/ElectSyn.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/FMRFamide_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/FMRFamide_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,FMRFamide_GJ,{}
+./data/temp/FMRFamide_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/FMRFamide_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/GABA_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/GABA_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,GABA_GJ,{}
+./data/temp/GABA_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/GABA_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/Serotonin_Glutamate_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Serotonin_Glutamate_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin_Glutamate_GJ,{}
+./data/temp/Serotonin_Glutamate_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Serotonin_Glutamate_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/Acetylcholine_Tyramine.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Acetylcholine_Tyramine.xml,{http://morphml.org/channelml/schema}synapse_type,Acetylcholine_Tyramine,{}
+./data/temp/Acetylcholine_Tyramine.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Acetylcholine_Tyramine.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Dopamine_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Dopamine_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Dopamine_GJ,{}
+./data/temp/Dopamine_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Dopamine_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/Acetylcholine_Tyramine_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Acetylcholine_Tyramine_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Acetylcholine_Tyramine_GJ,{}
+./data/temp/Acetylcholine_Tyramine_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Acetylcholine_Tyramine_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/DoubExpSyn.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/DoubExpSyn.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin,{}
+./data/temp/DoubExpSyn.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/DoubExpSyn.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Serotonin_Acetylcholine.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Serotonin_Acetylcholine.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin_Acetylcholine,{}
+./data/temp/Serotonin_Acetylcholine.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Serotonin_Acetylcholine.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/FMRFamide.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/FMRFamide.xml,{http://morphml.org/channelml/schema}synapse_type,FMRFamide,{}
+./data/temp/FMRFamide.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/FMRFamide.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Glutamate.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Glutamate.xml,{http://morphml.org/channelml/schema}synapse_type,Glutamate,{}
+./data/temp/Glutamate.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Glutamate.xml,{http://morphml.org/channelml/schema}doub_exp_syn,,"{'max_conductance': '0.01e-6', 'rise_time': '1', 'decay_time': '2', 'reversal_potential': '0'}"
+./data/temp/Serotonin_Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Serotonin_Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Serotonin_Acetylcholine_GJ,{}
+./data/temp/Serotonin_Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Serotonin_Acetylcholine_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}
+./data/temp/Glutamate_GJ.xml,{http://morphml.org/channelml/schema}channelml,,"{'{http://www.w3.org/2001/XMLSchema-instance}schemaLocation': 'http://morphml.org/channelml/schema  http://www.neuroml.org/NeuroMLValidator/NeuroMLFiles/Schemata/v1.8.1/Level2/ChannelML_v1.8.1.xsd', 'units': 'Physiological Units'}"
+./data/temp/Glutamate_GJ.xml,{http://morphml.org/channelml/schema}synapse_type,Glutamate_GJ,{}
+./data/temp/Glutamate_GJ.xml,{http://morphml.org/channelml/schema}status,,{'value': 'in_progress'}
+./data/temp/Glutamate_GJ.xml,{http://morphml.org/channelml/schema}electrical_syn,,{'conductance': '1.00E-9'}

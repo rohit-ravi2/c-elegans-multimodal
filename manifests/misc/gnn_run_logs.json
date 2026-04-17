@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "sage_random_seed13",
+    "seconds": 1.991857702989364
+  },
+  {
+    "tag": "sage_lineage_blocked_seed13",
+    "seconds": 0.8286917069926858
+  },
+  {
+    "tag": "sage_random_seed21",
+    "seconds": 0.7561919940053485
+  },
+  {
+    "tag": "sage_lineage_blocked_seed21",
+    "seconds": 0.8045362500124611
+  },
+  {
+    "tag": "sage_random_seed34",
+    "seconds": 0.783512180991238
+  },
+  {
+    "tag": "sage_lineage_blocked_seed34",
+    "seconds": 0.9775577659893315
+  },
+  {
+    "tag": "sage_random_seed55",
+    "seconds": 0.7633424420200754
+  },
+  {
+    "tag": "sage_lineage_blocked_seed55",
+    "seconds": 1.0223806949798018
+  },
+  {
+    "tag": "sage_random_seed89",
+    "seconds": 0.8192648690019269
+  },
+  {
+    "tag": "sage_lineage_blocked_seed89",
+    "seconds": 0.9990034429938532
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "tau_counts": "PhaseA_artifacts/A12_tau_robustness_counts.csv",
+  "gold_edges": "PhaseA_artifacts/A12_gold_edges_tau0.70_FDR05.csv",
+  "seed_consistency": "PhaseA_artifacts/A12_seed_consistency.csv",
+  "null_randomizedW_obs": "PhaseA_artifacts/A13_null_randomizedW_observed.csv",
+  "null_randomizedW_runs": "PhaseA_artifacts/A13_null_randomizedW_runs.csv",
+  "null_random_triplets": "PhaseA_artifacts/A13_null_random_triplets.csv",
+  "linearity_residuals": "PhaseA_artifacts/A13_linearity_residuals.csv",
+  "decoding_accuracy": "PhaseA_artifacts/A14_decoding_accuracy.csv",
+  "bootstrap_CIs": "PhaseA_artifacts/A14_bootstrap_CIs.csv",
+  "source_stability": "PhaseA_A5_stability.csv",
+  "source_dml": "PhaseA_A6_effects_DML.csv",
+  "source_combo_summary": "PhaseA_A11_combo_summary.csv"
+}

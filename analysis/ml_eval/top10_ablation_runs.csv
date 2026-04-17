@@ -1,0 +1,11 @@
+abla,seed,fold,val_macroF1,val_balAcc,val_weightedF1
+core_only,13,0,1.0,1.0,1.0
+core+topo,34,0,1.0,1.0,1.0
+topo_only,21,3,1.0,1.0,1.0
+topo_only,34,0,1.0,1.0,1.0
+topo_only,34,3,1.0,1.0,1.0
+core+topo,13,3,1.0,1.0,1.0
+core+topo,21,0,1.0,1.0,1.0
+core+topo,21,3,1.0,1.0,1.0
+core+topo,34,3,1.0,1.0,1.0
+topo_only,13,3,1.0,1.0,1.0

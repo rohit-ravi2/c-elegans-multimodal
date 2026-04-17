@@ -1,0 +1,212 @@
+[
+  {
+    "mode": "random",
+    "model": "logreg",
+    "seed": 13,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "linsvm",
+    "seed": 13,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "mlp",
+    "seed": 13,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "logreg",
+    "seed": 13,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "linsvm",
+    "seed": 13,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "mlp",
+    "seed": 13,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "logreg",
+    "seed": 21,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "linsvm",
+    "seed": 21,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "mlp",
+    "seed": 21,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "logreg",
+    "seed": 21,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "linsvm",
+    "seed": 21,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "mlp",
+    "seed": 21,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "logreg",
+    "seed": 34,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "linsvm",
+    "seed": 34,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "mlp",
+    "seed": 34,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "logreg",
+    "seed": 34,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "linsvm",
+    "seed": 34,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "mlp",
+    "seed": 34,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "logreg",
+    "seed": 55,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "linsvm",
+    "seed": 55,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "mlp",
+    "seed": 55,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "logreg",
+    "seed": 55,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "linsvm",
+    "seed": 55,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "mlp",
+    "seed": 55,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "logreg",
+    "seed": 89,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "linsvm",
+    "seed": 89,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "random",
+    "model": "mlp",
+    "seed": 89,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "logreg",
+    "seed": 89,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "linsvm",
+    "seed": 89,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 31, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"])\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  },
+  {
+    "mode": "lineage_blocked",
+    "model": "mlp",
+    "seed": 89,
+    "error": "Specifying the columns using strings is only supported for dataframes.",
+    "traceback": "Traceback (most recent call last):\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/utils/_indexing.py\", line 341, in _get_column_indices\n    all_columns = X.columns\nAttributeError: 'numpy.ndarray' object has no attribute 'columns'\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_576852/717860724.py\", line 29, in <module>\n    pipe.fit(bundle[\"X_tr\"], bundle[\"y_tr\"], clf__sample_weight=sw)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/base.py\", line 1389, in wrapper\n    return fit_method(estimator, *args, **kwargs)\n  File \"/home/rohit/.local/lib/python3.10/site-packages/sklearn/pipeline.py\", line 654, in fit\n    Xt = self._fit(X, y, routed_params, raw_params=params)\nValueError: Specifying the columns using strings is only supported for dataframes.\n"
+  }
+]

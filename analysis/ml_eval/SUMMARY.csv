@@ -1,0 +1,4 @@
+item,value
+Gold edges (stable∩significant),1946
+Decoding accuracy (4 top triplets),0.167
+Bootstrap CI combos,"ASEL+ASER+ASHL, ASER+ASHL+AWCL, AWCR+ASER+ASHL, ALMR+ASER+ASHL"

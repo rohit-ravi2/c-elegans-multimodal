@@ -1,0 +1,1534 @@
+,motif_count
+AINL,94
+AINR,94
+CEPshVR,79
+CEPshDL,50
+CEPshVL,45
+ASIR,71
+CEPshDR,44
+ASJR,78
+PVT,149
+RIAR,140
+RIH,215
+BWM-VR04,99
+RIMR,189
+SMBVR,102
+ADER,138
+ASIL,101
+BDUR,72
+DVC,150
+AVFR,137
+CEPVR,105
+URYVR,163
+ADLR,87
+PVNL,132
+RMFL,157
+AIBR,216
+AVAR,103
+AIBL,171
+AIYR,157
+AUAR,134
+URXR,154
+AFDR,95
+BAGL,160
+ASEL,137
+RID,71
+RIML,172
+AVHR,133
+CEPVL,151
+ASKR,123
+AWCR,129
+ASGR,77
+BAGR,177
+ASJL,93
+URBL,106
+BDUL,113
+IL2DL,110
+PVQL,124
+AWCL,136
+RIS,153
+RIVR,146
+URYVL,141
+RIFL,137
+ASGL,96
+IL2DR,89
+SMBDL,135
+IL1R,156
+BWM-VR01,54
+IL2VR,104
+GLRVL,45
+RMDL,151
+RMDR,159
+RMDVL,158
+RMDVR,153
+SMBVL,111
+SMDDL,111
+SMDDR,158
+SMDVL,126
+SMDVR,91
+RIVL,147
+RICR,161
+ALNR,76
+CEPDR,113
+RMFR,197
+CEPDL,152
+ASHR,174
+AIYL,182
+AWBR,146
+SIADL,58
+SIBDL,66
+DVA,183
+SAAVL,130
+SIAVL,68
+PVPR,108
+URYDL,152
+AVBR,147
+OLLL,168
+AVAL,134
+AVDR,86
+AVEL,185
+AVER,164
+SIBVL,66
+URYDR,128
+AVBL,138
+AVDL,105
+OLLR,145
+OLQVR,136
+OLQDR,135
+SIBDR,80
+RICL,124
+BWM-VL06,52
+ADAR,135
+AVKR,176
+SAADR,145
+AVKL,156
+SAADL,117
+SAAVR,96
+HSNL,200
+HSNR,144
+URAVR,109
+URBR,74
+AVHL,142
+AWAR,120
+RMGR,148
+RMHL,127
+RMHR,136
+ADAL,170
+ADFL,172
+URXL,167
+AWAL,115
+AVFL,129
+PVPL,158
+PLNL,78
+FLPR,94
+FLPL,142
+AVJL,99
+PVCR,97
+PVCL,125
+AVJR,135
+IL1L,157
+GLRL,51
+GLRDR,45
+GLRVR,31
+RMEV,103
+URAVL,100
+IL2L,140
+OLQVL,143
+URADR,101
+IL1DL,127
+BWM-DL02,46
+BWM-DL03,56
+SMBDR,124
+URADL,79
+BWM-DL01,70
+BWM-DR01,70
+BWM-DR03,35
+ALA,53
+AVL,91
+PVQR,95
+ASKL,130
+AFDL,103
+AUAL,126
+AIML,105
+ALML,102
+ADLL,117
+BWM-DR02,77
+BWM-VR02,69
+ADFR,144
+RIAL,183
+SIADR,57
+IL2VL,107
+SIBVR,73
+OLQDL,142
+BWM-VL04,87
+BWM-DL04,53
+BWM-DL06,57
+RIFR,133
+BWM-DR04,88
+BWM-DR06,61
+PVR,102
+ALMR,95
+SIAVR,53
+PVNR,90
+AWBL,192
+IL2R,122
+GLRR,74
+GLRDL,45
+BWM-VR08,25
+BWM-VR05,55
+BWM-VR06,28
+BWM-VR07,26
+AVM,70
+BWM-DR08,26
+BWM-VL05,55
+BWM-VL02,59
+BWM-VL03,72
+BWM-VL07,32
+BWM-VL08,28
+BWM-DL05,62
+BWM-DR05,67
+BWM-DL08,35
+BWM-DL07,50
+excgl,7
+I1L ,6
+ I3            ,6
+ I5            ,6
+ I6            ,5
+ M2L           ,5
+ M3L           ,3
+ M3R           ,6
+ MCR           ,5
+ MI            ,6
+ NSML          ,6
+ pm1vl         ,2
+ pm4vl         ,5
+I5 ,6
+I6 ,6
+M1 ,6
+ I2L         ,5
+ M3L         ,5
+ NSML        ,4
+ pm4vl       ,5
+ RIPL        ,5
+I1R ,6
+M2L ,6
+MI ,6
+I2L ,6
+I3 ,6
+I4 ,6
+M2R ,6
+M4 ,6
+NSML ,3
+M3L ,5
+ADFL ,6
+IL1L ,5
+RIPL ,6
+RIPR ,6
+RMED ,4
+URAVL ,6
+pm4d ,6
+pm3vl ,5
+mc1dl ,5
+mc1v ,5
+ I2R           ,5
+ M1            ,6
+ M2R           ,4
+ NSMR          ,5
+ pm5vr         ,5
+ I4            ,5
+ pm5d          ,5
+ pm5vl         ,6
+ M4            ,6
+ NSMR        ,5
+ I1R         ,6
+ M1          ,4
+ M2R         ,6
+ M2L         ,5
+ M5          ,5
+ M4          ,5
+ pm2d          ,3
+ I2R         ,6
+ I3          ,5
+ pm5d        ,6
+ M3R         ,6
+ pm3vr       ,5
+ pm4vr       ,5
+ RIPR        ,5
+ pm5vl       ,4
+ I5          ,3
+ MCL         ,2
+ pm4d        ,5
+ I1L         ,5
+ I4          ,6
+ MI          ,4
+ pm5vr       ,6
+ I6          ,2
+M5 ,6
+pm3vr ,6
+pm5vr ,4
+mc1dr ,5
+ pm6d          ,2
+ pm6vr         ,2
+ pm7vr         ,2
+ pm6vr       ,4
+MCL ,4
+pm4vl ,6
+pm3d ,3
+pm6d ,5
+mc2dl ,5
+mc2dr ,6
+pm6vl ,5
+pm6vr ,6
+mc3dr ,5
+mc3v ,6
+ mc2v          ,3
+ mc2dr         ,3
+ AWBL          ,6
+ ADLL          ,6
+ AWCR          ,6
+ URXL          ,6
+ AUAL          ,6
+ AIAL          ,3
+ AIBL          ,6
+ AIBR          ,3
+ ADAL          ,6
+ RIAL          ,6
+ RIBL          ,5
+ RIGL          ,6
+ RIR           ,5
+ RIVL          ,5
+ SMBDL         ,6
+ SMBVL         ,3
+ASER ,6
+ASHL ,6
+SDQR ,6
+AIAL ,6
+ADAL ,4
+RIGL ,6
+RMGL ,6
+HSNL ,6
+ ASHL        ,5
+ AWCL        ,3
+ AFDL        ,6
+ AIZL        ,6
+ ADAL        ,5
+ RIAL        ,4
+ URBL        ,5
+ADLL ,6
+ASEL ,6
+ASHR ,6
+AFDL ,6
+AVHR ,6
+HSNR ,6
+ADFR ,6
+ADLR ,6
+ASIL ,6
+ASIR ,5
+AWCL ,6
+AIAR ,5
+AIBR ,6
+AIZL ,6
+AIZR ,6
+AFDR ,6
+CEPDL ,6
+AINR ,6
+IL2L ,6
+CEPVL ,6
+URXL ,6
+URYVL ,6
+AQR ,6
+AUAL ,6
+AIML ,6
+RIAL ,6
+RIR ,6
+URBL ,6
+DVA ,6
+PVNR ,6
+IL2DL ,6
+RIBL ,6
+ASGL ,6
+ASKL ,6
+ASKR ,6
+AWBL ,6
+AWCR ,6
+AVFR ,6
+PVQL ,6
+PVQR ,6
+FLPL ,6
+BAGL ,6
+AIBL ,6
+ADAR ,6
+RIBR ,6
+RICR ,6
+RIGR ,6
+DVC ,6
+PVT ,6
+RIML ,6
+RIMR ,6
+SAADL ,6
+SAADR ,6
+SAAVL ,6
+ASGR ,6
+SDQL ,6
+AVBR ,6
+RMHR ,6
+SAAVR ,6
+SMDVR ,6
+VB01 ,5
+URYDL ,6
+RIFR ,6
+RIH ,6
+SMBDL ,6
+FLPR ,6
+BDUL ,6
+ADEL ,6
+RICL ,6
+PVPL ,6
+IL2VL ,6
+CEPVR ,6
+BAGR ,6
+RIAR ,6
+AVAL ,6
+RMDDL ,6
+RMDL ,6
+RMDR ,6
+RIVL ,6
+RIVR ,3
+SMDDL ,6
+SMDDR ,6
+SMDVL ,6
+OLLL ,6
+AINL ,6
+RIS ,6
+ADER ,6
+AVKR ,6
+AVAR ,6
+AWAR ,6
+URXR ,6
+RMGR ,6
+PVPR ,6
+SABVL ,6
+AWBR ,6
+AVHL ,6
+AVKL ,6
+SMBDR ,6
+CEPDR ,6
+ALNR ,6
+URBR ,6
+SIADL ,6
+SMBVL ,6
+PLNL ,6
+PLNR ,6
+AVFL ,6
+SIAVL ,6
+SIBDL ,6
+OLLR ,6
+URYVR ,6
+RMEV ,6
+SIAVR ,5
+SIBVL ,6
+OLQDL ,6
+OLQVL ,6
+AVDR ,6
+AVEL ,6
+ ASHR          ,6
+ AWAR          ,6
+ AWBR          ,6
+ AFDR          ,5
+ AIYR          ,6
+ AIZR          ,6
+ RIH           ,6
+ ASEL          ,6
+ ASER          ,5
+ ASGL          ,5
+ ASHL          ,5
+ AWCL          ,5
+ OLQVL         ,5
+ RIPL          ,5
+ AVJR          ,6
+ AVAL          ,5
+ AVAR          ,6
+ AVBL          ,6
+ AVDL          ,5
+ AVDR          ,6
+ ADLR          ,6
+ AIAR          ,6
+ RICL          ,6
+ RICR          ,6
+ AVBR          ,6
+ AIYL          ,6
+ ASGR        ,6
+ AWBR        ,6
+ AFDR        ,5
+ PVQR        ,6
+ ADFL          ,5
+ AVFL          ,6
+ AVHR          ,5
+ RIML          ,6
+ HSNL          ,5
+ RMGL        ,6
+ ADFL        ,6
+ ASHR        ,6
+ ASKL        ,6
+ RICL        ,3
+ AVER          ,5
+ HSNR          ,6
+ ASJR          ,6
+ ASKR          ,6
+ CEPDL         ,6
+ PVQL          ,6
+ AIML          ,6
+ AIMR          ,3
+ RMDVL         ,6
+ SIBDL         ,5
+ RMGL          ,6
+ RMDR          ,3
+ URAVL         ,5
+ dBWML4        ,6
+ dBWML5        ,5
+ AVEL          ,6
+ RMHL          ,6
+ BAGR          ,6
+ RMHR          ,6
+ SIBDR         ,6
+ SIBVR         ,3
+ SMDDL         ,6
+ SMDDR         ,6
+ SMDVR         ,6
+ ALML          ,6
+ SIAVL         ,5
+ vBWML5        ,5
+ SDQL          ,5
+ RID           ,5
+ DVA           ,6
+ SAADL         ,5
+ vBWMR7        ,5
+ RIVL        ,5
+ AIBL        ,6
+ ALMR        ,5
+ DVA         ,6
+ SDQL        ,6
+ AVBL        ,6
+ RIVR        ,5
+ SAADL       ,5
+ SIAVR       ,6
+ SIBDL       ,5
+ PVPL          ,6
+ hyp           ,5
+ RIVR          ,6
+ AIAR        ,6
+ AWCR        ,5
+ AWBL        ,5
+ ASIR        ,4
+ ASJL        ,4
+ ASIL        ,4
+ ADAR        ,6
+ AVDR        ,6
+ PVQL        ,6
+ OLQVL       ,6
+ AVFR          ,6
+ AIBR        ,6
+ OLLL        ,3
+ RIBL        ,6
+ RIGR        ,5
+ OLQDL       ,5
+ AVKL        ,6
+ BAGL        ,5
+ PVPL        ,6
+ URYDL       ,4
+ URYVL       ,3
+ RMFL        ,5
+ VD01        ,5
+ ADLL        ,6
+ IL2L        ,6
+ AVEL        ,6
+ URXL        ,4
+ RMDDR       ,6
+ ALML        ,6
+ AVFR        ,6
+ RMHL        ,4
+ vBWML11       ,6
+ vBWML16       ,6
+ vBWML15       ,3
+ vBWMR11       ,5
+ VC05          ,5
+ vm2aL         ,5
+ vm2pR         ,5
+ HSNR        ,5
+ ADFR          ,3
+ ADAR          ,3
+ RIAR          ,6
+ AVHL          ,6
+ PVPR          ,6
+ SMBVR         ,5
+ AWAL          ,5
+ ADLR        ,6
+ AWAL        ,5
+ hyp         ,6
+ RIFR          ,5
+ PVCL          ,6
+ IL2R          ,3
+ ASGL        ,6
+ AINR          ,5
+ ASKR        ,6
+ AIZR        ,5
+ RICR        ,4
+ RMGR        ,5
+ AVHL        ,6
+ AVAR        ,6
+ AVER        ,6
+ PVQR          ,6
+ ASEL        ,5
+ AIYL        ,5
+ BDUR          ,5
+ PVNR          ,3
+ vBWMR10       ,6
+ AQR           ,6
+ PVT           ,6
+ RIMR          ,6
+ VA06          ,3
+ SABD          ,5
+ vBWMR9        ,5
+ PHBL        ,6
+ PHAR        ,4
+ PHBR        ,6
+ PVNL        ,6
+ AVG         ,6
+ DVC         ,6
+ PVPR        ,6
+ AVJL        ,6
+ AVJR        ,6
+ PVNR        ,6
+ PVT         ,6
+ DA08        ,6
+ SIAVL       ,6
+ AS11        ,6
+ VA11        ,6
+ VD12        ,6
+ AVFL        ,6
+ AVL         ,6
+ DD06        ,5
+ SABVR         ,6
+ VC02          ,6
+ DA05          ,5
+ DA06          ,5
+ AS05          ,5
+ VC03          ,6
+ vBWMR15       ,6
+ vBWMR16       ,6
+ ALA         ,5
+ BDUR        ,4
+ OLQVR         ,6
+ BAGL          ,6
+ URXR          ,6
+ URYVR         ,6
+ AUAR          ,6
+ SMBDR         ,6
+ RIH         ,5
+ SMBVR       ,6
+ SMDVR       ,5
+ CEPVR         ,6
+ URBR          ,5
+ RIPR          ,5
+ SIBVL         ,6
+ RMFL          ,6
+ SAAVL         ,5
+ AINR        ,6
+ AIAL        ,5
+ ASGR          ,5
+ AIYR        ,5
+ ASIL          ,6
+ AUAL        ,6
+ ASIR          ,5
+ URYDL         ,3
+ vBWML7        ,5
+ SAAVR         ,5
+ SAADR         ,6
+ VB01          ,6
+ ADFR        ,6
+ RIGL        ,6
+ SMDDL       ,6
+ RIS         ,6
+ RIML        ,6
+ VB02          ,3
+ SIBVL       ,5
+ ASER        ,5
+ URBR        ,6
+ RMDVR       ,6
+ URADL         ,5
+ OLLL          ,6
+ OLQDL         ,5
+ CEPDR         ,5
+ RIS           ,5
+ AINL          ,6
+ AINL        ,4
+ ADER        ,6
+ IL2L          ,4
+ PVR           ,5
+ RMDDL         ,6
+ RMDVR         ,3
+ RMER          ,6
+ IL1L          ,6
+ IL1VL         ,5
+ URYVL         ,5
+ AVL           ,6
+ RMEV          ,6
+ ADEL          ,4
+ RMER        ,6
+ RMDL        ,5
+ URAVL       ,6
+ CEPVL         ,6
+ RIBR          ,3
+ SIAVR         ,6
+ BDUL          ,5
+ PVCR          ,5
+ VA02          ,6
+ PVDR          ,3
+ VA12          ,6
+ AVKR        ,6
+ DB07          ,6
+ AUAR        ,6
+ RMDVL       ,5
+ SIBVR       ,6
+ SMDVL       ,6
+ BAGR        ,3
+ IL1L        ,6
+ VA11          ,6
+ PVWL          ,3
+ PDER          ,5
+ DA02          ,6
+ DB02          ,6
+ DB03          ,6
+ VA08          ,4
+ VB11          ,5
+ PVR         ,6
+ SDQR        ,6
+ PVM         ,6
+ PDEL        ,6
+ PDER        ,5
+ PVCL        ,6
+ PVCR        ,6
+ SIADR       ,6
+ DA09        ,6
+ SAAVR       ,6
+ AVBR        ,6
+ DB07        ,5
+ DB01        ,6
+ DB06        ,6
+ VD13          ,6
+ PQR           ,4
+ PVWR          ,5
+ DD02          ,6
+ VD04          ,6
+ VD06          ,5
+ VD07          ,6
+ AVHR        ,6
+ AVDL        ,6
+ LUAR        ,6
+ PQR         ,6
+ PVWR        ,6
+ VD13        ,6
+ VC06        ,6
+ RMEL          ,6
+ RMED          ,6
+ DVC           ,6
+ RMEV        ,5
+ RIBR        ,6
+ SIADL       ,5
+ AIML        ,3
+ DD01          ,5
+ AVG           ,5
+ PVDL          ,6
+ DA08          ,5
+ vBWML12       ,6
+ vBWMR14       ,6
+ VB01        ,5
+ VD01          ,5
+ DD06          ,6
+ LUAL        ,6
+ PHAL        ,6
+ ASJR        ,5
+ DA07        ,5
+ dBWML3        ,5
+ dBWML6        ,6
+ URYDR         ,5
+ dBWMR3        ,6
+ vBWML4        ,6
+ dBWMR4        ,6
+ dBWMR5        ,4
+ vBWMR4        ,6
+ URAVR         ,6
+ ADER          ,5
+ vBWMR3        ,5
+ AVKL          ,3
+ FLPR          ,5
+ VA01          ,5
+ FLPR        ,6
+ DD01        ,6
+ FLPL          ,6
+ dBWMR6        ,6
+ RIR         ,4
+ ALNR          ,6
+ RMED        ,6
+ SMDDR       ,6
+ FLPL        ,6
+ RIMR        ,5
+ OLQDR       ,6
+ OLQVR       ,5
+ SMBDR       ,6
+ SIBDR       ,6
+ URXR        ,5
+ RMHR        ,4
+ OLLR        ,4
+ ADEL        ,4
+ URYDR       ,3
+ AQR         ,6
+ vBWMR6        ,6
+ vBWML9        ,6
+ VD09          ,3
+ vBWMR20       ,5
+ PVDR        ,5
+ DVB         ,6
+ VD11        ,5
+ VC03        ,5
+ VA03          ,3
+ VA04          ,3
+ VD02          ,5
+ AVAL        ,6
+ SMBDL       ,6
+ PLNL          ,5
+ SABD        ,5
+ vBWML1        ,6
+ vBWML2        ,6
+ vBWML6        ,6
+ AS10          ,4
+ vBWML10       ,5
+ vBWML13       ,5
+ SABVL         ,5
+ DA04          ,5
+ DA07          ,3
+ DA03          ,6
+ AS04          ,6
+ DB03        ,6
+ VB10        ,6
+ VB11        ,6
+ VB09        ,5
+ AS05        ,4
+ AS06        ,6
+ DB02        ,6
+ DB04        ,6
+ VB02        ,6
+ VB04        ,6
+ VB05        ,6
+ VB06        ,6
+ VB07        ,6
+ VB08        ,5
+ VB03        ,6
+ vBWML3        ,6
+ SMBVL       ,3
+ RIAR        ,6
+ SAAVL       ,6
+ vBWML8        ,3
+ vBWML14       ,6
+ dBWMR7        ,5
+ dBWMR2        ,5
+ IL2VR         ,5
+ OLQDR         ,5
+ CEPVL       ,4
+ SDQR          ,5
+ dBWMR8        ,6
+ dBWMR9        ,6
+ dBWMR11       ,3
+ dBWMR12       ,6
+ dBWMR13       ,6
+ dBWMR14       ,6
+ dBWMR15       ,3
+ dBWMR16       ,5
+ PVNL          ,5
+ DA01        ,6
+ DA02        ,6
+ DA03        ,6
+ AS01        ,5
+ VA12        ,6
+ PDB         ,6
+ dBWML1        ,5
+ dBWML2        ,6
+ IL1DR         ,6
+ IL1R          ,6
+ vBWMR2        ,6
+ IL1VR         ,5
+ vBWMR5        ,5
+ vBWMR8        ,6
+ AIMR        ,6
+ IL2VR       ,4
+ DA01          ,6
+ VA09          ,5
+ LUAR          ,4
+ AS11          ,5
+ LUAL          ,5
+ DA09          ,6
+ RMDDL       ,6
+ dBWML13       ,6
+ AS02          ,3
+ AS07          ,6
+ AS08          ,6
+ AS09          ,5
+ VA05          ,5
+ VA07          ,6
+ VA10          ,3
+ PHCL        ,5
+ VA02        ,6
+ VA10        ,6
+ PHCR        ,6
+ AS10        ,4
+ DA04        ,5
+ URYVR       ,3
+ SABVR       ,6
+ DA05        ,4
+ DA06        ,4
+ VA01        ,5
+ VA03        ,6
+ VA04        ,6
+ VA05        ,3
+ VA06        ,5
+ VA07        ,4
+ VA08        ,4
+ VA09        ,4
+ IL1VL       ,6
+ SAADR       ,4
+ dBWML7        ,5
+ dBWML8        ,6
+ dBWML10       ,5
+ dBWML11       ,5
+ dBWML12       ,5
+ dBWML15       ,5
+ vBWMR12       ,6
+ vBWMR13       ,5
+ ALNR        ,5
+ ALNL        ,5
+ RMDR        ,5
+ IL2DR       ,3
+ IL2VL       ,2
+ AS06          ,5
+ PVDL        ,5
+ SABVL       ,3
+ ALMR          ,5
+ IL2R        ,5
+ RIFR        ,5
+ PVWL        ,6
+ VC01        ,5
+ AVM           ,5
+ URADR         ,3
+ PLNR          ,4
+ PLML        ,6
+ PLMR        ,6
+ DVB           ,4
+ VC01          ,6
+ VC05        ,4
+ IL1DR       ,4
+ IL1DL       ,5
+AIYR ,6
+AIMR ,6
+AVJL ,6
+PVCL ,6
+IL2R ,6
+IL2VR ,6
+RMDVL ,6
+SIBVR ,6
+AUAR ,6
+IL1R ,6
+URYDR ,6
+AVER ,6
+URAVR ,6
+PVR ,6
+OLQVR ,6
+ALA ,6
+RMDVR ,6
+SMBVR ,6
+OLQDR ,6
+URADL ,5
+AVM ,6
+BDUR ,6
+PQR ,6
+PHAL ,6
+PVCR ,6
+AVL ,6
+PVNL ,6
+AVBL ,6
+VC01 ,6
+VC02 ,6
+VC03 ,6
+ALML ,4
+SIADR ,6
+AVDL ,6
+ CEPVR       ,5
+ IL1R        ,4
+ IL1VR       ,4
+ VB03          ,4
+ PVM           ,3
+ AVM         ,4
+ vBWMR1        ,3
+ CEPDL       ,2
+ PHAR          ,3
+ PHBR          ,5
+ PLNL        ,6
+ VD12          ,5
+ BDUL        ,4
+ VD05          ,5
+ DD03          ,6
+ VC04        ,4
+ vm2pL       ,6
+ vm2pR       ,5
+IL1VL ,6
+ASJL ,6
+IL1DL ,6
+IL2DR ,6
+AVG ,6
+AVJR ,6
+LUAL ,6
+RIFL ,4
+LUAR ,6
+PVDL ,3
+PVDR ,6
+PHBL ,6
+PHBR ,6
+PHCL ,6
+VA02 ,6
+VA12 ,6
+VD06 ,6
+PVWR ,6
+RMHL ,6
+VA04 ,6
+VA06 ,6
+VD05 ,6
+VD11 ,6
+VD13 ,6
+ALMR ,6
+PDER ,3
+DVB ,6
+PVWL ,4
+RMDDR ,6
+DA08 ,6
+DA09 ,6
+PDA ,6
+DB07 ,6
+AS10 ,6
+AS11 ,6
+PDB ,6
+VA10 ,6
+VA11 ,6
+VB11 ,6
+VD12 ,6
+PLML ,6
+PLMR ,6
+hyp ,6
+ PHAL          ,4
+ PDB           ,3
+ DD05          ,5
+ VD10          ,4
+ VB05          ,5
+ VD09        ,5
+ PHCR          ,4
+ PLNR        ,5
+ VD02        ,5
+ vBWMR22       ,5
+ vBWMR23       ,5
+ vBWML22       ,5
+ vBWML23       ,4
+ vBWMR24       ,4
+ VD05        ,5
+ VD07        ,4
+ AS02        ,5
+ vBWML19       ,6
+ vBWMR21       ,6
+ VB10          ,4
+ DD02        ,6
+IL1DR ,6
+RMEL ,6
+URADR ,6
+PVM ,6
+VC04 ,6
+DA07 ,6
+VC05 ,6
+PHCR ,6
+ PHCL          ,4
+SABVR ,6
+DA01 ,6
+DA02 ,6
+DA03 ,6
+DA04 ,6
+DA05 ,6
+DA06 ,6
+AS01 ,4
+AS03 ,6
+AS05 ,5
+AS06 ,6
+VA01 ,6
+VA03 ,6
+VA05 ,6
+VA07 ,6
+VA08 ,6
+VA09 ,6
+VD01 ,6
+RID ,6
+RMER ,5
+DD06 ,6
+SABD ,4
+SIBDR ,6
+DB01 ,6
+DD01 ,6
+AS02 ,6
+ VD03        ,6
+ PDEL          ,1
+VB02 ,6
+VD02 ,6
+ dBWML9      ,4
+VC06 ,6
+ PDA           ,2
+ intL          ,2
+ VD11          ,6
+ vBWML17       ,3
+ vBWMR17       ,5
+PDEL ,6
+VB06 ,6
+VD03 ,6
+VD04 ,6
+ dBWML21       ,6
+ dBWMR21       ,6
+ dBWML22       ,5
+ dBWML23       ,3
+ dBWML24       ,5
+ dBWMR22       ,3
+ dBWMR24       ,5
+VB03 ,6
+DB02 ,6
+DB04 ,6
+DB06 ,6
+DD03 ,6
+VB04 ,6
+VB09 ,6
+VB10 ,5
+VD09 ,6
+VD10 ,6
+ dBWML19       ,5
+ dBWMR19       ,6
+ dBWML20       ,5
+ dBWMR20       ,5
+AS04 ,6
+DD02 ,6
+DB03 ,6
+DB05 ,6
+VB05 ,6
+VB07 ,6
+VB08 ,6
+ VD08          ,5
+ dBWML17       ,3
+ dBWMR17       ,3
+ dBWMR18       ,5
+ vBWML18       ,5
+ vBWMR18       ,5
+ VB08          ,4
+ vBWMR19       ,3
+ VB09          ,4
+VD07 ,6
+ VD08        ,4
+DD05 ,6
+DD04 ,6
+ DB06          ,2
+AS07 ,6
+ DB05          ,2
+ DD04        ,3
+vm2aL  ,5
+vm2pL ,6
+vm2pR ,6
+dBWML10 ,3
+um1pL ,5
+vm1pL ,4
+um1pR ,4
+ pm3d        ,5
+ mc1dl       ,4
+ mc1dr       ,5
+ pm6d        ,5
+ mc2dl       ,4
+ mc2dr       ,5
+ mc2v        ,3
+ pm2vl       ,3
+ pm3vl       ,6
+ pm2vr       ,3
+ pm2d        ,2
+ mc3dl       ,4
+ mc3dr       ,3
+ mc3v        ,5
+ pm8         ,6
+ pm7vr       ,5
+pm7d ,3
+pm8 ,6
+pm7vr ,5
+ vBWML7      ,4
+ um1aR       ,5
+ vm1aL       ,5
+ vm1pL       ,3
+ vm1pR       ,4
+ vBWML6      ,3
+ vBWML10     ,3
+ dBWML11     ,2
+dBWML12 ,2
+ dBWML13     ,2
+dBWML14 ,2
+ dBWML15     ,2
+dBWML16 ,3
+ dBWML17     ,3
+ dBWML19     ,3
+dBWML20 ,2
+ dBWML21     ,3
+dBWMR1 ,2
+ dBWMR3      ,2
+ dBWMR2      ,3
+dBWMR3 ,4
+dBWMR2 ,2
+dBWMR4 ,3
+ dBWMR1      ,3
+ dBWMR5      ,3
+ dBWMR7      ,3
+dBWMR8 ,2
+ dBWMR9      ,3
+ dBWMR10     ,3
+dBWMR11 ,2
+ dBWMR12     ,3
+ dBWMR17     ,3
+ dBWMR18     ,3
+dBWMR18 ,2
+ dBWMR19     ,3
+dBWMR19 ,3
+ dBWMR20     ,2
+ dBWMR21     ,3
+dBWMR21 ,2
+ dBWMR22     ,3
+dBWMR22 ,3
+ dBWMR23     ,2
+ vBWML2      ,3
+vBWML3 ,4
+ vBWML4      ,3
+ vBWML5      ,3
+vBWML5 ,3
+vBWML6 ,3
+vBWML11 ,2
+ vBWML12     ,2
+ vBWML13     ,3
+vBWML13 ,2
+ vBWML14     ,2
+vBWML14 ,3
+ vBWML15     ,3
+vBWML15 ,3
+ vBWML16     ,2
+ vBWML17     ,3
+vBWML17 ,2
+ vBWML18     ,3
+vBWML18 ,3
+ vBWML19     ,2
+ vBWML20     ,3
+vBWML20 ,3
+ vBWML21     ,3
+vBWML21 ,2
+ vBWML22     ,2
+vBWMR1 ,3
+ vBWMR3      ,4
+ vBWMR2      ,2
+vBWMR3 ,3
+vBWMR2 ,3
+ vBWMR1      ,2
+ vBWMR4      ,3
+ vBWMR15     ,3
+vBWMR16 ,2
+ vBWMR17     ,3
+ vBWMR19     ,3
+vBWMR20 ,3
+ vBWMR21     ,3
+intL ,5
+ intR        ,3
+ anal        ,5
+sph ,3
+anal ,5
+ intL        ,5
+ um2pL       ,4
+BWM-VL01,42
+PLNR,52
+ALNL,84
+BWM-DR07,37
+I2R ,4
+NSMR ,3
+M3R ,3
+pm5d ,3
+pm5vl ,3
+MCR ,5
+pm2vr ,3
+pm4vr ,5
+mc2v ,4
+AWAL ,3
+AIYL ,3
+ALNL ,3
+RMFL ,5
+ dBWML9        ,4
+IL1VR ,3
+RMFR ,5
+PHAR ,5
+ASJR ,5
+ vBWML8      ,4
+ DD05        ,4
+VD08 ,5
+vBWML8 ,5
+vBWMR8 ,3
+AS09 ,5
+vm2aR ,4
+AS08 ,5
+vBWML7 ,3
+vBWML9 ,5
+um1aL ,4
+vm1aR ,5
+pm1vl ,1
+pm1vr ,1
+pm2d ,3
+pm2vl ,3
+mc3dl ,3
+pm7vl ,4
+ dBWML3      ,4
+dBWML3 ,3
+dBWML2 ,3
+dBWML4 ,3
+ dBWML1      ,3
+ dBWML5      ,3
+dBWML6 ,3
+dBWML18 ,3
+dBWML22 ,3
+ dBWML23     ,2
+dBWML24 ,1
+dBWMR5 ,3
+ dBWMR6      ,3
+dBWMR6 ,2
+dBWMR7 ,3
+dBWMR9 ,3
+dBWMR10 ,3
+dBWMR13 ,3
+dBWMR16 ,3
+dBWMR17 ,3
+dBWMR20 ,2
+vBWML10 ,3
+ vBWML11     ,2
+vBWMR7 ,3
+ vBWMR6      ,2
+vBWML12 ,3
+vBWML16 ,2
+vBWML19 ,3
+vBWML22 ,2
+vBWMR4 ,3
+vBWMR5 ,2
+vBWMR17 ,3
+ vBWMR18     ,3
+vBWMR18 ,3
+vBWMR19 ,3
+intR ,3
+um2aR ,3
+um2pR ,3
+RIBL,167
+RIBR,175
+RIGR,262
+AIAR,121
+ASER,192
+RIGL,275
+IL1VR,124
+RMDDL,220
+RMDDR,247
+RMGL,240
+AIZL,295
+AIZR,264
+AQR,244
+RMED,181
+ASHL,194
+RIPR,68
+SDQR,153
+SDQL,173
+RMER,136
+IL1VL,149
+RIPL,70
+RIR,171
+ADEL,187
+AIAL,192
+AIMR,118
+RMEL,110
+IL1DR,156
+CANR,9
+dBWML8 ,3
+vm1aL ,3
+vm1pR ,4
+pm1d ,1
+dBWML11 ,3
+ dBWML12     ,3
+dBWML13 ,3
+dBWML15 ,3
+ dBWML16     ,2
+dBWML17 ,3
+dBWML21 ,3
+ dBWML22     ,2
+dBWML23 ,2
+ dBWMR14     ,2
+dBWMR15 ,3
+dBWMR23 ,2
+dBWMR24 ,1
+vBWML1 ,3
+vBWML4 ,3
+vBWML23 ,1
+vBWMR10 ,3
+ vBWMR11     ,2
+vBWMR12 ,3
+vBWMR14 ,3
+vBWMR21 ,3
+ vBWMR22     ,2
+vBWMR22 ,3
+vBWMR23 ,2
+BWM-VR03,41
+DB1,10
+ I2L           ,3
+ MCL           ,3
+ pm3vl         ,3
+ pm4d          ,3
+ MCR         ,3
+ pm1vr         ,3
+ pm3vr         ,3
+ I1L           ,3
+ I1R           ,3
+ pm4vr         ,3
+ pm6vl         ,2
+ pm7d          ,2
+ mc2dl         ,2
+ AFDL          ,3
+ AIZL          ,3
+ RIGR          ,3
+ SMDVL         ,3
+ AVJL          ,3
+ ASJL          ,3
+ ASKL          ,3
+ RMGR          ,3
+ RMDDR         ,3
+ RMDL          ,3
+ SIADR         ,3
+ RIFL          ,3
+ SIADL         ,3
+ AVKR          ,3
+ ALNL          ,3
+ RMEL        ,3
+ vm2aR         ,3
+ vm2pL         ,3
+ RIFL        ,3
+ ALA           ,3
+ OLLR          ,3
+ AWAR        ,3
+ VC04          ,3
+ HSNL        ,3
+ IL2DL         ,3
+ URBL          ,3
+ IL1DL         ,3
+ DB04          ,3
+ PDA         ,3
+ VD03          ,3
+ URADL       ,2
+ IL2DR         ,3
+ RMFR          ,3
+ AS01          ,3
+ AS03          ,3
+ RID         ,3
+ DB05        ,3
+ dBWMR1        ,3
+ IL2VL         ,2
+ dBWMR10       ,3
+ dBWML14       ,3
+ dBWML16       ,3
+ AS03        ,2
+ intestine     ,3
+ VB06          ,3
+ VB04          ,3
+ URAVR       ,1
+ URADR       ,3
+ CEPDR       ,2
+ IL2DL       ,1
+ PHBL          ,3
+ VC06          ,2
+ VC02        ,3
+ vm2aL       ,3
+ vm2aR       ,3
+ DB01          ,3
+ vBWML21       ,3
+ vBWML20       ,3
+ VD06        ,3
+ VD04        ,3
+ VD10        ,3
+ AS04        ,3
+ DD04          ,3
+ dBWMR23       ,3
+ dBWML18       ,3
+ DD03        ,3
+ VB07          ,3
+dBWML9 ,2
+um1aR ,3
+ pm6vl       ,3
+ mc1v        ,3
+ pm7d        ,3
+ pm7vl       ,3
+ pm1vl       ,1
+ vBWML9      ,3
+ vBWMR7      ,2
+ vBWMR9      ,3
+ um1aL       ,3
+ um1pL       ,3
+ um1pR       ,3
+ vm1aR       ,3
+ dBWML8      ,2
+ dBWML10     ,2
+ vBWMR8      ,3
+ dBWML2      ,2
+dBWML1 ,2
+ dBWML4      ,3
+ dBWML6      ,3
+dBWML7 ,2
+ dBWMR8      ,2
+ dBWMR11     ,2
+dBWMR12 ,2
+ dBWMR13     ,2
+dBWMR14 ,2
+ dBWMR15     ,2
+ dBWMR16     ,3
+ vBWML3      ,3
+vBWML2 ,2
+ vBWML1      ,3
+vBWMR9 ,2
+ vBWMR10     ,2
+ vBWML23     ,1
+ vBWMR5      ,2
+vBWMR6 ,2
+vBWMR11 ,2
+ vBWMR12     ,2
+vBWMR13 ,2
+ vBWMR14     ,2
+vBWMR15 ,2
+ vBWMR16     ,3
+ vBWMR20     ,3
+ sph         ,3
+ um2aL       ,3
+ um2aR       ,2
+ um2pR       ,2
+um2aL  ,2
+um2pL ,2
+ pm1vr       ,1
+ pm1d        ,1
+ dBWML7      ,2
+dBWML5 ,2
+ dBWML14     ,2
+ dBWML18     ,2
+dBWML19 ,2
+ dBWML20     ,2
+ dBWML24     ,1
+ dBWMR4      ,2
+ dBWMR24     ,1
+ vBWMR13     ,2
+ vBWMR23     ,2
+ vBWMR24     ,1
+vBWMR24 ,1

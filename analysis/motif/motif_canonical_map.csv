@@ -1,0 +1,419 @@
+MotifCol,CanonicalClass
+"(0, 1)_(0, 2)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(2, 1)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_nan_nan_nan_nan_nan_nan",other
+"(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(2, 1)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(1, 0)_(1, 2)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan",other
+"(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_nan_nan_nan_nan_nan",other
+"(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",other
+"(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 2)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan",other
+"(0, 1)_(0, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan",other
+"(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 0)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(2, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_nan_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 2)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan",other
+"(0, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(1, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(1, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan",other
+"(0, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)",other
+"(0, 0)_(0, 2)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 2)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan",other
+"(0, 0)_(0, 2)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 1)_(2, 1)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan",other
+"(0, 1)_(0, 2)_(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 1)_(0, 2)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 0)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan",other
+"(0, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 1)_(2, 1)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 1)_(2, 2)_nan_nan",other
+"(0, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(1, 0)_(1, 1)_(1, 2)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(2, 0)_(2, 1)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 2)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other
+"(0, 0)_(0, 1)_(1, 0)_(1, 1)_(1, 2)_(2, 0)_(2, 2)_nan_nan",other
+"(0, 0)_(0, 1)_(1, 1)_(2, 0)_(2, 2)_nan_nan_nan_nan",other
+"(0, 0)_(0, 1)_(0, 2)_(1, 2)_(2, 0)_(2, 2)_nan_nan_nan",other

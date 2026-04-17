@@ -1,0 +1,11 @@
+Motif,Gene,partial_r,p_global,p_type,p_degree
+"(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",WBGene00012164,0.5185884968046681,0.0,0.0,0.0
+"(0, 1)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",WBGene00009400,0.4886357321478188,0.0,0.0,0.0
+"(0, 1)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",WBGene00009751,0.4848569046957488,0.0,0.0,0.0
+"(1, 0)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",WBGene00003245,0.4726312864684636,0.0,0.0,0.0
+"(1, 0)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",WBGene00010974,0.4700750208391221,0.0,0.0,0.0
+"(0, 1)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",WBGene00022700,0.4621283689913865,0.0,0.0,0.0
+"(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan_nan",WBGene00198394,0.4564045568213394,0.0,0.0,0.0
+"(0, 2)_(1, 0)_nan_nan_nan_nan_nan_nan_nan",WBGene00019222,0.4528480133370382,0.0,0.0,0.0
+"(0, 2)_(1, 2)_(2, 0)_nan_nan_nan_nan_nan_nan",WBGene00022748,0.4509585996110031,0.0,0.0,0.0
+"(0, 1)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",WBGene00009400,0.4439566546262851,0.0,0.0,0.0

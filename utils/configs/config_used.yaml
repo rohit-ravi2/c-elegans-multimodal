@@ -1,0 +1,21 @@
+env:
+  device: cuda
+  epochs:
+    dynamics: 120
+    link_pred: 100
+  lr: 0.001
+  patience: 12
+  seed: 42
+  weight_decay: 1.0e-05
+seed: 42
+thresholds:
+  co_presence_min_frac: 0.1
+  expr_min_tpm: 0.5
+  peptide_edge_aggregation: max
+  relaxed:
+    expr_z: 0.2
+    min_pairs: 1
+  strict:
+    expr_z: 0.5
+    min_pairs: 1
+timestamp: '2025-09-02 11:14:34.598874'

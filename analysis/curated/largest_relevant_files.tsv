@@ -1,0 +1,21 @@
+File	Path	Ext	Size_MB	Modified
+100720_L4_neuron_only_Seurat_with_RIV_SMD_stressed.rds	./100720_L4_neuron_only_Seurat_with_RIV_SMD_stressed.rds	.rds	3955.23	2025-08-11 11:24:35
+092320_L4_neuron_only_monocle_cds_for_paper.rds	./092320_L4_neuron_only_monocle_cds_for_paper.rds	.rds	305.33	2025-08-11 11:24:13
+070220_L4_all_cells_monocle3_final.rds	./070220_L4_all_cells_monocle3_final.rds	.rds	286.71	2025-08-11 11:24:10
+GSE98561_RAW(1).tar	./GSE98561_RAW(1).tar	.tar	249.66	2025-08-11 11:39:20
+GSE98561_RAW.tar	./GSE98561_RAW.tar	.tar	249.66	2025-08-11 11:27:39
+GSE126954_RAW.tar	./GSE126954_RAW.tar	.tar	54.1	2025-08-11 11:40:06
+GSM4318946_Cao_et_al_2017_reprocessed_Packer_Zhu_2019.umi_count_matrix.mm.txt.gz	./scratch/GSM4318946_Cao_et_al_2017_reprocessed_Packer_Zhu_2019.umi_count_matrix.mm.txt.gz	.gz	52.26	2020-02-18 15:08:25
+Average_integrated_TMM_counts_lengthNormalized_111521.tsv	./Average_integrated_TMM_counts_lengthNormalized_111521.tsv	.tsv	27.19	2025-08-11 11:24:53
+CeNGEN_aggr_bio_reps_101821.tsv	./CeNGEN_aggr_bio_reps_101821.tsv	.tsv	25.57	2025-08-11 11:24:58
+VISTA-C-elegans-main.zip	./VISTA-C-elegans-main.zip	.zip	20.01	2025-08-11 11:41:13
+aam8940_cao_sm_tables_s1_to_s14.xlsx	./aam8940_cao_sm_tables_s1_to_s14.xlsx	.xlsx	16.34	2025-08-11 11:26:50
+021821_liberal_threshold1.csv	./021821_liberal_threshold1.csv	.csv	14.23	2025-08-11 11:23:46
+Single_Cell_TPM_threshold2.xlsx	./scratch/VISTA-C-elegans-main/Single_Cell_TPM_threshold2.xlsx	.xlsx	13.66	2025-08-11 12:13:01
+021821_medium_threshold2.csv	./021821_medium_threshold2.csv	.csv	12.93	2025-08-11 11:23:51
+Barrett_et_al_2022_CeNGEN_bulk_RNAseq_data.tsv	./Barrett_et_al_2022_CeNGEN_bulk_RNAseq_data.tsv	.tsv	12.24	2025-08-11 11:24:55
+021821_conservative_threshold3.csv	./021821_conservative_threshold3.csv	.csv	11.07	2025-08-11 11:23:43
+021821_stringent_threshold4.csv	./021821_stringent_threshold4.csv	.csv	9.36	2025-08-11 11:23:53
+caenorhabditis_elegans.PRJNA13758.WBPS19.canonical_geneset.gtf.gz	./caenorhabditis_elegans.PRJNA13758.WBPS19.canonical_geneset.gtf.gz	.gz	8.13	2025-08-11 11:34:02
+Barrett_et_al_2022_CeNGEN_bulk_RNAseq_geneLevel_metadata.tsv	./Barrett_et_al_2022_CeNGEN_bulk_RNAseq_geneLevel_metadata.tsv	.tsv	7.58	2025-08-11 11:25:01
+GSE126954_cell_annotation.csv.gz	./GSE126954_cell_annotation.csv.gz	.gz	2.68	2025-08-11 11:40:04

@@ -1,0 +1,137 @@
+{
+  "nodes": 1533,
+  "edges": 13875,
+  "edges_chem_count": 7879,
+  "edges_elec_count": 6342,
+  "weight_sum": 159260.0,
+  "weight_median": 6.0,
+  "weight_p95": 45.0,
+  "SCC_count": 442,
+  "WCC_count": 4,
+  "top10_in_degree": [
+    [
+      " AVAL          ",
+      63
+    ],
+    [
+      " AVAR          ",
+      58
+    ],
+    [
+      " hyp         ",
+      56
+    ],
+    [
+      "hyp ",
+      56
+    ],
+    [
+      "AVEL",
+      55
+    ],
+    [
+      "AVBL",
+      51
+    ],
+    [
+      "AVBR",
+      49
+    ],
+    [
+      "AVER",
+      49
+    ],
+    [
+      " AVAR        ",
+      48
+    ],
+    [
+      "AVAR ",
+      48
+    ]
+  ],
+  "top10_out_degree": [
+    [
+      "AVAR ",
+      93
+    ],
+    [
+      "AVAL ",
+      87
+    ],
+    [
+      "DVA ",
+      69
+    ],
+    [
+      "PVCR ",
+      63
+    ],
+    [
+      " hyp         ",
+      56
+    ],
+    [
+      "PVCL ",
+      56
+    ],
+    [
+      "hyp ",
+      56
+    ],
+    [
+      "PVNR ",
+      55
+    ],
+    [
+      "AVBL ",
+      51
+    ],
+    [
+      "AVBR ",
+      51
+    ]
+  ],
+  "top10_total_degree": [
+    [
+      "AVAR ",
+      141
+    ],
+    [
+      "AVAL ",
+      132
+    ],
+    [
+      " hyp         ",
+      112
+    ],
+    [
+      "hyp ",
+      112
+    ],
+    [
+      " AVAR        ",
+      96
+    ],
+    [
+      "DVA ",
+      94
+    ],
+    [
+      "PVCR ",
+      92
+    ],
+    [
+      " AVAL        ",
+      90
+    ],
+    [
+      "AVBR ",
+      82
+    ],
+    [
+      "RIML",
+      82
+    ]
+  ]
+}

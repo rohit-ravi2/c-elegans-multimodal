@@ -1,0 +1,34 @@
+{
+  "class_order": [
+    "Interneuron",
+    "Sensory",
+    "Motor",
+    "Glia",
+    "Unknown"
+  ],
+  "counts": {
+    "Interneuron": 12,
+    "Sensory": 10,
+    "Motor": 0,
+    "Glia": 4,
+    "Unknown": 1507
+  },
+  "effective_numbers": {
+    "Interneuron": 11.93421950579109,
+    "Sensory": 9.955119790251757,
+    "Motor": 0,
+    "Glia": 3.9940039989999585,
+    "Unknown": 778.5933012208774
+  },
+  "class_weights": {
+    "Interneuron": 0.7689107744750706,
+    "Sensory": 0.9217719280423905,
+    "Motor": 0.0,
+    "Glia": 2.2975314910177724,
+    "Unknown": 0.011785806464767032
+  },
+  "notes": {
+    "beta_for_effective_number": 0.999,
+    "unknown_included": true
+  }
+}

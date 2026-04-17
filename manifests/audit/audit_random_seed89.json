@@ -1,0 +1,41 @@
+{
+  "name": "random_seed89",
+  "nodes": {
+    "train": 1071,
+    "val": 229,
+    "test": 233,
+    "total_labeled": 1533
+  },
+  "checks": {
+    "disjoint": true,
+    "coverage_full": true,
+    "bilateral_cross_fold_pairs": 0,
+    "lineage_isolation_ok": null
+  },
+  "class_proportions_vs_global": {
+    "Unknown": {
+      "train": 0.6987392169873922,
+      "val": 0.14664897146648972,
+      "test": 0.1546118115461181
+    },
+    "Interneuron": {
+      "train": 0.6666666666666666,
+      "val": 0.3333333333333333,
+      "test": 0.0
+    },
+    "Sensory": {
+      "train": 0.8,
+      "val": 0.2,
+      "test": 0.0
+    },
+    "Glia": {
+      "train": 0.5,
+      "val": 0.5,
+      "test": 0.0
+    }
+  },
+  "leakage_probes": {
+    "avg_min_shortest_path_train_to_test": 1.0300429184549356,
+    "fraction_test_with_direct_train_neighbor": 0.9699570815450643
+  }
+}

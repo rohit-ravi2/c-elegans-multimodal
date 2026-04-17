@@ -1,0 +1,2242 @@
+/mnt/ssd4tb/Desktop/C-Elegans
+├── ARTIFACTS
+├── data
+│   ├── processed
+│   │   ├── annot
+│   │   │   └── models.wrm.WS297.annot
+│   │   ├── csv
+│   │   │   ├── 021821_conservative_threshold3.csv
+│   │   │   ├── 021821_liberal_threshold1.csv
+│   │   │   ├── 021821_medium_threshold2.csv
+│   │   │   ├── 021821_stringent_threshold4.csv
+│   │   │   ├── A12_DML_significant_FDR05.csv
+│   │   │   ├── A12_gold_edges_tau0.70_FDR05.csv
+│   │   │   ├── A12_node_features.csv
+│   │   │   ├── A12_seed_beta_matrix.csv
+│   │   │   ├── A12_seed_consistency.csv
+│   │   │   ├── A13_linearity_residuals.csv
+│   │   │   ├── A13_null_random_triplets.csv
+│   │   │   ├── A13_null_randomizedW_observed.csv
+│   │   │   ├── A13_null_randomizedW_runs.csv
+│   │   │   ├── A14_bootstrap_CIs.csv
+│   │   │   ├── A14_decoding_accuracy.csv
+│   │   │   ├── A_CA_attractors.csv
+│   │   │   ├── A_CA_basal.csv
+│   │   │   ├── A_CA_npr10.csv
+│   │   │   ├── aconnectome_white_1986_A.csv
+│   │   │   ├── aconnectome_white_1986_L4.csv
+│   │   │   ├── aconnectome_white_1986_whole.csv
+│   │   │   ├── across_seed_ensemble.csv
+│   │   │   ├── aggr_class_with_umbrella.csv
+│   │   │   ├── aggr_raw_to_class.csv
+│   │   │   ├── B10_top_participants_021U.csv
+│   │   │   ├── B11_compare_counts_021_duo.csv
+│   │   │   ├── B1_triad_counts_gold.csv
+│   │   │   ├── B2_triad_enrichment_gold.csv
+│   │   │   ├── B2b_triad_enrichment_gold_both.csv
+│   │   │   ├── B3_triad_participation_matrix_gold.csv
+│   │   │   ├── B4_null_summary_triads.csv
+│   │   │   ├── B4b_null_summary_both.csv
+│   │   │   ├── B9_top_participants_021D.csv
+│   │   │   ├── B_beta1_cycle_id_to_label.csv
+│   │   │   ├── B_beta1_cycle_sizes.csv
+│   │   │   ├── B_beta1_cycles.csv
+│   │   │   ├── B_beta1_incidence.csv
+│   │   │   ├── b_malayi.PRJNA10729.WS297.protein_domains.csv
+│   │   │   ├── backbone_leaderboard.csv
+│   │   │   ├── backbone_leaderboard_ci.csv
+│   │   │   ├── Basal_only_cycles.csv
+│   │   │   ├── baseline_scorecard.csv
+│   │   │   ├── baseline_scorecard_agg.csv
+│   │   │   ├── Bentley_et_al_2016_expression.csv
+│   │   │   ├── Both_cycles.csv
+│   │   │   ├── bulk_raw_to_class.csv
+│   │   │   ├── Bulk_Sorted_TPM.csv
+│   │   │   ├── C1_union_test_summary.csv
+│   │   │   ├── C1b_union_top50_summary.csv
+│   │   │   ├── C2_cycles_basal.csv
+│   │   │   ├── C2_cycles_npr10.csv
+│   │   │   ├── C2_per_cycle_enrichment_basal.csv
+│   │   │   ├── C2_per_cycle_enrichment_basal_labeled.csv
+│   │   │   ├── C2_per_cycle_enrichment_npr10.csv
+│   │   │   ├── C2_per_cycle_enrichment_npr10_labeled.csv
+│   │   │   ├── C3_union_deltas.csv
+│   │   │   ├── C3_weighted_union_summary.csv
+│   │   │   ├── C4_coverage_by_cycle_size.csv
+│   │   │   ├── C5_top_npr10_cycles_members.csv
+│   │   │   ├── c_briggsae.PRJNA10731.WS297.protein_domains.csv
+│   │   │   ├── c_elegans.PRJNA13758.WS297.expr_graph.csv
+│   │   │   ├── c_japonica.PRJNA12591.WS297.protein_domains.csv
+│   │   │   ├── CeNGEN_PCA50.csv
+│   │   │   ├── CeNGEN_pca_components.csv
+│   │   │   ├── cluster_feature_summary.csv
+│   │   │   ├── cluster_roles.csv
+│   │   │   ├── community_173_DE.csv
+│   │   │   ├── community_250_DE.csv
+│   │   │   ├── community_assignments.csv
+│   │   │   ├── consensus_connectome_full_nofunc.csv
+│   │   │   ├── consensus_connectome_full_withfunc.csv
+│   │   │   ├── consensus_connectome_trimmed_nofunc.csv
+│   │   │   ├── consensus_connectome_trimmed_withfunc.csv
+│   │   │   ├── csv_column_index.csv
+│   │   │   ├── cv_results.csv
+│   │   │   ├── cv_results_all.csv
+│   │   │   ├── cv_results_all_backbones.csv
+│   │   │   ├── cv_summary.csv
+│   │   │   ├── D1_behavioral_indices.csv
+│   │   │   ├── D1_cycle_correlations_real.csv
+│   │   │   ├── D1_eval_summary_current_model.csv
+│   │   │   ├── D1_neuron_mse.csv
+│   │   │   ├── D1_neuron_mse_current_model.csv
+│   │   │   ├── D1_neuron_mse_shared.csv
+│   │   │   ├── D1_null_comparisons.csv
+│   │   │   ├── D3_neuron_mse_hybrid.csv
+│   │   │   ├── D3_retrain_ablation_summary_fixed.csv
+│   │   │   ├── D3_summary_metrics.csv
+│   │   │   ├── D_time_series_basal.csv
+│   │   │   ├── D_time_series_npr10.csv
+│   │   │   ├── dashboard_master.csv
+│   │   │   ├── data_restructure_manifest.csv
+│   │   │   ├── data_restructure_manifest_verified.csv
+│   │   │   ├── data_validation_report.csv
+│   │   │   ├── DE_communities_summary.csv
+│   │   │   ├── DE_community_250.csv
+│   │   │   ├── DE_hubs_genes_betweenness_refined.csv
+│   │   │   ├── DE_hubs_genes_refined_summary.csv
+│   │   │   ├── DE_hubs_pc.csv
+│   │   │   ├── DE_hubs_pc_significant.csv
+│   │   │   ├── extra_file_catalog.csv
+│   │   │   ├── extradata_file_index.csv
+│   │   │   ├── ExtraData_Sheet_Classification.csv
+│   │   │   ├── file_index_master.csv
+│   │   │   ├── final_directory_context.csv
+│   │   │   ├── final_verification_report.csv
+│   │   │   ├── gene_expr_CeNGEN_base_mapped.csv
+│   │   │   ├── gene_expr_resolved.csv
+│   │   │   ├── gene_id_map.csv
+│   │   │   ├── gnn_scorecard.csv
+│   │   │   ├── gnn_scorecard_agg.csv
+│   │   │   ├── GO_enrichment_hubs.csv
+│   │   │   ├── grid_best_per_seed.csv
+│   │   │   ├── grid_results.csv
+│   │   │   ├── GSE126954_cell_annotation.csv
+│   │   │   ├── GSE98561_celegans.barcode(1).csv
+│   │   │   ├── GSE98561_human.mouse.mix.1.barcode.csv
+│   │   │   ├── GSE98561_human.mouse.mix.2.barcode.csv
+│   │   │   ├── herm_full_edgelist.csv
+│   │   │   ├── herm_full_edgelist_MODIFIED.csv
+│   │   │   ├── high_tier_novel_multifunctional_neurons.csv
+│   │   │   ├── hub_adjacency_matrix.csv
+│   │   │   ├── hub_communities.csv
+│   │   │   ├── hub_control_pairs.csv
+│   │   │   ├── hub_control_pairs_recomputed.csv
+│   │   │   ├── hub_neuron_summary.csv
+│   │   │   ├── hubs_table.csv
+│   │   │   ├── hubs_table_corrected.csv
+│   │   │   ├── hubs_table_from_tuples.csv
+│   │   │   ├── hypergraph1_node_degrees.csv
+│   │   │   ├── id_targets.csv
+│   │   │   ├── kmeans_cluster_roles.csv
+│   │   │   ├── labels_proxy.csv
+│   │   │   ├── latent_archetype_labels.csv
+│   │   │   ├── lesion_impact_ranking.csv
+│   │   │   ├── ligand_receptor_autogen.csv
+│   │   │   ├── ligand_receptor_enrichment.csv
+│   │   │   ├── lineage_region_groups.csv
+│   │   │   ├── m6_partial_spearman_top_relaxed.csv
+│   │   │   ├── m6_partial_spearman_top_relaxed_PLUS.csv
+│   │   │   ├── m7_generalists_relaxed.csv
+│   │   │   ├── m7_qc_sig_counts_per_motif.csv
+│   │   │   ├── m7_specialists_relaxed.csv
+│   │   │   ├── mega_A3S_matrix.csv
+│   │   │   ├── mega_A5S_matrix.csv
+│   │   │   ├── mega_cassette_matrix.csv
+│   │   │   ├── mega_intron_matrix.csv
+│   │   │   ├── mega_MXE_matrix.csv
+│   │   │   ├── merged_edges.csv
+│   │   │   ├── merged_edges_with_relatedness.csv
+│   │   │   ├── merged_lineage_table.csv
+│   │   │   ├── motif_canonical_map.csv
+│   │   │   ├── motif_class_table.csv
+│   │   │   ├── motif_counts_approx.csv
+│   │   │   ├── motif_counts_with_structure.csv
+│   │   │   ├── motif_divergence.csv
+│   │   │   ├── motif_enrichment.csv
+│   │   │   ├── motif_gene_regression.csv
+│   │   │   ├── motif_gene_regression_topK.csv
+│   │   │   ├── motif_gene_regression_topK_rank_spearman.csv
+│   │   │   ├── motif_global_counts.csv
+│   │   │   ├── motif_global_counts_cleaned.csv
+│   │   │   ├── motif_global_counts_labeled.csv
+│   │   │   ├── motif_null_trials.csv
+│   │   │   ├── motif_participation_profiles.csv
+│   │   │   ├── motif_scores.csv
+│   │   │   ├── motif_summary.csv
+│   │   │   ├── motif_type_anova_results.csv
+│   │   │   ├── nca_symbolic_clusters.csv
+│   │   │   ├── nca_symbolic_clusters_labeled.csv
+│   │   │   ├── nca_symbolic_clusters_with_names.csv
+│   │   │   ├── neuron_class_map.csv
+│   │   │   ├── neuron_list.csv
+│   │   │   ├── neuron_master.csv
+│   │   │   ├── neuron_metadata.csv
+│   │   │   ├── neuron_motif_roles.csv
+│   │   │   ├── neuron_to_tuples.csv
+│   │   │   ├── neuropeptides_peptides.csv
+│   │   │   ├── neuropeptides_table.csv
+│   │   │   ├── nml_results.csv
+│   │   │   ├── node2vec_embeddings.csv
+│   │   │   ├── normalized_schema8.csv
+│   │   │   ├── normalized_schema9.csv
+│   │   │   ├── NPR10_only_cycles.csv
+│   │   │   ├── o_volvulus.PRJEB513.WS297.protein_domains.csv
+│   │   │   ├── out_metadata_notes.csv
+│   │   │   ├── out_morphology_segments.csv
+│   │   │   ├── out_network_connections.csv
+│   │   │   ├── out_nml_parsed_elements.csv
+│   │   │   ├── out_synaptic_mechanisms.csv
+│   │   │   ├── paired_deltas_val_balAcc.csv
+│   │   │   ├── paired_deltas_val_macroF1.csv
+│   │   │   ├── paired_deltas_val_weightedF1.csv
+│   │   │   ├── paired_stats.csv
+│   │   │   ├── paired_stats_gcn_vs_mlp.csv
+│   │   │   ├── paired_stats_gcn_vs_mlp_ci.csv
+│   │   │   ├── parameter_sweep_summary.csv
+│   │   │   ├── parsed_schema1_clean.csv
+│   │   │   ├── parsed_schema2_clean.csv
+│   │   │   ├── parsed_schema3_clean.csv
+│   │   │   ├── parsed_schema8_clean.csv
+│   │   │   ├── parsed_schema9_clean.csv
+│   │   │   ├── parsed_txt_all.csv
+│   │   │   ├── parsed_txt_merged.csv
+│   │   │   ├── parsed_txt_raw.csv
+│   │   │   ├── parsed_txt_salvaged.csv
+│   │   │   ├── partial_spearman_hierFDR.csv
+│   │   │   ├── partial_spearman_results.csv
+│   │   │   ├── per_restart_metrics.csv
+│   │   │   ├── per_seed_ensemble.csv
+│   │   │   ├── perfect_val_folds_backbones.csv
+│   │   │   ├── phase1_results.csv
+│   │   │   ├── phase3_merged_dataset.csv
+│   │   │   ├── phase4_master_results.csv
+│   │   │   ├── phase4_top10_triple_null.csv
+│   │   │   ├── pnas.1507110112.sd02.csv
+│   │   │   ├── pnas.1507110112.sd03.csv
+│   │   │   ├── pnas.1507110112.sd04.csv
+│   │   │   ├── pnas.1507110112.sd05.csv
+│   │   │   ├── pnas.1507110112.sd06.csv
+│   │   │   ├── pnas.1507110112.sd07.csv
+│   │   │   ├── pnas.1507110112.sd08.csv
+│   │   │   ├── pnas.1507110112.sd09.csv
+│   │   │   ├── pnas.1507110112.sd10.csv
+│   │   │   ├── pnas.1507110112.sd11.csv
+│   │   │   ├── pnas.1507110112.sd12.csv
+│   │   │   ├── pnas.1507110112.sd13.csv
+│   │   │   ├── pnas.1507110112.sd14.csv
+│   │   │   ├── pnas.1507110112.sd15.csv
+│   │   │   ├── pnas.1507110112.sd16.csv
+│   │   │   ├── postmove_directory_inventory.csv
+│   │   │   ├── predictive_delta_elasticnet_topK.csv
+│   │   │   ├── predictive_delta_summary.csv
+│   │   │   ├── preds_all_nodes.csv
+│   │   │   ├── richclub_scores.csv
+│   │   │   ├── s_ratti.PRJEB125.WS297.protein_domains.csv
+│   │   │   ├── sample_to_neuron_template.csv
+│   │   │   ├── scorecard.csv
+│   │   │   ├── scorecard_agg.csv
+│   │   │   ├── scores.csv
+│   │   │   ├── single_cell_intensities.csv
+│   │   │   ├── spotlight_gene_full_across_motifs.csv
+│   │   │   ├── stratified_partial.csv
+│   │   │   ├── strength_metrics.csv
+│   │   │   ├── structured_data_inventory.csv
+│   │   │   ├── SUMMARY.csv
+│   │   │   ├── symbolic_cluster_type_enrichment.csv
+│   │   │   ├── symbolic_clusters_labeled_by_neuronname.csv
+│   │   │   ├── symbolic_clusters_labeled_canonical.csv
+│   │   │   ├── t_muris.PRJEB126.WS297.protein_domains.csv
+│   │   │   ├── tar_contents_catalog.csv
+│   │   │   ├── top10_ablation_runs.csv
+│   │   │   ├── top10_backbones_runs.csv
+│   │   │   ├── top_hubs_chemical.csv
+│   │   │   ├── top_hubs_electrical.csv
+│   │   │   ├── top_rich_motif_neurons.csv
+│   │   │   ├── tuple_index_decoded_pairs.csv
+│   │   │   ├── tuple_to_neurons.csv
+│   │   │   ├── weight_dependence.csv
+│   │   │   ├── witvliet_combined_edges.csv
+│   │   │   ├── wormbase_crosswalk_resolved.csv
+│   │   │   ├── wormbase_file_index.csv
+│   │   │   ├── wormbase_gene_list_sample.csv
+│   │   │   └── yemini_combined_sheets.csv
+│   │   ├── dat
+│   │   │   ├── b_malayi.PRJNA10729.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── c_brenneri.PRJNA20035.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── c_briggsae.PRJNA10731.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── c_elegans.PRJNA13758.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── c_japonica.PRJNA12591.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── c_remanei.PRJNA53967.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── o_volvulus.PRJEB513.WS297.RNASeq_controls_FPKM.dat
+│   │   │   ├── p_pacificus.PRJNA12644.WS297.RNASeq_controls_FPKM.dat
+│   │   │   └── s_ratti.PRJEB125.WS297.RNASeq_controls_FPKM.dat
+│   │   ├── experiments
+│   │   │   ├── expr_weight_partial_spearman.csv
+│   │   │   ├── gnca_best.pt
+│   │   │   ├── gnca_gene_perturb_fast.csv
+│   │   │   ├── gnca_go_kegg_enrichment_final.xlsx
+│   │   │   ├── gnca_integrated_gradients_features.csv
+│   │   │   ├── gnca_integrated_gradients_genes.csv
+│   │   │   ├── gnca_motif_best.pt
+│   │   │   ├── gnca_motif_performance.csv
+│   │   │   ├── gnca_motif_saliency.csv
+│   │   │   ├── gnca_neurotransmitter_enrichment.csv
+│   │   │   ├── gnca_neurotransmitter_enrichment_mapped.csv
+│   │   │   ├── gnca_pred_outgoing_strength.csv
+│   │   │   ├── gnca_saliency_features.csv
+│   │   │   ├── gnca_saliency_genes.csv
+│   │   │   ├── hypergraph_summary.csv
+│   │   │   ├── markov_entropies.csv
+│   │   │   ├── markov_high_entropy_top50.csv
+│   │   │   ├── markov_low_entropy_top50.csv
+│   │   │   ├── markov_weight_corr.csv
+│   │   │   └── motif_prediction_verdict.csv
+│   │   ├── figures
+│   │   ├── gff2
+│   │   │   ├── b_malayi.PRJNA10729.WS297.annotations.gff2
+│   │   │   ├── c_brenneri.PRJNA20035.WS297.annotations.gff2
+│   │   │   ├── c_briggsae.PRJNA10731.WS297.annotations.gff2
+│   │   │   ├── c_elegans.PRJNA13758.WS297.annotations.gff2
+│   │   │   ├── c_japonica.PRJNA12591.WS297.annotations.gff2
+│   │   │   ├── c_remanei.PRJNA53967.WS297.annotations.gff2
+│   │   │   ├── o_volvulus.PRJEB513.WS297.annotations.gff2
+│   │   │   ├── p_pacificus.PRJNA12644.WS297.annotations.gff2
+│   │   │   ├── s_ratti.PRJEB125.WS297.annotations.gff2
+│   │   │   └── t_muris.PRJEB126.WS297.annotations.gff2
+│   │   ├── gpi_gz
+│   │   ├── html
+│   │   │   ├── alignability.html
+│   │   │   ├── cdna_tracks.html
+│   │   │   ├── description.html
+│   │   │   ├── gene_tracks.html
+│   │   │   ├── genomedata.html
+│   │   │   ├── hub.html
+│   │   │   ├── hubCentral.html
+│   │   │   ├── index.html
+│   │   │   ├── motif_enrichment_sankey.html
+│   │   │   ├── phastcons.html
+│   │   │   ├── phylop.html
+│   │   │   └── repeatmasker.html
+│   │   ├── json
+│   │   │   ├── A_CA_attractors.json
+│   │   │   ├── adj_nodes.json
+│   │   │   ├── adj_nodes_corrected.json
+│   │   │   ├── adj_to_canonical_mapping_autogen.json
+│   │   │   ├── adj_to_canonical_mapping_partial.json
+│   │   │   ├── adjacency_canonical_mapping_from_corrected_summary.json
+│   │   │   ├── artifacts.json
+│   │   │   ├── ASSEMBLIES.WS297.json
+│   │   │   ├── audit_lineageblocked_seed13.json
+│   │   │   ├── audit_lineageblocked_seed21.json
+│   │   │   ├── audit_lineageblocked_seed34.json
+│   │   │   ├── audit_lineageblocked_seed55.json
+│   │   │   ├── audit_lineageblocked_seed89.json
+│   │   │   ├── audit_random_seed13.json
+│   │   │   ├── audit_random_seed21.json
+│   │   │   ├── audit_random_seed34.json
+│   │   │   ├── audit_random_seed55.json
+│   │   │   ├── audit_random_seed89.json
+│   │   │   ├── B_beta1_cycles.json
+│   │   │   ├── baseline_errors.json
+│   │   │   ├── baseline_run_logs.json
+│   │   │   ├── classes.json
+│   │   │   ├── column_dictionary.json
+│   │   │   ├── community_signatures_summary.json
+│   │   │   ├── diagnostics_adj_vs_pca.json
+│   │   │   ├── duplicate_removal_log_20251005_120453.json
+│   │   │   ├── feature_meta.json
+│   │   │   ├── genome_purge_log.json
+│   │   │   ├── gnn_run_logs.json
+│   │   │   ├── graph_stats.json
+│   │   │   ├── history.json
+│   │   │   ├── hub_overlap_summary.json
+│   │   │   ├── hubs_lists.json
+│   │   │   ├── hubs_lists_from_tuples.json
+│   │   │   ├── hubs_lists_refined.json
+│   │   │   ├── IClamp_GenericMuscleCell.json
+│   │   │   ├── IClamp_GenericNeuronCell.json
+│   │   │   ├── label_manifest.json
+│   │   │   ├── lineageblocked_seed13.json
+│   │   │   ├── lineageblocked_seed21.json
+│   │   │   ├── lineageblocked_seed34.json
+│   │   │   ├── lineageblocked_seed55.json
+│   │   │   ├── lineageblocked_seed89.json
+│   │   │   ├── MANIFEST.json
+│   │   │   ├── matched_controls.json
+│   │   │   ├── meta.json
+│   │   │   ├── metrics_seed13_fold0.json
+│   │   │   ├── metrics_seed13_fold1.json
+│   │   │   ├── metrics_seed13_fold2.json
+│   │   │   ├── metrics_seed13_fold3.json
+│   │   │   ├── metrics_seed13_fold4.json
+│   │   │   ├── metrics_seed21_fold0.json
+│   │   │   ├── metrics_seed21_fold1.json
+│   │   │   ├── metrics_seed21_fold2.json
+│   │   │   ├── metrics_seed21_fold3.json
+│   │   │   ├── metrics_seed21_fold4.json
+│   │   │   ├── metrics_seed34_fold0.json
+│   │   │   ├── metrics_seed34_fold1.json
+│   │   │   ├── metrics_seed34_fold2.json
+│   │   │   ├── metrics_seed34_fold3.json
+│   │   │   ├── metrics_seed34_fold4.json
+│   │   │   ├── metrics_seed55_fold0.json
+│   │   │   ├── metrics_seed55_fold1.json
+│   │   │   ├── metrics_seed55_fold2.json
+│   │   │   ├── metrics_seed55_fold3.json
+│   │   │   ├── metrics_seed55_fold4.json
+│   │   │   ├── metrics_seed89_fold0.json
+│   │   │   ├── metrics_seed89_fold1.json
+│   │   │   ├── metrics_seed89_fold2.json
+│   │   │   ├── metrics_seed89_fold3.json
+│   │   │   ├── metrics_seed89_fold4.json
+│   │   │   ├── neuron_lists.json
+│   │   │   ├── overview_v2.json
+│   │   │   ├── pc_to_top_genes.json
+│   │   │   ├── phase4_autopaths.json
+│   │   │   ├── PhaseA_A9_motif_nodes.json
+│   │   │   ├── PhaseA_A9_sensory2motifs.json
+│   │   │   ├── random_seed13.json
+│   │   │   ├── random_seed21.json
+│   │   │   ├── random_seed34.json
+│   │   │   ├── random_seed55.json
+│   │   │   ├── random_seed89.json
+│   │   │   ├── release_manifest.json
+│   │   │   ├── results_overview.json
+│   │   │   ├── signatures_summary.json
+│   │   │   ├── Sim_IClamp_GenericMuscleCell.json
+│   │   │   ├── Sim_IClamp_GenericNeuronCell.json
+│   │   │   ├── test_metrics.json
+│   │   │   ├── train_metrics.json
+│   │   │   └── val_metrics.json
+│   │   ├── md
+│   │   │   └── cells.md
+│   │   ├── motifs
+│   │   │   └── motif_matrix.csv
+│   │   ├── nml
+│   │   │   ├── Acetylcholine.synapse.nml
+│   │   │   ├── Acetylcholine_Tyramine.synapse.nml
+│   │   │   ├── ADAL.cell.nml
+│   │   │   ├── ADAL_D.cell.nml
+│   │   │   ├── ADAR.cell.nml
+│   │   │   ├── ADAR_D.cell.nml
+│   │   │   ├── ADEL.cell.nml
+│   │   │   ├── ADEL_D.cell.nml
+│   │   │   ├── ADER.cell.nml
+│   │   │   ├── ADER_D.cell.nml
+│   │   │   ├── ADFL.cell.nml
+│   │   │   ├── ADFL_D.cell.nml
+│   │   │   ├── ADFR.cell.nml
+│   │   │   ├── ADFR_D.cell.nml
+│   │   │   ├── ADLL.cell.nml
+│   │   │   ├── ADLL_D.cell.nml
+│   │   │   ├── ADLR.cell.nml
+│   │   │   ├── ADLR_D.cell.nml
+│   │   │   ├── AFDL.cell.nml
+│   │   │   ├── AFDL_D.cell.nml
+│   │   │   ├── AFDR.cell.nml
+│   │   │   ├── AFDR_D.cell.nml
+│   │   │   ├── AIAL.cell.nml
+│   │   │   ├── AIAL_D.cell.nml
+│   │   │   ├── AIAR.cell.nml
+│   │   │   ├── AIAR_D.cell.nml
+│   │   │   ├── AIBL.cell.nml
+│   │   │   ├── AIBL_D.cell.nml
+│   │   │   ├── AIBR.cell.nml
+│   │   │   ├── AIBR_D.cell.nml
+│   │   │   ├── AIML.cell.nml
+│   │   │   ├── AIML_D.cell.nml
+│   │   │   ├── AIMR.cell.nml
+│   │   │   ├── AIMR_D.cell.nml
+│   │   │   ├── AINL.cell.nml
+│   │   │   ├── AINL_D.cell.nml
+│   │   │   ├── AINR.cell.nml
+│   │   │   ├── AINR_D.cell.nml
+│   │   │   ├── AIYL.cell.nml
+│   │   │   ├── AIYL_D.cell.nml
+│   │   │   ├── AIYR.cell.nml
+│   │   │   ├── AIYR_D.cell.nml
+│   │   │   ├── AIZL.cell.nml
+│   │   │   ├── AIZL_D.cell.nml
+│   │   │   ├── AIZR.cell.nml
+│   │   │   ├── AIZR_D.cell.nml
+│   │   │   ├── ALA.cell.nml
+│   │   │   ├── ALA_D.cell.nml
+│   │   │   ├── ALML.cell.nml
+│   │   │   ├── ALML_D.cell.nml
+│   │   │   ├── ALMR.cell.nml
+│   │   │   ├── ALMR_D.cell.nml
+│   │   │   ├── ALNL.cell.nml
+│   │   │   ├── ALNL_D.cell.nml
+│   │   │   ├── ALNR.cell.nml
+│   │   │   ├── ALNR_D.cell.nml
+│   │   │   ├── AQR.cell.nml
+│   │   │   ├── AQR_D.cell.nml
+│   │   │   ├── AS1.cell.nml
+│   │   │   ├── AS10.cell.nml
+│   │   │   ├── AS10_D.cell.nml
+│   │   │   ├── AS11.cell.nml
+│   │   │   ├── AS11_D.cell.nml
+│   │   │   ├── AS1_D.cell.nml
+│   │   │   ├── AS2.cell.nml
+│   │   │   ├── AS2_D.cell.nml
+│   │   │   ├── AS3.cell.nml
+│   │   │   ├── AS3_D.cell.nml
+│   │   │   ├── AS4.cell.nml
+│   │   │   ├── AS4_D.cell.nml
+│   │   │   ├── AS5.cell.nml
+│   │   │   ├── AS5_D.cell.nml
+│   │   │   ├── AS6.cell.nml
+│   │   │   ├── AS6_D.cell.nml
+│   │   │   ├── AS7.cell.nml
+│   │   │   ├── AS7_D.cell.nml
+│   │   │   ├── AS8.cell.nml
+│   │   │   ├── AS8_D.cell.nml
+│   │   │   ├── AS9.cell.nml
+│   │   │   ├── AS9_D.cell.nml
+│   │   │   ├── ASEL.cell.nml
+│   │   │   ├── ASEL_D.cell.nml
+│   │   │   ├── ASER.cell.nml
+│   │   │   ├── ASER_D.cell.nml
+│   │   │   ├── ASGL.cell.nml
+│   │   │   ├── ASGL_D.cell.nml
+│   │   │   ├── ASGR.cell.nml
+│   │   │   ├── ASGR_D.cell.nml
+│   │   │   ├── ASHL.cell.nml
+│   │   │   ├── ASHL_D.cell.nml
+│   │   │   ├── ASHR.cell.nml
+│   │   │   ├── ASHR_D.cell.nml
+│   │   │   ├── ASIL.cell.nml
+│   │   │   ├── ASIL_D.cell.nml
+│   │   │   ├── ASIR.cell.nml
+│   │   │   ├── ASIR_D.cell.nml
+│   │   │   ├── ASJL.cell.nml
+│   │   │   ├── ASJL_D.cell.nml
+│   │   │   ├── ASJR.cell.nml
+│   │   │   ├── ASJR_D.cell.nml
+│   │   │   ├── ASKL.cell.nml
+│   │   │   ├── ASKL_D.cell.nml
+│   │   │   ├── ASKR.cell.nml
+│   │   │   ├── ASKR_D.cell.nml
+│   │   │   ├── AUAL.cell.nml
+│   │   │   ├── AUAL_D.cell.nml
+│   │   │   ├── AUAR.cell.nml
+│   │   │   ├── AUAR_D.cell.nml
+│   │   │   ├── AVAL.cell.nml
+│   │   │   ├── AVAL_D.cell.nml
+│   │   │   ├── AVAR.cell.nml
+│   │   │   ├── AVAR_D.cell.nml
+│   │   │   ├── AVBL.cell.nml
+│   │   │   ├── AVBL_D.cell.nml
+│   │   │   ├── AVBR.cell.nml
+│   │   │   ├── AVBR_D.cell.nml
+│   │   │   ├── AVDL.cell.nml
+│   │   │   ├── AVDL_D.cell.nml
+│   │   │   ├── AVDR.cell.nml
+│   │   │   ├── AVDR_D.cell.nml
+│   │   │   ├── AVEL.cell.nml
+│   │   │   ├── AVEL_D.cell.nml
+│   │   │   ├── AVER.cell.nml
+│   │   │   ├── AVER_D.cell.nml
+│   │   │   ├── AVFL.cell.nml
+│   │   │   ├── AVFL_D.cell.nml
+│   │   │   ├── AVFR.cell.nml
+│   │   │   ├── AVFR_D.cell.nml
+│   │   │   ├── AVG.cell.nml
+│   │   │   ├── AVG_D.cell.nml
+│   │   │   ├── AVHL.cell.nml
+│   │   │   ├── AVHL_D.cell.nml
+│   │   │   ├── AVHR.cell.nml
+│   │   │   ├── AVHR_D.cell.nml
+│   │   │   ├── AVJL.cell.nml
+│   │   │   ├── AVJL_D.cell.nml
+│   │   │   ├── AVJR.cell.nml
+│   │   │   ├── AVJR_D.cell.nml
+│   │   │   ├── AVKL.cell.nml
+│   │   │   ├── AVKL_D.cell.nml
+│   │   │   ├── AVKR.cell.nml
+│   │   │   ├── AVKR_D.cell.nml
+│   │   │   ├── AVL.cell.nml
+│   │   │   ├── AVL_D.cell.nml
+│   │   │   ├── AVM.cell.nml
+│   │   │   ├── AVM_D.cell.nml
+│   │   │   ├── AWAL.cell.nml
+│   │   │   ├── AWAL_D.cell.nml
+│   │   │   ├── AWAR.cell.nml
+│   │   │   ├── AWAR_D.cell.nml
+│   │   │   ├── AWBL.cell.nml
+│   │   │   ├── AWBL_D.cell.nml
+│   │   │   ├── AWBR.cell.nml
+│   │   │   ├── AWBR_D.cell.nml
+│   │   │   ├── AWCL.cell.nml
+│   │   │   ├── AWCL_D.cell.nml
+│   │   │   ├── AWCR.cell.nml
+│   │   │   ├── AWCR_D.cell.nml
+│   │   │   ├── BAGL.cell.nml
+│   │   │   ├── BAGL_D.cell.nml
+│   │   │   ├── BAGR.cell.nml
+│   │   │   ├── BAGR_D.cell.nml
+│   │   │   ├── BDUL.cell.nml
+│   │   │   ├── BDUL_D.cell.nml
+│   │   │   ├── BDUR.cell.nml
+│   │   │   ├── BDUR_D.cell.nml
+│   │   │   ├── c302_A_Full.net.nml
+│   │   │   ├── c302_A_IClamp.net.nml
+│   │   │   ├── c302_A_Muscles.net.nml
+│   │   │   ├── c302_A_Oscillator.net.nml
+│   │   │   ├── c302_A_Pharyngeal.net.nml
+│   │   │   ├── c302_A_Social.net.nml
+│   │   │   ├── c302_A_Syns.net.nml
+│   │   │   ├── c302_B_Full.net.nml
+│   │   │   ├── c302_B_IClamp.net.nml
+│   │   │   ├── c302_B_Muscles.net.nml
+│   │   │   ├── c302_B_Oscillator.net.nml
+│   │   │   ├── c302_B_Pharyngeal.net.nml
+│   │   │   ├── c302_B_Social.net.nml
+│   │   │   ├── c302_B_Syns.net.nml
+│   │   │   ├── c302_C0_Full.net.nml
+│   │   │   ├── c302_C0_IClamp.net.nml
+│   │   │   ├── c302_C0_Muscles.net.nml
+│   │   │   ├── c302_C0_Oscillator.net.nml
+│   │   │   ├── c302_C0_Pharyngeal.net.nml
+│   │   │   ├── c302_C0_Social.net.nml
+│   │   │   ├── c302_C0_Syns.net.nml
+│   │   │   ├── c302_C1_Full.net.nml
+│   │   │   ├── c302_C1_IClamp.net.nml
+│   │   │   ├── c302_C1_Muscles.net.nml
+│   │   │   ├── c302_C1_Oscillator.net.nml
+│   │   │   ├── c302_C1_Pharyngeal.net.nml
+│   │   │   ├── c302_C1_Social.net.nml
+│   │   │   ├── c302_C1_Syns.net.nml
+│   │   │   ├── c302_C2_Full.net.nml
+│   │   │   ├── c302_C2_FW.net.nml
+│   │   │   ├── c302_C2_IClamp.net.nml
+│   │   │   ├── c302_C2_Muscles.net.nml
+│   │   │   ├── c302_C2_Oscillator.net.nml
+│   │   │   ├── c302_C2_Pharyngeal.net.nml
+│   │   │   ├── c302_C2_Social.net.nml
+│   │   │   ├── c302_C2_Syns.net.nml
+│   │   │   ├── c302_C_Full.net.nml
+│   │   │   ├── c302_C_IClamp.net.nml
+│   │   │   ├── c302_C_Muscles.net.nml
+│   │   │   ├── c302_C_Oscillator.net.nml
+│   │   │   ├── c302_C_Pharyngeal.net.nml
+│   │   │   ├── c302_C_Social.net.nml
+│   │   │   ├── c302_C_Syns.net.nml
+│   │   │   ├── c302_D1_Full.net.nml
+│   │   │   ├── c302_D1_IClamp.net.nml
+│   │   │   ├── c302_D1_Muscles.net.nml
+│   │   │   ├── c302_D1_Oscillator.net.nml
+│   │   │   ├── c302_D1_Pharyngeal.net.nml
+│   │   │   ├── c302_D1_RIA.net.nml
+│   │   │   ├── c302_D1_Social.net.nml
+│   │   │   ├── c302_D1_Syns.net.nml
+│   │   │   ├── c302_D_Full.net.nml
+│   │   │   ├── c302_D_IClamp.net.nml
+│   │   │   ├── c302_D_Muscles.net.nml
+│   │   │   ├── c302_D_Oscillator.net.nml
+│   │   │   ├── c302_D_Pharyngeal.net.nml
+│   │   │   ├── c302_D_Social.net.nml
+│   │   │   ├── c302_D_Syns.net.nml
+│   │   │   ├── c302_W2D_Full.net.nml
+│   │   │   ├── c302_W2D_IClamp.net.nml
+│   │   │   ├── c302_W2D_Muscles.net.nml
+│   │   │   ├── c302_W2D_Oscillator.net.nml
+│   │   │   ├── c302_W2D_Pharyngeal.net.nml
+│   │   │   ├── c302_W2D_Social.net.nml
+│   │   │   ├── c302_W2D_Syns.net.nml
+│   │   │   ├── CANL.cell.nml
+│   │   │   ├── CANL_D.cell.nml
+│   │   │   ├── Canonical_C.net.nml
+│   │   │   ├── Canonical_W2D.net.nml
+│   │   │   ├── CANR.cell.nml
+│   │   │   ├── CANR_D.cell.nml
+│   │   │   ├── CellsOnly.net.nml
+│   │   │   ├── CEPDL.cell.nml
+│   │   │   ├── CEPDL_D.cell.nml
+│   │   │   ├── CEPDR.cell.nml
+│   │   │   ├── CEPDR_D.cell.nml
+│   │   │   ├── CEPVL.cell.nml
+│   │   │   ├── CEPVL_D.cell.nml
+│   │   │   ├── CEPVR.cell.nml
+│   │   │   ├── CEPVR_D.cell.nml
+│   │   │   ├── DA1.cell.nml
+│   │   │   ├── DA1_D.cell.nml
+│   │   │   ├── DA2.cell.nml
+│   │   │   ├── DA2_D.cell.nml
+│   │   │   ├── DA3.cell.nml
+│   │   │   ├── DA3_D.cell.nml
+│   │   │   ├── DA4.cell.nml
+│   │   │   ├── DA4_D.cell.nml
+│   │   │   ├── DA5.cell.nml
+│   │   │   ├── DA5_D.cell.nml
+│   │   │   ├── DA6.cell.nml
+│   │   │   ├── DA6_D.cell.nml
+│   │   │   ├── DA7.cell.nml
+│   │   │   ├── DA7_D.cell.nml
+│   │   │   ├── DA8.cell.nml
+│   │   │   ├── DA8_D.cell.nml
+│   │   │   ├── DA9.cell.nml
+│   │   │   ├── DA9_D.cell.nml
+│   │   │   ├── DB1.cell.nml
+│   │   │   ├── DB1_D.cell.nml
+│   │   │   ├── DB2.cell.nml
+│   │   │   ├── DB2_D.cell.nml
+│   │   │   ├── DB3.cell.nml
+│   │   │   ├── DB3_D.cell.nml
+│   │   │   ├── DB4.cell.nml
+│   │   │   ├── DB4_D.cell.nml
+│   │   │   ├── DB5.cell.nml
+│   │   │   ├── DB5_D.cell.nml
+│   │   │   ├── DB6.cell.nml
+│   │   │   ├── DB6_D.cell.nml
+│   │   │   ├── DB7.cell.nml
+│   │   │   ├── DB7_D.cell.nml
+│   │   │   ├── DD1.cell.nml
+│   │   │   ├── DD1_D.cell.nml
+│   │   │   ├── DD2.cell.nml
+│   │   │   ├── DD2_D.cell.nml
+│   │   │   ├── DD3.cell.nml
+│   │   │   ├── DD3_D.cell.nml
+│   │   │   ├── DD4.cell.nml
+│   │   │   ├── DD4_D.cell.nml
+│   │   │   ├── DD5.cell.nml
+│   │   │   ├── DD5_D.cell.nml
+│   │   │   ├── DD6.cell.nml
+│   │   │   ├── DD6_D.cell.nml
+│   │   │   ├── Dopamine.synapse.nml
+│   │   │   ├── DVA.cell.nml
+│   │   │   ├── DVA_D.cell.nml
+│   │   │   ├── DVB.cell.nml
+│   │   │   ├── DVB_D.cell.nml
+│   │   │   ├── DVC.cell.nml
+│   │   │   ├── DVC_D.cell.nml
+│   │   │   ├── FLPL.cell.nml
+│   │   │   ├── FLPL_D.cell.nml
+│   │   │   ├── FLPR.cell.nml
+│   │   │   ├── FLPR_D.cell.nml
+│   │   │   ├── FMRFamide.synapse.nml
+│   │   │   ├── GABA.synapse.nml
+│   │   │   ├── Generic_GJ.nml
+│   │   │   ├── GenericMuscleCell.cell.nml
+│   │   │   ├── GenericNeuronCell.cell.nml
+│   │   │   ├── Glutamate.synapse.nml
+│   │   │   ├── HSNL.cell.nml
+│   │   │   ├── HSNL_D.cell.nml
+│   │   │   ├── HSNR.cell.nml
+│   │   │   ├── HSNR_D.cell.nml
+│   │   │   ├── I1L.cell.nml
+│   │   │   ├── I1L_D.cell.nml
+│   │   │   ├── I1R.cell.nml
+│   │   │   ├── I1R_D.cell.nml
+│   │   │   ├── I2L.cell.nml
+│   │   │   ├── I2L_D.cell.nml
+│   │   │   ├── I2R.cell.nml
+│   │   │   ├── I2R_D.cell.nml
+│   │   │   ├── I3.cell.nml
+│   │   │   ├── I3_D.cell.nml
+│   │   │   ├── I4.cell.nml
+│   │   │   ├── I4_D.cell.nml
+│   │   │   ├── I5.cell.nml
+│   │   │   ├── I5_D.cell.nml
+│   │   │   ├── I6.cell.nml
+│   │   │   ├── I6_D.cell.nml
+│   │   │   ├── IClamp_GenericMuscleCell.net.nml
+│   │   │   ├── IClamp_GenericNeuronCell.net.nml
+│   │   │   ├── IL1DL.cell.nml
+│   │   │   ├── IL1DL_D.cell.nml
+│   │   │   ├── IL1DR.cell.nml
+│   │   │   ├── IL1DR_D.cell.nml
+│   │   │   ├── IL1L.cell.nml
+│   │   │   ├── IL1L_D.cell.nml
+│   │   │   ├── IL1R.cell.nml
+│   │   │   ├── IL1R_D.cell.nml
+│   │   │   ├── IL1VL.cell.nml
+│   │   │   ├── IL1VL_D.cell.nml
+│   │   │   ├── IL1VR.cell.nml
+│   │   │   ├── IL1VR_D.cell.nml
+│   │   │   ├── IL2DL.cell.nml
+│   │   │   ├── IL2DL_D.cell.nml
+│   │   │   ├── IL2DR.cell.nml
+│   │   │   ├── IL2DR_D.cell.nml
+│   │   │   ├── IL2L.cell.nml
+│   │   │   ├── IL2L_D.cell.nml
+│   │   │   ├── IL2R.cell.nml
+│   │   │   ├── IL2R_D.cell.nml
+│   │   │   ├── IL2VL.cell.nml
+│   │   │   ├── IL2VL_D.cell.nml
+│   │   │   ├── IL2VR.cell.nml
+│   │   │   ├── IL2VR_D.cell.nml
+│   │   │   ├── LeakConductance.channel.nml
+│   │   │   ├── LUAL.cell.nml
+│   │   │   ├── LUAL_D.cell.nml
+│   │   │   ├── LUAR.cell.nml
+│   │   │   ├── LUAR_D.cell.nml
+│   │   │   ├── M1.cell.nml
+│   │   │   ├── M1_D.cell.nml
+│   │   │   ├── M2L.cell.nml
+│   │   │   ├── M2L_D.cell.nml
+│   │   │   ├── M2R.cell.nml
+│   │   │   ├── M2R_D.cell.nml
+│   │   │   ├── M3L.cell.nml
+│   │   │   ├── M3L_D.cell.nml
+│   │   │   ├── M3R.cell.nml
+│   │   │   ├── M3R_D.cell.nml
+│   │   │   ├── M4.cell.nml
+│   │   │   ├── M4_D.cell.nml
+│   │   │   ├── M5.cell.nml
+│   │   │   ├── M5_D.cell.nml
+│   │   │   ├── MCL.cell.nml
+│   │   │   ├── MCL_D.cell.nml
+│   │   │   ├── MCR.cell.nml
+│   │   │   ├── MCR_D.cell.nml
+│   │   │   ├── MDL08.cell.nml
+│   │   │   ├── MI.cell.nml
+│   │   │   ├── MI_D.cell.nml
+│   │   │   ├── NSML.cell.nml
+│   │   │   ├── NSML_D.cell.nml
+│   │   │   ├── NSMR.cell.nml
+│   │   │   ├── NSMR_D.cell.nml
+│   │   │   ├── Octapamine.synapse.nml
+│   │   │   ├── OLLL.cell.nml
+│   │   │   ├── OLLL_D.cell.nml
+│   │   │   ├── OLLR.cell.nml
+│   │   │   ├── OLLR_D.cell.nml
+│   │   │   ├── OLQDL.cell.nml
+│   │   │   ├── OLQDL_D.cell.nml
+│   │   │   ├── OLQDR.cell.nml
+│   │   │   ├── OLQDR_D.cell.nml
+│   │   │   ├── OLQVL.cell.nml
+│   │   │   ├── OLQVL_D.cell.nml
+│   │   │   ├── OLQVR.cell.nml
+│   │   │   ├── OLQVR_D.cell.nml
+│   │   │   ├── PDA.cell.nml
+│   │   │   ├── PDA_D.cell.nml
+│   │   │   ├── PDB.cell.nml
+│   │   │   ├── PDB_D.cell.nml
+│   │   │   ├── PDEL.cell.nml
+│   │   │   ├── PDEL_D.cell.nml
+│   │   │   ├── PDER.cell.nml
+│   │   │   ├── PDER_D.cell.nml
+│   │   │   ├── PHAL.cell.nml
+│   │   │   ├── PHAL_D.cell.nml
+│   │   │   ├── PHAR.cell.nml
+│   │   │   ├── PHAR_D.cell.nml
+│   │   │   ├── PharyngealCellsOnly.net.nml
+│   │   │   ├── PharyngealNetwork.net.nml
+│   │   │   ├── PHBL.cell.nml
+│   │   │   ├── PHBL_D.cell.nml
+│   │   │   ├── PHBR.cell.nml
+│   │   │   ├── PHBR_D.cell.nml
+│   │   │   ├── PHCL.cell.nml
+│   │   │   ├── PHCL_D.cell.nml
+│   │   │   ├── PHCR.cell.nml
+│   │   │   ├── PHCR_D.cell.nml
+│   │   │   ├── PLML.cell.nml
+│   │   │   ├── PLML_D.cell.nml
+│   │   │   ├── PLMR.cell.nml
+│   │   │   ├── PLMR_D.cell.nml
+│   │   │   ├── PLNL.cell.nml
+│   │   │   ├── PLNL_D.cell.nml
+│   │   │   ├── PLNR.cell.nml
+│   │   │   ├── PLNR_D.cell.nml
+│   │   │   ├── PQR.cell.nml
+│   │   │   ├── PQR_D.cell.nml
+│   │   │   ├── PVCL.cell.nml
+│   │   │   ├── PVCL_D.cell.nml
+│   │   │   ├── PVCR.cell.nml
+│   │   │   ├── PVCR_D.cell.nml
+│   │   │   ├── PVDL.cell.nml
+│   │   │   ├── PVDL_D.cell.nml
+│   │   │   ├── PVDR.cell.nml
+│   │   │   ├── PVDR_D.cell.nml
+│   │   │   ├── PVM.cell.nml
+│   │   │   ├── PVM_D.cell.nml
+│   │   │   ├── PVNL.cell.nml
+│   │   │   ├── PVNL_D.cell.nml
+│   │   │   ├── PVNR.cell.nml
+│   │   │   ├── PVNR_D.cell.nml
+│   │   │   ├── PVPL.cell.nml
+│   │   │   ├── PVPL_D.cell.nml
+│   │   │   ├── PVPR.cell.nml
+│   │   │   ├── PVPR_D.cell.nml
+│   │   │   ├── PVQL.cell.nml
+│   │   │   ├── PVQL_D.cell.nml
+│   │   │   ├── PVQR.cell.nml
+│   │   │   ├── PVQR_D.cell.nml
+│   │   │   ├── PVR.cell.nml
+│   │   │   ├── PVR_D.cell.nml
+│   │   │   ├── PVT.cell.nml
+│   │   │   ├── PVT_D.cell.nml
+│   │   │   ├── PVWL.cell.nml
+│   │   │   ├── PVWL_D.cell.nml
+│   │   │   ├── PVWR.cell.nml
+│   │   │   ├── PVWR_D.cell.nml
+│   │   │   ├── RIAL.cell.nml
+│   │   │   ├── RIAL_D.cell.nml
+│   │   │   ├── RIAR.cell.nml
+│   │   │   ├── RIAR_D.cell.nml
+│   │   │   ├── RIBL.cell.nml
+│   │   │   ├── RIBL_D.cell.nml
+│   │   │   ├── RIBR.cell.nml
+│   │   │   ├── RIBR_D.cell.nml
+│   │   │   ├── RICL.cell.nml
+│   │   │   ├── RICL_D.cell.nml
+│   │   │   ├── RICR.cell.nml
+│   │   │   ├── RICR_D.cell.nml
+│   │   │   ├── RID.cell.nml
+│   │   │   ├── RID_D.cell.nml
+│   │   │   ├── RIFL.cell.nml
+│   │   │   ├── RIFL_D.cell.nml
+│   │   │   ├── RIFR.cell.nml
+│   │   │   ├── RIFR_D.cell.nml
+│   │   │   ├── RIGL.cell.nml
+│   │   │   ├── RIGL_D.cell.nml
+│   │   │   ├── RIGR.cell.nml
+│   │   │   ├── RIGR_D.cell.nml
+│   │   │   ├── RIH.cell.nml
+│   │   │   ├── RIH_D.cell.nml
+│   │   │   ├── RIML.cell.nml
+│   │   │   ├── RIML_D.cell.nml
+│   │   │   ├── RIMR.cell.nml
+│   │   │   ├── RIMR_D.cell.nml
+│   │   │   ├── RIPL.cell.nml
+│   │   │   ├── RIPL_D.cell.nml
+│   │   │   ├── RIPR.cell.nml
+│   │   │   ├── RIPR_D.cell.nml
+│   │   │   ├── RIR.cell.nml
+│   │   │   ├── RIR_D.cell.nml
+│   │   │   ├── RIS.cell.nml
+│   │   │   ├── RIS_D.cell.nml
+│   │   │   ├── RIVL.cell.nml
+│   │   │   ├── RIVL_D.cell.nml
+│   │   │   ├── RIVR.cell.nml
+│   │   │   ├── RIVR_D.cell.nml
+│   │   │   ├── RMDDL.cell.nml
+│   │   │   ├── RMDDL_D.cell.nml
+│   │   │   ├── RMDDR.cell.nml
+│   │   │   ├── RMDDR_D.cell.nml
+│   │   │   ├── RMDL.cell.nml
+│   │   │   ├── RMDL_D.cell.nml
+│   │   │   ├── RMDR.cell.nml
+│   │   │   ├── RMDR_D.cell.nml
+│   │   │   ├── RMDVL.cell.nml
+│   │   │   ├── RMDVL_D.cell.nml
+│   │   │   ├── RMDVR.cell.nml
+│   │   │   ├── RMDVR_D.cell.nml
+│   │   │   ├── RMED.cell.nml
+│   │   │   ├── RMED_D.cell.nml
+│   │   │   ├── RMEL.cell.nml
+│   │   │   ├── RMEL_D.cell.nml
+│   │   │   ├── RMER.cell.nml
+│   │   │   ├── RMER_D.cell.nml
+│   │   │   ├── RMEV.cell.nml
+│   │   │   ├── RMEV_D.cell.nml
+│   │   │   ├── RMFL.cell.nml
+│   │   │   ├── RMFL_D.cell.nml
+│   │   │   ├── RMFR.cell.nml
+│   │   │   ├── RMFR_D.cell.nml
+│   │   │   ├── RMGL.cell.nml
+│   │   │   ├── RMGL_D.cell.nml
+│   │   │   ├── RMGR.cell.nml
+│   │   │   ├── RMGR_D.cell.nml
+│   │   │   ├── RMHL.cell.nml
+│   │   │   ├── RMHL_D.cell.nml
+│   │   │   ├── RMHR.cell.nml
+│   │   │   ├── RMHR_D.cell.nml
+│   │   │   ├── SAADL.cell.nml
+│   │   │   ├── SAADL_D.cell.nml
+│   │   │   ├── SAADR.cell.nml
+│   │   │   ├── SAADR_D.cell.nml
+│   │   │   ├── SAAVL.cell.nml
+│   │   │   ├── SAAVL_D.cell.nml
+│   │   │   ├── SAAVR.cell.nml
+│   │   │   ├── SAAVR_D.cell.nml
+│   │   │   ├── SABD.cell.nml
+│   │   │   ├── SABD_D.cell.nml
+│   │   │   ├── SABVL.cell.nml
+│   │   │   ├── SABVL_D.cell.nml
+│   │   │   ├── SABVR.cell.nml
+│   │   │   ├── SABVR_D.cell.nml
+│   │   │   ├── SDQL.cell.nml
+│   │   │   ├── SDQL_D.cell.nml
+│   │   │   ├── SDQR.cell.nml
+│   │   │   ├── SDQR_D.cell.nml
+│   │   │   ├── Serotonin.synapse.nml
+│   │   │   ├── Serotonin_Acetylcholine.synapse.nml
+│   │   │   ├── Serotonin_Glutamate.synapse.nml
+│   │   │   ├── SIADL.cell.nml
+│   │   │   ├── SIADL_D.cell.nml
+│   │   │   ├── SIADR.cell.nml
+│   │   │   ├── SIADR_D.cell.nml
+│   │   │   ├── SIAVL.cell.nml
+│   │   │   ├── SIAVL_D.cell.nml
+│   │   │   ├── SIAVR.cell.nml
+│   │   │   ├── SIAVR_D.cell.nml
+│   │   │   ├── SIBDL.cell.nml
+│   │   │   ├── SIBDL_D.cell.nml
+│   │   │   ├── SIBDR.cell.nml
+│   │   │   ├── SIBDR_D.cell.nml
+│   │   │   ├── SIBVL.cell.nml
+│   │   │   ├── SIBVL_D.cell.nml
+│   │   │   ├── SIBVR.cell.nml
+│   │   │   ├── SIBVR_D.cell.nml
+│   │   │   ├── SMBDL.cell.nml
+│   │   │   ├── SMBDL_D.cell.nml
+│   │   │   ├── SMBDR.cell.nml
+│   │   │   ├── SMBDR_D.cell.nml
+│   │   │   ├── SMBVL.cell.nml
+│   │   │   ├── SMBVL_D.cell.nml
+│   │   │   ├── SMBVR.cell.nml
+│   │   │   ├── SMBVR_D.cell.nml
+│   │   │   ├── SMDDL.cell.nml
+│   │   │   ├── SMDDL_D.cell.nml
+│   │   │   ├── SMDDR.cell.nml
+│   │   │   ├── SMDDR_D.cell.nml
+│   │   │   ├── SMDVL.cell.nml
+│   │   │   ├── SMDVL_D.cell.nml
+│   │   │   ├── SMDVR.cell.nml
+│   │   │   ├── SMDVR_D.cell.nml
+│   │   │   ├── URADL.cell.nml
+│   │   │   ├── URADL_D.cell.nml
+│   │   │   ├── URADR.cell.nml
+│   │   │   ├── URADR_D.cell.nml
+│   │   │   ├── URAVL.cell.nml
+│   │   │   ├── URAVL_D.cell.nml
+│   │   │   ├── URAVR.cell.nml
+│   │   │   ├── URAVR_D.cell.nml
+│   │   │   ├── URBL.cell.nml
+│   │   │   ├── URBL_D.cell.nml
+│   │   │   ├── URBR.cell.nml
+│   │   │   ├── URBR_D.cell.nml
+│   │   │   ├── URXL.cell.nml
+│   │   │   ├── URXL_D.cell.nml
+│   │   │   ├── URXR.cell.nml
+│   │   │   ├── URXR_D.cell.nml
+│   │   │   ├── URYDL.cell.nml
+│   │   │   ├── URYDL_D.cell.nml
+│   │   │   ├── URYDR.cell.nml
+│   │   │   ├── URYDR_D.cell.nml
+│   │   │   ├── URYVL.cell.nml
+│   │   │   ├── URYVL_D.cell.nml
+│   │   │   ├── URYVR.cell.nml
+│   │   │   ├── URYVR_D.cell.nml
+│   │   │   ├── VA1.cell.nml
+│   │   │   ├── VA10.cell.nml
+│   │   │   ├── VA10_D.cell.nml
+│   │   │   ├── VA11.cell.nml
+│   │   │   ├── VA11_D.cell.nml
+│   │   │   ├── VA12.cell.nml
+│   │   │   ├── VA12_D.cell.nml
+│   │   │   ├── VA1_D.cell.nml
+│   │   │   ├── VA2.cell.nml
+│   │   │   ├── VA2_D.cell.nml
+│   │   │   ├── VA3.cell.nml
+│   │   │   ├── VA3_D.cell.nml
+│   │   │   ├── VA4.cell.nml
+│   │   │   ├── VA4_D.cell.nml
+│   │   │   ├── VA5.cell.nml
+│   │   │   ├── VA5_D.cell.nml
+│   │   │   ├── VA6.cell.nml
+│   │   │   ├── VA6_D.cell.nml
+│   │   │   ├── VA7.cell.nml
+│   │   │   ├── VA7_D.cell.nml
+│   │   │   ├── VA8.cell.nml
+│   │   │   ├── VA8_D.cell.nml
+│   │   │   ├── VA9.cell.nml
+│   │   │   ├── VA9_D.cell.nml
+│   │   │   ├── VB1.cell.nml
+│   │   │   ├── VB10.cell.nml
+│   │   │   ├── VB10_D.cell.nml
+│   │   │   ├── VB11.cell.nml
+│   │   │   ├── VB11_D.cell.nml
+│   │   │   ├── VB1_D.cell.nml
+│   │   │   ├── VB2.cell.nml
+│   │   │   ├── VB2_D.cell.nml
+│   │   │   ├── VB3.cell.nml
+│   │   │   ├── VB3_D.cell.nml
+│   │   │   ├── VB4.cell.nml
+│   │   │   ├── VB4_D.cell.nml
+│   │   │   ├── VB5.cell.nml
+│   │   │   ├── VB5_D.cell.nml
+│   │   │   ├── VB6.cell.nml
+│   │   │   ├── VB6_D.cell.nml
+│   │   │   ├── VB7.cell.nml
+│   │   │   ├── VB7_D.cell.nml
+│   │   │   ├── VB8.cell.nml
+│   │   │   ├── VB8_D.cell.nml
+│   │   │   ├── VB9.cell.nml
+│   │   │   ├── VB9_D.cell.nml
+│   │   │   ├── VC1.cell.nml
+│   │   │   ├── VC1_D.cell.nml
+│   │   │   ├── VC2.cell.nml
+│   │   │   ├── VC2_D.cell.nml
+│   │   │   ├── VC3.cell.nml
+│   │   │   ├── VC3_D.cell.nml
+│   │   │   ├── VC4.cell.nml
+│   │   │   ├── VC4_D.cell.nml
+│   │   │   ├── VC5.cell.nml
+│   │   │   ├── VC5_D.cell.nml
+│   │   │   ├── VC6.cell.nml
+│   │   │   ├── VC6_D.cell.nml
+│   │   │   ├── VD1.cell.nml
+│   │   │   ├── VD10.cell.nml
+│   │   │   ├── VD10_D.cell.nml
+│   │   │   ├── VD11.cell.nml
+│   │   │   ├── VD11_D.cell.nml
+│   │   │   ├── VD12.cell.nml
+│   │   │   ├── VD12_D.cell.nml
+│   │   │   ├── VD13.cell.nml
+│   │   │   ├── VD13_D.cell.nml
+│   │   │   ├── VD1_D.cell.nml
+│   │   │   ├── VD2.cell.nml
+│   │   │   ├── VD2_D.cell.nml
+│   │   │   ├── VD3.cell.nml
+│   │   │   ├── VD3_D.cell.nml
+│   │   │   ├── VD4.cell.nml
+│   │   │   ├── VD4_D.cell.nml
+│   │   │   ├── VD5.cell.nml
+│   │   │   ├── VD5_D.cell.nml
+│   │   │   ├── VD6.cell.nml
+│   │   │   ├── VD6_D.cell.nml
+│   │   │   ├── VD7.cell.nml
+│   │   │   ├── VD7_D.cell.nml
+│   │   │   ├── VD8.cell.nml
+│   │   │   ├── VD8_D.cell.nml
+│   │   │   ├── VD9.cell.nml
+│   │   │   └── VD9_D.cell.nml
+│   │   ├── npy
+│   │   │   ├── C1_perm_degree_basal.npy
+│   │   │   ├── CeNGEN_PCA50.npy
+│   │   │   ├── D3_recon_full.npy
+│   │   │   ├── hub_null_counts.npy
+│   │   │   ├── hub_null_counts_checkpoint_1000.npy
+│   │   │   ├── hub_null_counts_checkpoint_2000.npy
+│   │   │   ├── hub_null_counts_checkpoint_3000.npy
+│   │   │   ├── hub_null_counts_checkpoint_4000.npy
+│   │   │   ├── hub_null_counts_checkpoint_5000.npy
+│   │   │   ├── hub_null_counts_checkpoint_6000.npy
+│   │   │   ├── hub_null_counts_checkpoint_7000.npy
+│   │   │   ├── hub_null_counts_checkpoint_8000.npy
+│   │   │   ├── hub_null_counts_checkpoint_9000.npy
+│   │   │   ├── hub_vgae_embeddings.npy
+│   │   │   ├── logits_seed13_fold0.npy
+│   │   │   ├── logits_seed13_fold1.npy
+│   │   │   ├── logits_seed13_fold2.npy
+│   │   │   ├── logits_seed13_fold3.npy
+│   │   │   ├── logits_seed13_fold4.npy
+│   │   │   ├── logits_seed21_fold0.npy
+│   │   │   ├── logits_seed21_fold1.npy
+│   │   │   ├── logits_seed21_fold2.npy
+│   │   │   ├── logits_seed21_fold3.npy
+│   │   │   ├── logits_seed21_fold4.npy
+│   │   │   ├── logits_seed34_fold0.npy
+│   │   │   ├── logits_seed34_fold1.npy
+│   │   │   ├── logits_seed34_fold2.npy
+│   │   │   ├── logits_seed34_fold3.npy
+│   │   │   ├── logits_seed34_fold4.npy
+│   │   │   ├── logits_seed55_fold0.npy
+│   │   │   ├── logits_seed55_fold1.npy
+│   │   │   ├── logits_seed55_fold2.npy
+│   │   │   ├── logits_seed55_fold3.npy
+│   │   │   ├── logits_seed55_fold4.npy
+│   │   │   ├── logits_seed89_fold0.npy
+│   │   │   ├── logits_seed89_fold1.npy
+│   │   │   ├── logits_seed89_fold2.npy
+│   │   │   ├── logits_seed89_fold3.npy
+│   │   │   ├── logits_seed89_fold4.npy
+│   │   │   ├── PhaseA_A10_X_binary_aug.npy
+│   │   │   ├── PhaseA_A10_X_cont_aug.npy
+│   │   │   ├── PhaseA_A10_y_aug.npy
+│   │   │   ├── PhaseA_A11_pca_bin.npy
+│   │   │   ├── PhaseA_A11_pca_cont.npy
+│   │   │   ├── PhaseA_A11_tsne_bin.npy
+│   │   │   ├── PhaseA_A11_tsne_cont.npy
+│   │   │   ├── PhaseA_A9_trajectories_binary.npy
+│   │   │   ├── PhaseA_A9_trajectories_continuous.npy
+│   │   │   ├── PhaseA_A9_W_motif_motif.npy
+│   │   │   ├── probs.npy
+│   │   │   └── X_num_proc.npy
+│   │   ├── npz
+│   │   │   ├── adjacency_canonical_from_corrected_raw.npz
+│   │   │   ├── adjacency_canonical_from_corrected_rownorm.npz
+│   │   │   ├── adjacency_from_tuples_corrected_raw.npz
+│   │   │   ├── adjacency_from_tuples_corrected_rownorm.npz
+│   │   │   ├── adjacency_from_tuples_raw.npz
+│   │   │   ├── masks_fold0.npz
+│   │   │   ├── masks_fold1.npz
+│   │   │   ├── masks_fold2.npz
+│   │   │   ├── masks_fold3.npz
+│   │   │   └── masks_fold4.npz
+│   │   ├── pep
+│   │   │   └── c_elegans.PRJNA13758.WS297.transposon_cds.pep
+│   │   ├── pkl
+│   │   │   ├── center_neurons_k2.pkl
+│   │   │   ├── graph_final.pkl
+│   │   │   ├── latents_k1.pkl
+│   │   │   ├── latents_k2.pkl
+│   │   │   ├── latents_k3.pkl
+│   │   │   ├── lineage_embeddings.pkl
+│   │   │   └── neuron_projection_small.pkl
+│   │   ├── pt
+│   │   │   ├── model_seed13_fold0.pt
+│   │   │   ├── model_seed13_fold1.pt
+│   │   │   ├── model_seed13_fold2.pt
+│   │   │   ├── model_seed13_fold3.pt
+│   │   │   ├── model_seed13_fold4.pt
+│   │   │   ├── model_seed21_fold0.pt
+│   │   │   ├── model_seed21_fold1.pt
+│   │   │   ├── model_seed21_fold2.pt
+│   │   │   ├── model_seed21_fold3.pt
+│   │   │   ├── model_seed21_fold4.pt
+│   │   │   ├── model_seed34_fold0.pt
+│   │   │   ├── model_seed34_fold1.pt
+│   │   │   ├── model_seed34_fold2.pt
+│   │   │   ├── model_seed34_fold3.pt
+│   │   │   ├── model_seed34_fold4.pt
+│   │   │   ├── model_seed55_fold0.pt
+│   │   │   ├── model_seed55_fold1.pt
+│   │   │   ├── model_seed55_fold2.pt
+│   │   │   ├── model_seed55_fold3.pt
+│   │   │   ├── model_seed55_fold4.pt
+│   │   │   ├── model_seed89_fold0.pt
+│   │   │   ├── model_seed89_fold1.pt
+│   │   │   ├── model_seed89_fold2.pt
+│   │   │   ├── model_seed89_fold3.pt
+│   │   │   └── model_seed89_fold4.pt
+│   │   ├── py
+│   │   │   ├── __version__.py
+│   │   │   ├── analyse.py
+│   │   │   ├── backers.py
+│   │   │   ├── bioparameters.py
+│   │   │   ├── c302.py
+│   │   │   ├── c302_A_Weights.py
+│   │   │   ├── c302_AWC.py
+│   │   │   ├── c302_Full.py
+│   │   │   ├── c302_FW.py
+│   │   │   ├── c302_IClamp.py
+│   │   │   ├── c302_IClampMuscle.py
+│   │   │   ├── c302_info.py
+│   │   │   ├── c302_Kato.py
+│   │   │   ├── c302_MultiSyns.py
+│   │   │   ├── c302_Muscles.py
+│   │   │   ├── c302_MusclesSine.py
+│   │   │   ├── c302_MuscleTest.py
+│   │   │   ├── c302_Oscillator.py
+│   │   │   ├── c302_OscillatorM.py
+│   │   │   ├── c302_Pharyngeal.py
+│   │   │   ├── c302_RIA.py
+│   │   │   ├── c302_Social.py
+│   │   │   ├── c302_Syns.py
+│   │   │   ├── c302_TapWithdrawal.py
+│   │   │   ├── c302_TargetMuscle.py
+│   │   │   ├── c302_utils.py
+│   │   │   ├── CanonicalCircuit.py
+│   │   │   ├── CheckProject.py
+│   │   │   ├── CompareMain.py
+│   │   │   ├── ConnectomeReader.py
+│   │   │   ├── Cook2019DataReader.py
+│   │   │   ├── Cook2019HermReader.py
+│   │   │   ├── GABA.py
+│   │   │   ├── gen_graph.py
+│   │   │   ├── Generate.py
+│   │   │   ├── GenerateExamples.py
+│   │   │   ├── GenerateNeuroML.py
+│   │   │   ├── NeuroMLUtilities.py
+│   │   │   ├── new_dataset_script.py
+│   │   │   ├── OpenWormReader.py
+│   │   │   ├── parameters_A.py
+│   │   │   ├── parameters_B.py
+│   │   │   ├── parameters_BC1.py
+│   │   │   ├── parameters_C.py
+│   │   │   ├── parameters_C0.py
+│   │   │   ├── parameters_C1.py
+│   │   │   ├── parameters_C2.py
+│   │   │   ├── parameters_D.py
+│   │   │   ├── parameters_D1.py
+│   │   │   ├── parameters_W2D.py
+│   │   │   ├── PositionStraighten.py
+│   │   │   ├── printNML2Info.py
+│   │   │   ├── RegenerateConnectome.py
+│   │   │   ├── runAndPlot.py
+│   │   │   ├── setup_phaseE.py
+│   │   │   ├── SpreadsheetDataReader.py
+│   │   │   ├── Sweep.py
+│   │   │   ├── test_ex0_jnml.py
+│   │   │   ├── test_ex0_jnmlnrn.py
+│   │   │   ├── test_ex_jnml.py
+│   │   │   ├── test_ex_jnmlnrn.py
+│   │   │   ├── UpdatedSpreadsheetDataReader.py
+│   │   │   ├── UpdatedSpreadsheetDataReader2.py
+│   │   │   ├── utils.py
+│   │   │   ├── VarshneyDataReader.py
+│   │   │   ├── W_SpreadsheetDataReader.py
+│   │   │   ├── White_A.py
+│   │   │   ├── White_L4.py
+│   │   │   ├── White_whole.py
+│   │   │   ├── WhiteDataReader.py
+│   │   │   ├── WitvlietDataReader1.py
+│   │   │   ├── WitvlietDataReader2.py
+│   │   │   └── WormNeuroAtlasReader.py
+│   │   ├── tmp
+│   │   │   └── CeNGEN_PCA50.csv.tmp
+│   │   ├── tsv
+│   │   │   ├── aggr_classes.tsv
+│   │   │   ├── aggr_marker_tagged_columns.tsv
+│   │   │   ├── aggr_only_classes.tsv
+│   │   │   ├── aggr_only_gene_ids.tsv
+│   │   │   ├── aggr_umbrella_classes.tsv
+│   │   │   ├── Average_integrated_TMM_counts_lengthNormalized_111521.tsv
+│   │   │   ├── b_malayi.PRJNA10729.WS297.alaska_ids.tsv
+│   │   │   ├── Barrett_et_al_2022_CeNGEN_bulk_RNAseq_data.tsv
+│   │   │   ├── Barrett_et_al_2022_CeNGEN_bulk_RNAseq_geneLevel_metadata.tsv
+│   │   │   ├── bulk_classes.tsv
+│   │   │   ├── bulk_only_classes.tsv
+│   │   │   ├── c_briggsae.PRJNA10731.WS297.alaska_ids.tsv
+│   │   │   ├── c_elegans.PRJNA13758.WS297.alaska_ids.tsv
+│   │   │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.orthologs.tsv
+│   │   │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.paralogs.tsv
+│   │   │   ├── CeNGEN_aggr_bio_reps_101821.tsv
+│   │   │   ├── concordance_combined_rankproduct.tsv
+│   │   │   ├── concordance_nopanel_strict_z.tsv
+│   │   │   ├── concordance_nopanel_umbrella_z.tsv
+│   │   │   ├── concordance_strict_with_fdr.tsv
+│   │   │   ├── concordance_umb_with_fdr.tsv
+│   │   │   ├── dynamic_range_aggr.tsv
+│   │   │   ├── dynamic_range_bulk.tsv
+│   │   │   ├── expr_matrix.tsv
+│   │   │   ├── final_ultimate_dataset.tsv
+│   │   │   ├── gene_corr_bulk_vs_aggr_common.tsv
+│   │   │   ├── gene_corr_strict_z.tsv
+│   │   │   ├── gene_corr_umbrella_z.tsv
+│   │   │   ├── gene_literature_map.tsv
+│   │   │   ├── gene_motif_spearman_optimized.tsv
+│   │   │   ├── genome_data_master.tsv
+│   │   │   ├── gold_intersect.tsv
+│   │   │   ├── gold_strict.tsv
+│   │   │   ├── gold_umbrella.tsv
+│   │   │   ├── gold_union.tsv
+│   │   │   ├── GSM4318946_Cao_et_al_2017_reprocessed_Packer_Zhu_2019.cell_metadata.tsv
+│   │   │   ├── GSM4318946_Cao_et_al_2017_reprocessed_Packer_Zhu_2019.gene_metadata.tsv
+│   │   │   ├── high_tier_outliers_ranked.tsv
+│   │   │   ├── high_tier_pca_outliers.tsv
+│   │   │   ├── input_provenance.tsv
+│   │   │   ├── largest_relevant_files.tsv
+│   │   │   ├── lineage_function_map.tsv
+│   │   │   ├── motif_tuple_index_map.tsv
+│   │   │   ├── nopanel_strict_aggr_raw.tsv
+│   │   │   ├── nopanel_strict_aggr_z.tsv
+│   │   │   ├── nopanel_strict_bulk_raw.tsv
+│   │   │   ├── nopanel_strict_bulk_z.tsv
+│   │   │   ├── nopanel_umbrella_aggr_raw.tsv
+│   │   │   ├── nopanel_umbrella_aggr_z.tsv
+│   │   │   ├── nopanel_umbrella_bulk_raw.tsv
+│   │   │   ├── nopanel_umbrella_bulk_z.tsv
+│   │   │   ├── o_volvulus.PRJEB513.WS297.alaska_ids.tsv
+│   │   │   ├── overlap_classes.tsv
+│   │   │   ├── proteomes_upid_UP000001940_OR_upid_UP000_2025_09_02.tsv
+│   │   │   ├── sample_meta.tsv
+│   │   │   ├── spearman_concordance_matrix.tsv
+│   │   │   ├── t_muris.PRJEB126.WS297.alaska_ids.tsv
+│   │   │   ├── ultimate_dataset_composite.tsv
+│   │   │   ├── ultimate_dataset_imputed.tsv
+│   │   │   ├── ultimate_dataset_planetary.tsv
+│   │   │   ├── ultimate_dataset_reduced.tsv
+│   │   │   ├── unresolved_gene_ids.tsv
+│   │   │   ├── variance_aggr.tsv
+│   │   │   └── variance_bulk.tsv
+│   │   ├── txt
+│   │   │   ├── adjacency_source.txt
+│   │   │   ├── GFF3_comparison_report.WS297.txt
+│   │   │   ├── keep_motif_cols.txt
+│   │   │   ├── name_neurons.txt
+│   │   │   ├── PREFACE.txt
+│   │   │   ├── synapse_AF.txt
+│   │   │   ├── synapse_WF.txt
+│   │   │   └── synapse_WT.txt
+│   │   ├── wrm
+│   │   │   ├── block1.wrm
+│   │   │   ├── block10.wrm
+│   │   │   ├── block2.wrm
+│   │   │   ├── block26.wrm
+│   │   │   ├── block27.wrm
+│   │   │   ├── block28.wrm
+│   │   │   ├── block29.wrm
+│   │   │   ├── block3.wrm
+│   │   │   ├── block30.wrm
+│   │   │   ├── block4.wrm
+│   │   │   ├── block46.wrm
+│   │   │   ├── block47.wrm
+│   │   │   ├── block48.wrm
+│   │   │   ├── block49.wrm
+│   │   │   ├── block5.wrm
+│   │   │   ├── block6.wrm
+│   │   │   ├── block7.wrm
+│   │   │   ├── block71.wrm
+│   │   │   ├── block72.wrm
+│   │   │   ├── block73.wrm
+│   │   │   ├── block74.wrm
+│   │   │   ├── block75.wrm
+│   │   │   ├── block8.wrm
+│   │   │   ├── block81.wrm
+│   │   │   ├── block82.wrm
+│   │   │   └── block9.wrm
+│   │   ├── ws297
+│   │   │   └── models.wrm.WS297
+│   │   ├── xls
+│   │   │   ├── CElegansNeuronTables.xls
+│   │   │   ├── NeuronConnect(1).xls
+│   │   │   ├── NeuronConnectFormatted.xls
+│   │   │   ├── NeuronFixedPoints.xls
+│   │   │   ├── NeuronLineage_Part1(2).xls
+│   │   │   ├── NeuronLineage_Part2(1).xls
+│   │   │   ├── NeuronType.xls
+│   │   │   └── pnas.1507110112.sd01.xls
+│   │   ├── xlsx
+│   │   │   ├── 41467_2025_58293_MOESM15_ESM.xlsx
+│   │   │   ├── aam8940_cao_sm_tables_s1_to_s14.xlsx
+│   │   │   ├── Adult and L4 nerve ring neighbors.xlsx
+│   │   │   ├── Ce_NTtables_Loer&Rand2022(1).xlsx
+│   │   │   ├── H_Attributes, Master.xlsx
+│   │   │   ├── M_Attributes, Master.xlsx
+│   │   │   ├── NeuronConnectFormatted.xlsx
+│   │   │   ├── NIHMS2095963-supplement-TableS1-S13_S16-S19.xlsx
+│   │   │   ├── NIHMS496349-supplement-2.xlsx
+│   │   │   ├── NIHMS496349-supplement-3.xlsx
+│   │   │   ├── NIHMS496349-supplement-4.xlsx
+│   │   │   ├── NIHMS496349-supplement-5.xlsx
+│   │   │   ├── NIHMS496349-supplement-6.xlsx
+│   │   │   ├── SI 10 Properties of reconstructions.xlsx
+│   │   │   ├── SI 2 Synapse adjacency matrices.xlsx
+│   │   │   ├── SI 3 Synapse lists.xlsx
+│   │   │   ├── SI 4 Cell lists.xlsx
+│   │   │   ├── SI 5 Connectome adjacency matrices, corrected July 2020.xlsx
+│   │   │   ├── SI 5 Connectome adjacency matrices.xlsx
+│   │   │   ├── SI 6 Cell class lists.xlsx
+│   │   │   ├── SI 7 Cell class adjacency matrices.xlsx
+│   │   │   ├── SI 7 Cell class connectome adjacency matrices, corrected July 2020.xlsx
+│   │   │   ├── Single_Cell_TPM_threshold2.xlsx
+│   │   │   ├── witvliet_2020_1.xlsx
+│   │   │   ├── witvliet_2020_2.xlsx
+│   │   │   ├── witvliet_2020_3.xlsx
+│   │   │   ├── witvliet_2020_4.xlsx
+│   │   │   ├── witvliet_2020_5.xlsx
+│   │   │   ├── witvliet_2020_6.xlsx
+│   │   │   ├── witvliet_2020_7.xlsx
+│   │   │   └── witvliet_2020_8.xlsx
+│   │   ├── xml
+│   │   │   ├── c_elegans.PRJNA13758.WS297.knockout_consortium_alleles.xml
+│   │   │   ├── c_elegans.PRJNA13758.WS297.reuters_citation_index.xml
+│   │   │   ├── cell_B.xml
+│   │   │   ├── cell_C.xml
+│   │   │   ├── cell_W2D.xml
+│   │   │   ├── cell_X.xml
+│   │   │   ├── LEMS_c302_A_Syns.xml
+│   │   │   └── LEMS_c302_C_Oscillator.xml
+│   │   ├── xsl
+│   │   │   └── ChannelML_v1.8.1_NEURONmod.xsl
+│   │   └── yaml
+│   │       ├── config.yaml
+│   │       ├── config_used.yaml
+│   │       ├── env.yaml
+│   │       └── thresholds.yaml
+│   └── raw
+│       ├── fa
+│       │   ├── b_malayi.PRJNA10729.WS297.CDS_transcripts.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.ests.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.genomic.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.genomic_masked.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.genomic_softmasked.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.intergenic_sequences.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.mRNA_transcripts.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.pseudogenic_transcripts.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.repeats.fa
+│       │   ├── b_malayi.PRJNA10729.WS297.upstream_sequences.fa
+│       │   ├── c_angaria.PRJNA51225.WS297.CDS_transcripts.fa
+│       │   ├── c_angaria.PRJNA51225.WS297.genomic.fa
+│       │   ├── c_angaria.PRJNA51225.WS297.genomic_masked.fa
+│       │   ├── c_angaria.PRJNA51225.WS297.genomic_softmasked.fa
+│       │   ├── c_angaria.PRJNA51225.WS297.mRNA_transcripts.fa
+│       │   ├── c_becei.PRJEB28243.WS297.CDS_transcripts.fa
+│       │   ├── c_becei.PRJEB28243.WS297.genomic.fa
+│       │   ├── c_becei.PRJEB28243.WS297.genomic_masked.fa
+│       │   ├── c_becei.PRJEB28243.WS297.genomic_softmasked.fa
+│       │   ├── c_becei.PRJEB28243.WS297.mRNA_transcripts.fa
+│       │   ├── c_bovis.PRJEB34497.WS297.CDS_transcripts.fa
+│       │   ├── c_bovis.PRJEB34497.WS297.genomic.fa
+│       │   ├── c_bovis.PRJEB34497.WS297.genomic_masked.fa
+│       │   ├── c_bovis.PRJEB34497.WS297.genomic_softmasked.fa
+│       │   ├── c_bovis.PRJEB34497.WS297.mRNA_transcripts.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.CDS_transcripts.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.ests.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.genomic.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.genomic_masked.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.genomic_softmasked.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.intergenic_sequences.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.mRNA_transcripts.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.pseudogenic_transcripts.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.repeats.fa
+│       │   ├── c_brenneri.PRJNA20035.WS297.upstream_sequences.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.CDS_transcripts.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.ests.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.genomic.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.genomic_masked.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.genomic_softmasked.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.intergenic_sequences.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.mRNA_transcripts.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.pseudogenic_transcripts.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.repeats.fa
+│       │   ├── c_briggsae.PRJNA10731.WS297.upstream_sequences.fa
+│       │   ├── c_elegans.PRJEB28388.WS297.CDS_transcripts.fa
+│       │   ├── c_elegans.PRJEB28388.WS297.genomic.fa
+│       │   ├── c_elegans.PRJEB28388.WS297.genomic_masked.fa
+│       │   ├── c_elegans.PRJEB28388.WS297.genomic_softmasked.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.CDS_transcripts.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.confirmed_genes.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.ests.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.intergenic_sequences.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.mRNA_transcripts.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.pseudogenic_transcripts.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.repeats.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.transposon_transcripts.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.transposons.fa
+│       │   ├── c_elegans.PRJNA13758.WS297.upstream_sequences.fa
+│       │   ├── c_elegans.PRJNA275000.WS297.genomic.fa
+│       │   ├── c_elegans.PRJNA275000.WS297.genomic_masked.fa
+│       │   ├── c_elegans.PRJNA275000.WS297.genomic_softmasked.fa
+│       │   ├── c_inopinata.PRJDB5687.WS297.CDS_transcripts.fa
+│       │   ├── c_inopinata.PRJDB5687.WS297.genomic.fa
+│       │   ├── c_inopinata.PRJDB5687.WS297.genomic_masked.fa
+│       │   ├── c_inopinata.PRJDB5687.WS297.genomic_softmasked.fa
+│       │   ├── c_inopinata.PRJDB5687.WS297.mRNA_transcripts.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.CDS_transcripts.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.ests.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.genomic.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.genomic_masked.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.genomic_softmasked.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.intergenic_sequences.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.mRNA_transcripts.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.pseudogenic_transcripts.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.repeats.fa
+│       │   ├── c_japonica.PRJNA12591.WS297.upstream_sequences.fa
+│       │   ├── c_latens.PRJNA248912.WS297.CDS_transcripts.fa
+│       │   ├── c_latens.PRJNA248912.WS297.genomic.fa
+│       │   ├── c_latens.PRJNA248912.WS297.genomic_masked.fa
+│       │   ├── c_latens.PRJNA248912.WS297.genomic_softmasked.fa
+│       │   ├── c_latens.PRJNA248912.WS297.mRNA_transcripts.fa
+│       │   ├── c_nigoni.PRJNA384657.WS297.CDS_transcripts.fa
+│       │   ├── c_nigoni.PRJNA384657.WS297.genomic.fa
+│       │   ├── c_nigoni.PRJNA384657.WS297.genomic_masked.fa
+│       │   ├── c_nigoni.PRJNA384657.WS297.genomic_softmasked.fa
+│       │   ├── c_nigoni.PRJNA384657.WS297.mRNA_transcripts.fa
+│       │   ├── c_panamensis.PRJEB28259.WS297.CDS_transcripts.fa
+│       │   ├── c_panamensis.PRJEB28259.WS297.genomic.fa
+│       │   ├── c_panamensis.PRJEB28259.WS297.genomic_masked.fa
+│       │   ├── c_panamensis.PRJEB28259.WS297.genomic_softmasked.fa
+│       │   ├── c_panamensis.PRJEB28259.WS297.mRNA_transcripts.fa
+│       │   ├── c_parvicauda.PRJEB12595.WS297.CDS_transcripts.fa
+│       │   ├── c_parvicauda.PRJEB12595.WS297.genomic.fa
+│       │   ├── c_parvicauda.PRJEB12595.WS297.genomic_masked.fa
+│       │   ├── c_parvicauda.PRJEB12595.WS297.genomic_softmasked.fa
+│       │   ├── c_parvicauda.PRJEB12595.WS297.mRNA_transcripts.fa
+│       │   ├── c_quiockensis.PRJEB11354.WS297.CDS_transcripts.fa
+│       │   ├── c_quiockensis.PRJEB11354.WS297.genomic.fa
+│       │   ├── c_quiockensis.PRJEB11354.WS297.genomic_masked.fa
+│       │   ├── c_quiockensis.PRJEB11354.WS297.genomic_softmasked.fa
+│       │   ├── c_quiockensis.PRJEB11354.WS297.mRNA_transcripts.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.CDS_transcripts.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.ests.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.genomic.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.genomic_masked.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.genomic_softmasked.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.intergenic_sequences.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.mRNA_transcripts.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.pseudogenic_transcripts.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.repeats.fa
+│       │   ├── c_remanei.PRJNA53967.WS297.upstream_sequences.fa
+│       │   ├── c_remanei.PRJNA577507.WS297.CDS_transcripts.fa
+│       │   ├── c_remanei.PRJNA577507.WS297.genomic.fa
+│       │   ├── c_remanei.PRJNA577507.WS297.genomic_masked.fa
+│       │   ├── c_remanei.PRJNA577507.WS297.genomic_softmasked.fa
+│       │   ├── c_remanei.PRJNA577507.WS297.mRNA_transcripts.fa
+│       │   ├── c_sinica.PRJNA194557.WS297.CDS_transcripts.fa
+│       │   ├── c_sinica.PRJNA194557.WS297.genomic.fa
+│       │   ├── c_sinica.PRJNA194557.WS297.genomic_masked.fa
+│       │   ├── c_sinica.PRJNA194557.WS297.genomic_softmasked.fa
+│       │   ├── c_sinica.PRJNA194557.WS297.mRNA_transcripts.fa
+│       │   ├── c_sulstoni.PRJEB12601.WS297.CDS_transcripts.fa
+│       │   ├── c_sulstoni.PRJEB12601.WS297.genomic.fa
+│       │   ├── c_sulstoni.PRJEB12601.WS297.genomic_masked.fa
+│       │   ├── c_sulstoni.PRJEB12601.WS297.genomic_softmasked.fa
+│       │   ├── c_sulstoni.PRJEB12601.WS297.mRNA_transcripts.fa
+│       │   ├── c_tribulationis.PRJEB12608.WS297.CDS_transcripts.fa
+│       │   ├── c_tribulationis.PRJEB12608.WS297.genomic.fa
+│       │   ├── c_tribulationis.PRJEB12608.WS297.genomic_masked.fa
+│       │   ├── c_tribulationis.PRJEB12608.WS297.genomic_softmasked.fa
+│       │   ├── c_tribulationis.PRJEB12608.WS297.mRNA_transcripts.fa
+│       │   ├── c_tropicalis.PRJNA53597.WS297.CDS_transcripts.fa
+│       │   ├── c_tropicalis.PRJNA53597.WS297.genomic.fa
+│       │   ├── c_tropicalis.PRJNA53597.WS297.genomic_masked.fa
+│       │   ├── c_tropicalis.PRJNA53597.WS297.mRNA_transcripts.fa
+│       │   ├── c_uteleia.PRJEB12600.WS297.CDS_transcripts.fa
+│       │   ├── c_uteleia.PRJEB12600.WS297.genomic.fa
+│       │   ├── c_uteleia.PRJEB12600.WS297.genomic_masked.fa
+│       │   ├── c_uteleia.PRJEB12600.WS297.genomic_softmasked.fa
+│       │   ├── c_uteleia.PRJEB12600.WS297.mRNA_transcripts.fa
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.CDS_transcripts.fa
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.genomic.fa
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.genomic_masked.fa
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.genomic_softmasked.fa
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.mRNA_transcripts.fa
+│       │   ├── c_zanzibari.PRJEB12596.WS297.CDS_transcripts.fa
+│       │   ├── c_zanzibari.PRJEB12596.WS297.genomic.fa
+│       │   ├── c_zanzibari.PRJEB12596.WS297.genomic_masked.fa
+│       │   ├── c_zanzibari.PRJEB12596.WS297.genomic_softmasked.fa
+│       │   ├── c_zanzibari.PRJEB12596.WS297.mRNA_transcripts.fa
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.CDS_transcripts.fa
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic.fa
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic_masked.fa
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic_softmasked.fa
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.mRNA_transcripts.fa
+│       │   ├── o_tipulae.PRJEB15512.WS297.CDS_transcripts.fa
+│       │   ├── o_tipulae.PRJEB15512.WS297.genomic.fa
+│       │   ├── o_tipulae.PRJEB15512.WS297.genomic_masked.fa
+│       │   ├── o_tipulae.PRJEB15512.WS297.genomic_softmasked.fa
+│       │   ├── o_tipulae.PRJEB15512.WS297.mRNA_transcripts.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.CDS_transcripts.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.ests.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.genomic.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.genomic_masked.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.genomic_softmasked.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.intergenic_sequences.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.mRNA_transcripts.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.pseudogenic_transcripts.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.repeats.fa
+│       │   ├── o_volvulus.PRJEB513.WS297.upstream_sequences.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.CDS_transcripts.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.ests.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.genomic.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.genomic_masked.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.genomic_softmasked.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.intergenic_sequences.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.mRNA_transcripts.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.pseudogenic_transcripts.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.repeats.fa
+│       │   ├── p_pacificus.PRJNA12644.WS297.upstream_sequences.fa
+│       │   ├── p_redivivus.PRJNA186477.WS297.CDS_transcripts.fa
+│       │   ├── p_redivivus.PRJNA186477.WS297.genomic.fa
+│       │   ├── p_redivivus.PRJNA186477.WS297.genomic_masked.fa
+│       │   ├── p_redivivus.PRJNA186477.WS297.mRNA_transcripts.fa
+│       │   ├── s_ratti.PRJEB125.WS297.CDS_transcripts.fa
+│       │   ├── s_ratti.PRJEB125.WS297.ests.fa
+│       │   ├── s_ratti.PRJEB125.WS297.genomic.fa
+│       │   ├── s_ratti.PRJEB125.WS297.genomic_masked.fa
+│       │   ├── s_ratti.PRJEB125.WS297.genomic_softmasked.fa
+│       │   ├── s_ratti.PRJEB125.WS297.intergenic_sequences.fa
+│       │   ├── s_ratti.PRJEB125.WS297.mRNA_transcripts.fa
+│       │   ├── s_ratti.PRJEB125.WS297.repeats.fa
+│       │   ├── s_ratti.PRJEB125.WS297.upstream_sequences.fa
+│       │   ├── t_muris.PRJEB126.WS297.CDS_transcripts.fa
+│       │   ├── t_muris.PRJEB126.WS297.ests.fa
+│       │   ├── t_muris.PRJEB126.WS297.genomic.fa
+│       │   ├── t_muris.PRJEB126.WS297.genomic_masked.fa
+│       │   ├── t_muris.PRJEB126.WS297.genomic_softmasked.fa
+│       │   ├── t_muris.PRJEB126.WS297.intergenic_sequences.fa
+│       │   ├── t_muris.PRJEB126.WS297.mRNA_transcripts.fa
+│       │   ├── t_muris.PRJEB126.WS297.repeats.fa
+│       │   └── t_muris.PRJEB126.WS297.upstream_sequences.fa
+│       ├── gff3
+│       │   ├── b_malayi.PRJNA10729.WS297.protein_annotation.gff3
+│       │   ├── c_angaria.PRJNA51225.WS297.annotations.gff3
+│       │   ├── c_becei.PRJEB28243.WS297.annotations.gff3
+│       │   ├── c_bovis.PRJEB34497.WS297.annotations.gff3
+│       │   ├── c_brenneri.PRJNA20035.WS297.protein_annotation.gff3
+│       │   ├── c_briggsae.PRJNA10731.WS297.protein_annotation.gff3
+│       │   ├── c_elegans.PRJNA13758.WS297.protein_annotation.gff3
+│       │   ├── c_elegans.PRJNA275000.WS297.annotations.gff3
+│       │   ├── c_inopinata.PRJDB5687.WS297.annotations.gff3
+│       │   ├── c_japonica.PRJNA12591.WS297.protein_annotation.gff3
+│       │   ├── c_latens.PRJNA248912.WS297.annotations.gff3
+│       │   ├── c_nigoni.PRJNA384657.WS297.annotations.gff3
+│       │   ├── c_panamensis.PRJEB28259.WS297.annotations.gff3
+│       │   ├── c_parvicauda.PRJEB12595.WS297.annotations.gff3
+│       │   ├── c_quiockensis.PRJEB11354.WS297.annotations.gff3
+│       │   ├── c_remanei.PRJNA53967.WS297.protein_annotation.gff3
+│       │   ├── c_remanei.PRJNA577507.WS297.annotations.gff3
+│       │   ├── c_sinica.PRJNA194557.WS297.annotations.gff3
+│       │   ├── c_sulstoni.PRJEB12601.WS297.annotations.gff3
+│       │   ├── c_tribulationis.PRJEB12608.WS297.annotations.gff3
+│       │   ├── c_tropicalis.PRJNA53597.WS297.annotations.gff3
+│       │   ├── c_uteleia.PRJEB12600.WS297.annotations.gff3
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.annotations.gff3
+│       │   ├── c_zanzibari.PRJEB12596.WS297.annotations.gff3
+│       │   ├── o_tipulae.PRJEB15512.WS297.annotations.gff3
+│       │   ├── o_volvulus.PRJEB513.WS297.protein_annotation.gff3
+│       │   ├── p_pacificus.PRJNA12644.WS297.protein_annotation.gff3
+│       │   ├── p_redivivus.PRJNA186477.WS297.annotations.gff3
+│       │   ├── s_ratti.PRJEB125.WS297.protein_annotation.gff3
+│       │   └── t_muris.PRJEB126.WS297.protein_annotation.gff3
+│       ├── gtf
+│       │   ├── b_malayi.PRJNA10729.WS297.canonical_geneset.gtf
+│       │   ├── c_angaria.PRJNA51225.WS297.canonical_geneset.gtf
+│       │   ├── c_becei.PRJEB28243.WS297.canonical_geneset.gtf
+│       │   ├── c_bovis.PRJEB34497.WS297.canonical_geneset.gtf
+│       │   ├── c_brenneri.PRJNA20035.WS297.canonical_geneset.gtf
+│       │   ├── c_briggsae.PRJNA10731.WS297.canonical_geneset.gtf
+│       │   ├── c_elegans.PRJEB28388.WS297.canonical_geneset.gtf
+│       │   ├── c_elegans.PRJNA13758.WS297.canonical_geneset.gtf
+│       │   ├── c_inopinata.PRJDB5687.WS297.canonical_geneset.gtf
+│       │   ├── c_japonica.PRJNA12591.WS297.canonical_geneset.gtf
+│       │   ├── c_latens.PRJNA248912.WS297.canonical_geneset.gtf
+│       │   ├── c_nigoni.PRJNA384657.WS297.canonical_geneset.gtf
+│       │   ├── c_panamensis.PRJEB28259.WS297.canonical_geneset.gtf
+│       │   ├── c_parvicauda.PRJEB12595.WS297.canonical_geneset.gtf
+│       │   ├── c_quiockensis.PRJEB11354.WS297.canonical_geneset.gtf
+│       │   ├── c_remanei.PRJNA53967.WS297.canonical_geneset.gtf
+│       │   ├── c_remanei.PRJNA577507.WS297.canonical_geneset.gtf
+│       │   ├── c_sinica.PRJNA194557.WS297.canonical_geneset.gtf
+│       │   ├── c_sulstoni.PRJEB12601.WS297.canonical_geneset.gtf
+│       │   ├── c_tribulationis.PRJEB12608.WS297.canonical_geneset.gtf
+│       │   ├── c_tropicalis.PRJNA53597.WS297.canonical_geneset.gtf
+│       │   ├── c_uteleia.PRJEB12600.WS297.canonical_geneset.gtf
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.canonical_geneset.gtf
+│       │   ├── c_zanzibari.PRJEB12596.WS297.canonical_geneset.gtf
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.canonical_geneset.gtf
+│       │   ├── o_tipulae.PRJEB15512.WS297.canonical_geneset.gtf
+│       │   ├── o_volvulus.PRJEB513.WS297.canonical_geneset.gtf
+│       │   ├── p_pacificus.PRJNA12644.WS297.canonical_geneset.gtf
+│       │   ├── p_redivivus.PRJNA186477.WS297.canonical_geneset.gtf
+│       │   ├── s_ratti.PRJEB125.WS297.canonical_geneset.gtf
+│       │   └── t_muris.PRJEB126.WS297.canonical_geneset.gtf
+│       ├── gz
+│       │   ├── b_malayi.PRJNA10729.WS297.annotations.gff2.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.annotations.gff3.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.canonical_geneset.gtf.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.CDS_transcripts.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.ests.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.gene_product_info.gpi.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.genomic.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.genomic_masked.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.genomic_softmasked.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.intergenic_sequences.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.mRNA_transcripts.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.ncRNA_transcripts.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.protein.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.protein_annotation.gff3.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.protein_domains.csv.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.repeats.fa.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.SRA_gene_expression.tar.gz
+│       │   ├── b_malayi.PRJNA10729.WS297.upstream_sequences.fa.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.annotations.gff3.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.genomic.fa.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.genomic_masked.fa.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_angaria.PRJNA51225.WS297.protein.fa.gz
+│       │   ├── c_becei.PRJEB28243.WS297.annotations.gff3.gz
+│       │   ├── c_becei.PRJEB28243.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_becei.PRJEB28243.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_becei.PRJEB28243.WS297.genomic.fa.gz
+│       │   ├── c_becei.PRJEB28243.WS297.genomic_masked.fa.gz
+│       │   ├── c_becei.PRJEB28243.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_becei.PRJEB28243.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_becei.PRJEB28243.WS297.protein.fa.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.annotations.gff3.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.genomic.fa.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.genomic_masked.fa.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_bovis.PRJEB34497.WS297.protein.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.annotations.gff2.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.annotations.gff3.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.ests.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.gene_product_info.gpi.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.genomic.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.genomic_masked.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.intergenic_sequences.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.protein.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.protein_annotation.gff3.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.protein_domains.csv.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.repeats.fa.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.SRA_gene_expression.tar.gz
+│       │   ├── c_brenneri.PRJNA20035.WS297.upstream_sequences.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.annotations.gff2.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.annotations.gff3.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.ests.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.gene_product_info.gpi.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.genomic.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.genomic_masked.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.intergenic_sequences.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.protein.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.protein_annotation.gff3.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.protein_domains.csv.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.repeats.fa.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.SRA_gene_expression.tar.gz
+│       │   ├── c_briggsae.PRJNA10731.WS297.upstream_sequences.fa.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.annotations.gff3.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.genomic.fa.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.genomic_masked.fa.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_elegans.PRJEB28388.WS297.protein.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.annotations.gff2.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.annotations.gff3.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.confirmed_genes.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.ests.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.expr_graph.csv.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.gene_product_info.gpi.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.intergenic_sequences.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.ncRNA_transcripts.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.protein.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.protein_annotation.gff3.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.protein_domains.csv.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.repeats.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.rnai_phenotypes.wb.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.rnai_phenotypes_quick.wb.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.SRA_gene_expression.tar.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.TAR_gene_expression.tar.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.transposon_cds.pep.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.transposon_transcripts.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.transposons.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.TSS.wig.tar.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.upstream_sequences.fa.gz
+│       │   ├── c_elegans.PRJNA13758.WS297.wormpep_package.tar.gz
+│       │   ├── c_elegans.PRJNA275000.WS297.annotations.gff3.gz
+│       │   ├── c_elegans.PRJNA275000.WS297.genomic.fa.gz
+│       │   ├── c_elegans.PRJNA275000.WS297.genomic_masked.fa.gz
+│       │   ├── c_elegans.PRJNA275000.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.annotations.gff3.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.genomic.fa.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.genomic_masked.fa.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_inopinata.PRJDB5687.WS297.protein.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.annotations.gff2.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.annotations.gff3.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.ests.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.gene_product_info.gpi.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.genomic.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.genomic_masked.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.intergenic_sequences.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.protein.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.protein_annotation.gff3.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.protein_domains.csv.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.repeats.fa.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.SRA_gene_expression.tar.gz
+│       │   ├── c_japonica.PRJNA12591.WS297.upstream_sequences.fa.gz
+│       │   ├── c_latens.PRJNA248912.WS297.annotations.gff3.gz
+│       │   ├── c_latens.PRJNA248912.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_latens.PRJNA248912.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_latens.PRJNA248912.WS297.genomic.fa.gz
+│       │   ├── c_latens.PRJNA248912.WS297.genomic_masked.fa.gz
+│       │   ├── c_latens.PRJNA248912.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_latens.PRJNA248912.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_latens.PRJNA248912.WS297.protein.fa.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.annotations.gff3.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.genomic.fa.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.genomic_masked.fa.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_nigoni.PRJNA384657.WS297.protein.fa.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.annotations.gff3.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.genomic.fa.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.genomic_masked.fa.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_panamensis.PRJEB28259.WS297.protein.fa.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.annotations.gff3.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.genomic.fa.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.genomic_masked.fa.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_parvicauda.PRJEB12595.WS297.protein.fa.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.annotations.gff3.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.genomic.fa.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.genomic_masked.fa.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_quiockensis.PRJEB11354.WS297.protein.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.annotations.gff2.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.annotations.gff3.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.ests.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.gene_product_info.gpi.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.genomic.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.genomic_masked.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.intergenic_sequences.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.protein.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.protein_annotation.gff3.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.protein_domains.csv.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.repeats.fa.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.SRA_gene_expression.tar.gz
+│       │   ├── c_remanei.PRJNA53967.WS297.upstream_sequences.fa.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.annotations.gff3.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.genomic.fa.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.genomic_masked.fa.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_remanei.PRJNA577507.WS297.protein.fa.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.annotations.gff3.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.genomic.fa.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.genomic_masked.fa.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_sinica.PRJNA194557.WS297.protein.fa.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.annotations.gff3.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.genomic.fa.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.genomic_masked.fa.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_sulstoni.PRJEB12601.WS297.protein.fa.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.annotations.gff3.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.genomic.fa.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.genomic_masked.fa.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_tribulationis.PRJEB12608.WS297.protein.fa.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.annotations.gff3.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.genomic.fa.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.genomic_masked.fa.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_tropicalis.PRJNA53597.WS297.protein.fa.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.annotations.gff3.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.genomic.fa.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.genomic_masked.fa.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_uteleia.PRJEB12600.WS297.protein.fa.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.annotations.gff3.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.genomic.fa.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.genomic_masked.fa.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_waitukubuli.PRJEB12602.WS297.protein.fa.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.annotations.gff3.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.canonical_geneset.gtf.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.CDS_transcripts.fa.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.genomic.fa.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.genomic_masked.fa.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.genomic_softmasked.fa.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.mRNA_transcripts.fa.gz
+│       │   ├── c_zanzibari.PRJEB12596.WS297.protein.fa.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.annotations.gff3.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.canonical_geneset.gtf.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.CDS_transcripts.fa.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic.fa.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic_masked.fa.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic_softmasked.fa.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.mRNA_transcripts.fa.gz
+│       │   ├── caenorhabditis_elegans.PRJNA13758.WBPS19.protein.fa.gz
+│       │   ├── Ce_synapse_UNIX.tar.gz
+│       │   ├── database.297.4-0.tar.gz
+│       │   ├── database.297.4-1.tar.gz
+│       │   ├── database.297.4-10.tar.gz
+│       │   ├── database.297.4-11.tar.gz
+│       │   ├── database.297.4-12.tar.gz
+│       │   ├── database.297.4-13.tar.gz
+│       │   ├── database.297.4-14.tar.gz
+│       │   ├── database.297.4-15.tar.gz
+│       │   ├── database.297.4-16.tar.gz
+│       │   ├── database.297.4-17.tar.gz
+│       │   ├── database.297.4-2.tar.gz
+│       │   ├── database.297.4-3.tar.gz
+│       │   ├── database.297.4-4.tar.gz
+│       │   ├── database.297.4-5.tar.gz
+│       │   ├── database.297.4-6.tar.gz
+│       │   ├── database.297.4-7.tar.gz
+│       │   ├── database.297.4-8.tar.gz
+│       │   ├── database.297.4-9.tar.gz
+│       │   ├── GFF3_comparison_report.WS297.txt.gz
+│       │   ├── GSM4318946_Cao_et_al_2017_reprocessed_Packer_Zhu_2019.cell_metadata.tsv.gz
+│       │   ├── GSM4318946_Cao_et_al_2017_reprocessed_Packer_Zhu_2019.gene_metadata.tsv.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.annotations.gff3.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.canonical_geneset.gtf.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.CDS_transcripts.fa.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.genomic.fa.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.genomic_masked.fa.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.genomic_softmasked.fa.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.mRNA_transcripts.fa.gz
+│       │   ├── o_tipulae.PRJEB15512.WS297.protein.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.annotations.gff2.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.annotations.gff3.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.canonical_geneset.gtf.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.CDS_transcripts.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.ests.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.gene_product_info.gpi.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.genomic.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.genomic_masked.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.genomic_softmasked.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.intergenic_sequences.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.mRNA_transcripts.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.protein.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.protein_annotation.gff3.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.protein_domains.csv.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.repeats.fa.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.SRA_gene_expression.tar.gz
+│       │   ├── o_volvulus.PRJEB513.WS297.upstream_sequences.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.annotations.gff2.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.annotations.gff3.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.canonical_geneset.gtf.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.CDS_transcripts.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.ests.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.gene_product_info.gpi.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.genomic.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.genomic_masked.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.genomic_softmasked.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.intergenic_sequences.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.mRNA_transcripts.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.protein.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.protein_annotation.gff3.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.protein_domains.csv.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.pseudogenic_transcripts.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.repeats.fa.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.SRA_gene_expression.tar.gz
+│       │   ├── p_pacificus.PRJNA12644.WS297.upstream_sequences.fa.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.annotations.gff3.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.canonical_geneset.gtf.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.CDS_transcripts.fa.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.genomic.fa.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.genomic_masked.fa.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.mRNA_transcripts.fa.gz
+│       │   ├── p_redivivus.PRJNA186477.WS297.protein.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.annotations.gff2.gz
+│       │   ├── s_ratti.PRJEB125.WS297.annotations.gff3.gz
+│       │   ├── s_ratti.PRJEB125.WS297.canonical_geneset.gtf.gz
+│       │   ├── s_ratti.PRJEB125.WS297.CDS_transcripts.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.ests.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.gene_product_info.gpi.gz
+│       │   ├── s_ratti.PRJEB125.WS297.genomic.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.genomic_masked.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.genomic_softmasked.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.intergenic_sequences.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.mRNA_transcripts.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.protein.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.protein_annotation.gff3.gz
+│       │   ├── s_ratti.PRJEB125.WS297.protein_domains.csv.gz
+│       │   ├── s_ratti.PRJEB125.WS297.repeats.fa.gz
+│       │   ├── s_ratti.PRJEB125.WS297.SRA_gene_expression.tar.gz
+│       │   ├── s_ratti.PRJEB125.WS297.upstream_sequences.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.annotations.gff2.gz
+│       │   ├── t_muris.PRJEB126.WS297.annotations.gff3.gz
+│       │   ├── t_muris.PRJEB126.WS297.canonical_geneset.gtf.gz
+│       │   ├── t_muris.PRJEB126.WS297.CDS_transcripts.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.ests.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.gene_product_info.gpi.gz
+│       │   ├── t_muris.PRJEB126.WS297.genomic.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.genomic_masked.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.genomic_softmasked.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.intergenic_sequences.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.mRNA_transcripts.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.protein.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.protein_annotation.gff3.gz
+│       │   ├── t_muris.PRJEB126.WS297.protein_domains.csv.gz
+│       │   ├── t_muris.PRJEB126.WS297.repeats.fa.gz
+│       │   ├── t_muris.PRJEB126.WS297.SRA_gene_expression.tar.gz
+│       │   └── t_muris.PRJEB126.WS297.upstream_sequences.fa.gz
+│       ├── rds
+│       │   ├── 070220_L4_all_cells_monocle3_final.rds
+│       │   ├── 092320_L4_neuron_only_monocle_cds_for_paper.rds
+│       │   └── 100720_L4_neuron_only_Seurat_with_RIV_SMD_stressed.rds
+│       ├── sql
+│       │   └── wormpep_clw.WS297.sql
+│       ├── tar
+│       │   ├── b_malayi.PRJNA10729.WS297.SRA_gene_expression.tar
+│       │   ├── c_brenneri.PRJNA20035.WS297.SRA_gene_expression.tar
+│       │   ├── c_briggsae.PRJNA10731.WS297.SRA_gene_expression.tar
+│       │   ├── c_elegans.PRJNA13758.WS297.SRA_gene_expression.tar
+│       │   ├── c_elegans.PRJNA13758.WS297.TAR_gene_expression.tar
+│       │   ├── c_japonica.PRJNA12591.WS297.SRA_gene_expression.tar
+│       │   ├── c_remanei.PRJNA53967.WS297.SRA_gene_expression.tar
+│       │   ├── o_volvulus.PRJEB513.WS297.SRA_gene_expression.tar
+│       │   ├── p_pacificus.PRJNA12644.WS297.SRA_gene_expression.tar
+│       │   ├── s_ratti.PRJEB125.WS297.SRA_gene_expression.tar
+│       │   └── t_muris.PRJEB126.WS297.SRA_gene_expression.tar
+│       ├── tar_gz
+│       ├── wb
+│       │   ├── anatomy_association.WS297.wb
+│       │   ├── b_malayi.PRJNA10729.WS297.anatomy_association.wb
+│       │   ├── b_malayi.PRJNA10729.WS297.development_association.wb
+│       │   ├── b_malayi.PRJNA10729.WS297.gene_association.wb
+│       │   ├── b_malayi.PRJNA10729.WS297.phenotype_association.wb
+│       │   ├── c_brenneri.PRJNA20035.WS297.anatomy_association.wb
+│       │   ├── c_brenneri.PRJNA20035.WS297.development_association.wb
+│       │   ├── c_brenneri.PRJNA20035.WS297.gene_association.wb
+│       │   ├── c_briggsae.PRJNA10731.WS297.anatomy_association.wb
+│       │   ├── c_briggsae.PRJNA10731.WS297.development_association.wb
+│       │   ├── c_briggsae.PRJNA10731.WS297.gene_association.wb
+│       │   ├── c_briggsae.PRJNA10731.WS297.phenotype_association.wb
+│       │   ├── c_elegans.PRJNA13758.WS297.anatomy_association.wb
+│       │   ├── c_elegans.PRJNA13758.WS297.development_association.wb
+│       │   ├── c_elegans.PRJNA13758.WS297.gene_association.wb
+│       │   ├── c_elegans.PRJNA13758.WS297.phenotype_association.wb
+│       │   ├── c_elegans.PRJNA13758.WS297.rnai_phenotypes.wb
+│       │   ├── c_elegans.PRJNA13758.WS297.rnai_phenotypes_quick.wb
+│       │   ├── c_japonica.PRJNA12591.WS297.anatomy_association.wb
+│       │   ├── c_japonica.PRJNA12591.WS297.development_association.wb
+│       │   ├── c_japonica.PRJNA12591.WS297.gene_association.wb
+│       │   ├── c_remanei.PRJNA53967.WS297.anatomy_association.wb
+│       │   ├── c_remanei.PRJNA53967.WS297.development_association.wb
+│       │   ├── c_remanei.PRJNA53967.WS297.gene_association.wb
+│       │   ├── c_remanei.PRJNA53967.WS297.phenotype_association.wb
+│       │   ├── development_association.WS297.wb
+│       │   ├── gene_association.WS297.wb
+│       │   ├── gene_association_nonnoctua.WS297.wb
+│       │   ├── o_volvulus.PRJEB513.WS297.anatomy_association.wb
+│       │   ├── o_volvulus.PRJEB513.WS297.gene_association.wb
+│       │   ├── p_pacificus.PRJNA12644.WS297.anatomy_association.wb
+│       │   ├── p_pacificus.PRJNA12644.WS297.development_association.wb
+│       │   ├── p_pacificus.PRJNA12644.WS297.gene_association.wb
+│       │   ├── p_pacificus.PRJNA12644.WS297.phenotype_association.wb
+│       │   ├── phenotype_association.WS297.wb
+│       │   ├── s_ratti.PRJEB125.WS297.anatomy_association.wb
+│       │   ├── s_ratti.PRJEB125.WS297.gene_association.wb
+│       │   ├── t_muris.PRJEB126.WS297.anatomy_association.wb
+│       │   └── t_muris.PRJEB126.WS297.gene_association.wb
+│       ├── wib
+│       │   ├── brenneri.align.wib
+│       │   ├── brenneri.phylop.wib
+│       │   ├── briggsae.align.wib
+│       │   ├── briggsae.phylop.wib
+│       │   ├── brugia.align.wib
+│       │   ├── brugia.phylop.wib
+│       │   ├── c_nigoni.align.wib
+│       │   ├── c_nigoni.phylop.wib
+│       │   ├── elegans.align.wib
+│       │   ├── elegans.phastcons.wib
+│       │   ├── elegans.phylop.wib
+│       │   ├── japonica.align.wib
+│       │   ├── japonica.phylop.wib
+│       │   ├── ovolvulus.align.wib
+│       │   ├── ovolvulus.phylop.wib
+│       │   ├── pristionchus.align.wib
+│       │   ├── pristionchus.phylop.wib
+│       │   ├── remanei.align.wib
+│       │   ├── remanei.phylop.wib
+│       │   ├── s_ratti.align.wib
+│       │   ├── s_ratti.phylop.wib
+│       │   ├── t_muris.align.wib
+│       │   └── t_muris.phylop.wib
+│       └── zip
+│           ├── CElegans Chemosensory Data.zip
+│           ├── First_data_release.zip
+│           ├── ImageProcessingTracesCode.zip
+│           └── VISTA-C-elegans-main.zip
+├── figures
+│   ├── crispr_experiment
+│   ├── crispr_results
+│   │   ├── collapse_curve.csv
+│   │   ├── crispr_impact_plot.png
+│   │   ├── crispr_lasso_impact.png
+│   │   ├── crispr_results_table.csv
+│   │   └── genetic_collapse_curve.png
+│   └── paper1
+│       └── Fig1_Connectome_Neurotransmitters.png
+├── Old Notebooks
+├── Originals
+│   └── no_extension
+│       ├── NIHMS2095963-supplement-TableS14
+│       └── NIHMS2095963-supplement-TableS15
+├── outputs
+│   ├── cache
+│   └── figures
+├── tables
+├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic.fa
+├── caenorhabditis_elegans.PRJNA13758.WBPS19.genomic.fa.gz
+├── celegans.ipynb
+├── cleanup.ipynb
+├── connectome.ipynb
+├── context_dumper.py
+├── DataOverview.ipynb
+├── datasetbuilder.ipynb
+├── deep_scan.py
+├── deep_scan_report.txt
+├── FirstRoundPapersFinal.ipynb
+├── genomedata.ipynb
+├── hypergraph-markovtest.ipynb
+├── hypergraph1.ipynb
+├── NCA.ipynb
+├── NCA.pdf
+├── os
+├── overnight2.ipynb
+├── overnight_symbolic_pipeline.ipynb
+├── Paper1MasterNotebook.ipynb
+├── phase0.ipynb
+├── phase1.ipynb
+├── phase3.ipynb
+├── phase4.ipynb
+├── phaseA.ipynb
+├── phaseb.ipynb
+├── phasec.ipynb
+├── PhaseD.ipynb
+├── phaseE.ipynb
+├── plan.txt
+├── ProblemSet2-Group 34.ipynb
+├── project_context_report.txt
+├── script.py
+├── track1_updated.ipynb
+├── track2.ipynb
+├── track2_part2.ipynb
+├── track3.ipynb
+└── track3updated.ipynb

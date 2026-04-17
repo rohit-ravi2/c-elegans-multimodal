@@ -1,0 +1,1634 @@
+neuron_id,class_label
+AVHL,1
+ I5          ,0
+URAVR,2
+SAADR ,0
+ DB07        ,0
+VA10 ,0
+SIBDR ,0
+IL2DR,1
+ALA ,0
+ DB01        ,0
+BWM-VR04,0
+IL2L,1
+ vBWMR23       ,0
+ vBWML16     ,0
+vm1aR ,0
+ ASJL          ,0
+ASHL,1
+ SIADR       ,0
+AVJR ,0
+dBWMR15 ,0
+ RIVL          ,0
+ PLMR        ,0
+ VD03        ,0
+ SIBDR       ,0
+ AIAR          ,0
+SIADL,2
+ dBWML8      ,0
+VA05 ,0
+SIADR ,0
+ AVHL          ,0
+PVM ,0
+ PVPR        ,0
+RMEL ,0
+ vBWML2      ,0
+ pm5d        ,0
+ASKL,1
+VD10 ,0
+ IL2VR       ,0
+ RIS           ,0
+ ALNR          ,0
+ pm5vr       ,0
+DD04 ,0
+BWM-VL05,0
+RIS ,0
+ PVR         ,0
+ DB04          ,0
+ dBWML7        ,0
+vBWMR8 ,0
+ AVM         ,0
+RMDVL ,0
+ASHL ,0
+ IL2VL       ,0
+ SAAVR         ,0
+RMDDL,2
+ um2pR       ,0
+IL1DL,1
+vBWML9 ,0
+HSNL,1
+ADAL ,0
+ PLNR        ,0
+ NSMR          ,0
+PVNL,2
+URXL,2
+URYDR,2
+ M2L           ,0
+ RID         ,0
+ dBWMR3      ,0
+ SMDDR       ,0
+VC02 ,0
+vBWMR7 ,0
+ dBWMR15       ,0
+ VB05          ,0
+um2aR ,0
+ AFDL        ,0
+ CEPVL         ,0
+ASGL ,0
+ AS07          ,0
+IL1L,1
+ HSNL        ,0
+FLPL,1
+ AS05        ,0
+SMBDR,2
+ pm8         ,0
+ pm6vl       ,0
+AQR ,0
+SIADL ,0
+ SMDDL         ,0
+RMGL,2
+IL1DR ,0
+ CEPDL       ,0
+ dBWMR16       ,0
+ HSNR        ,0
+RMDVR,2
+ AQR         ,0
+RIVR,2
+pm3d ,0
+ ASHL        ,0
+ vBWML19     ,0
+ MCR         ,0
+ AVJL          ,0
+ VA07          ,0
+ADLL ,0
+ VC02        ,0
+ PVT           ,0
+ VB08        ,0
+IL1DL ,0
+ SMDVR       ,0
+CEPshVL,0
+vBWMR6 ,0
+CEPDR ,0
+ pm3d        ,0
+ALNR ,0
+DD03 ,0
+BDUR,1
+vBWML21 ,0
+anal ,0
+ vBWMR1        ,0
+pm1vl ,0
+MCL ,0
+ AIZL          ,0
+um2aL  ,0
+ intR        ,0
+AWCL ,0
+ dBWML23     ,0
+SIBDL ,0
+vBWMR20 ,0
+ AS04          ,0
+ LUAR          ,0
+ RMER        ,0
+vBWML15 ,0
+ pm2vr       ,0
+ RMED          ,0
+ DD04          ,0
+vm1pR ,0
+ VA06        ,0
+PVWR ,0
+LUAR ,0
+RIAL,2
+AVFR,1
+ DVB         ,0
+ DA04        ,0
+VA06 ,0
+ IL1DR       ,0
+vBWMR17 ,0
+PVNR ,0
+RMEV ,0
+ vBWML23       ,0
+URYDL,2
+ URBR        ,0
+ dBWML13       ,0
+AWBR,1
+ dBWMR17       ,0
+dBWML7 ,0
+AFDR ,0
+ dBWMR24     ,0
+ VB05        ,0
+ dBWMR3        ,0
+IL1VL ,0
+OLQVL,2
+dBWMR1 ,0
+VD09 ,0
+vBWML18 ,0
+RIFR ,0
+IL2VL,1
+ vBWMR13       ,0
+DA08 ,0
+ RMGR          ,0
+ IL2DL         ,0
+ SABD          ,0
+SMDVR,2
+pm6vr ,0
+ pm4d        ,0
+ vBWML20     ,0
+ADAR ,0
+vBWML1 ,0
+GLRL,0
+AVM ,0
+ SDQR          ,0
+ ASEL        ,0
+ pm1vr         ,0
+AVDL ,0
+ AWCR        ,0
+ BAGL        ,0
+ dBWML14       ,0
+ ADLL        ,0
+RMDDR ,0
+ dBWML19       ,0
+dBWMR2 ,0
+AFDR,1
+ VA09        ,0
+ASGR,1
+ ADEL        ,0
+IL2DL,1
+OLQDL ,0
+BAGR,1
+ VB01        ,0
+ vBWML10     ,0
+ VD06          ,0
+ dBWMR1        ,0
+URYVR ,0
+mc3v ,0
+ vBWML9        ,0
+ dBWML1      ,0
+ ALNL          ,0
+ VB03          ,0
+ mc1dr       ,0
+ADLR ,0
+ vBWML8      ,0
+PVQR,2
+vBWMR24 ,0
+RIPL ,0
+ RIGL        ,0
+ ADLR        ,0
+ M2R         ,0
+ ASER          ,0
+ BAGR          ,0
+ URADL         ,0
+RMFL,2
+M1 ,0
+ALNL,1
+ SMDDL       ,0
+ RIPL        ,0
+RIBL,2
+AIZL ,0
+SIBVL ,0
+vBWML22 ,0
+ DD03        ,0
+AS07 ,0
+ AINR        ,0
+ NSML          ,0
+ dBWML5      ,0
+RIBR,2
+AWBL ,0
+RMDR,2
+ VA07        ,0
+PVCR,2
+AVJL ,0
+RMER,2
+RIVL,2
+SIAVR ,0
+ RIBL        ,0
+AVKR ,0
+ I3          ,0
+VC04 ,0
+ VD03          ,0
+ dBWML16       ,0
+ BDUR        ,0
+SMBVR,2
+ IL2DR         ,0
+ dBWML6        ,0
+ VB01          ,0
+ASEL ,0
+ MCR           ,0
+ AIBL        ,0
+ FLPR          ,0
+ ASIL        ,0
+ AS01        ,0
+ DA07          ,0
+ AIYL        ,0
+IL2VR,1
+PHBR ,0
+ AVER          ,0
+ VA08          ,0
+VB06 ,0
+ AVEL        ,0
+ vBWMR24     ,0
+ hyp           ,0
+AS09 ,0
+AIMR,1
+ I6            ,0
+RIFL ,0
+ RMHR          ,0
+ VD04          ,0
+vm2aR ,0
+dBWMR19 ,0
+ SDQL          ,0
+ RIBR          ,0
+ AVHR        ,0
+RIH ,0
+vBWMR5 ,0
+ dBWMR17     ,0
+ dBWML11     ,0
+MI ,0
+SMBVL,2
+ SMBVL         ,0
+PVNR,2
+ RIS         ,0
+ URXR        ,0
+ PVQL        ,0
+ RIH         ,0
+ URYDL         ,0
+M3R ,0
+ SIBDL       ,0
+DVA ,0
+I4 ,0
+ PHCR        ,0
+ dBWML13     ,0
+ dBWMR19       ,0
+ OLLR        ,0
+M3L ,0
+vBWMR10 ,0
+dBWML15 ,0
+ vBWML3        ,0
+RIR ,0
+ URYVR         ,0
+ vBWMR17     ,0
+AS02 ,0
+ SMBDR       ,0
+dBWML12 ,0
+ VA06          ,0
+ ASJR          ,0
+ AIML        ,0
+ PVDR          ,0
+AVBR,1
+I6 ,0
+ NSMR        ,0
+CANR,0
+AIZL,1
+ IL1VL         ,0
+ RICL        ,0
+ALMR ,0
+ DA06          ,0
+ VD13          ,0
+ DA05        ,0
+ dBWMR7        ,0
+RMDVL,2
+ AIZR          ,0
+SABVL ,0
+DD02 ,0
+URBL,2
+ vBWMR9        ,0
+vBWML19 ,0
+AWBL,1
+ VC04          ,0
+ AS10          ,0
+RMDDR,2
+ vBWMR7        ,0
+PVT,2
+PVPL ,0
+ AWAR        ,0
+ dBWMR8      ,0
+URXL ,0
+ vm1pR       ,0
+ASIR ,0
+FLPR,1
+ FLPR        ,0
+ dBWMR2        ,0
+ RIFL          ,0
+URAVR ,0
+ASIL ,0
+URYVL,2
+dBWML11 ,0
+ dBWMR7      ,0
+SIBVL,2
+ DVA           ,0
+ dBWML22       ,0
+ pm1vl       ,0
+ IL1L          ,0
+ SMDVL       ,0
+ PVPR          ,0
+ DD01          ,0
+ AUAL        ,0
+ VA11        ,0
+ dBWMR21       ,0
+AVHL ,0
+dBWML2 ,0
+ um2aL       ,0
+M2L ,0
+DB02 ,0
+ OLQVL       ,0
+ vm1pL       ,0
+CEPshDR,0
+SMDDR ,0
+ vBWMR5      ,0
+dBWML10 ,0
+ASER,1
+ AS02          ,0
+ vBWMR12       ,0
+ AWCR          ,0
+ SDQR        ,0
+IL2R ,0
+AIBR,1
+CEPVL,1
+dBWMR7 ,0
+ AVDR          ,0
+ VC06        ,0
+ RIFL        ,0
+ RIAR          ,0
+SMBVL ,0
+ DD02          ,0
+ AWAL          ,0
+ PHCL          ,0
+vBWMR9 ,0
+pm4d ,0
+ URAVL       ,0
+SDQL ,0
+ vBWML13     ,0
+ vm2aL       ,0
+AVER ,0
+ vm2pL         ,0
+ vBWML17       ,0
+ VD08        ,0
+ vBWML12     ,0
+DB1,0
+ AVHL        ,0
+ dBWML20       ,0
+ vBWML14     ,0
+ URYVL       ,0
+PLNL,2
+ OLQVR         ,0
+ pm5vl         ,0
+ RMEV        ,0
+ SIBDL         ,0
+RIAR ,0
+ um1pL       ,0
+ vBWMR21     ,0
+URXR ,0
+ VD05          ,0
+AIAR ,0
+ dBWMR4        ,0
+ pm3vl         ,0
+ VB11        ,0
+BWM-DR02,0
+um1aL ,0
+ dBWMR13       ,0
+AIMR ,0
+VD06 ,0
+ vm1aL       ,0
+sph ,0
+RIVR ,0
+PLMR ,0
+ IL2DR       ,0
+ pm6d        ,0
+ RMHL          ,0
+SIAVL,2
+ RMEL          ,0
+ DD02        ,0
+dBWML14 ,0
+ PQR           ,0
+ VB06        ,0
+ADLL,1
+ RIGR          ,0
+ dBWMR22     ,0
+pm3vl ,0
+ MI          ,0
+ VD07        ,0
+ ASIR        ,0
+ VB09          ,0
+vBWMR13 ,0
+PVQR ,0
+ ASKR        ,0
+vm1pL ,0
+ PHCL        ,0
+ AS02        ,0
+VC03 ,0
+pm5vl ,0
+ sph         ,0
+IL2R,1
+ SABVL         ,0
+ASHR ,0
+BWM-VL06,0
+ AVBL          ,0
+intL ,0
+ dBWML21     ,0
+ ADFL          ,0
+vBWML16 ,0
+OLQDR ,0
+VA12 ,0
+AINR,1
+DVA,1
+ dBWML4        ,0
+ vBWML21       ,0
+ VD06        ,0
+mc3dl ,0
+ dBWMR8        ,0
+ dBWML15     ,0
+ vBWML6        ,0
+pm5d ,0
+ vm2pR       ,0
+ AUAL          ,0
+ vBWML12       ,0
+RIFR,2
+RIGL ,0
+SIBVR,2
+um1pL ,0
+ vBWMR20       ,0
+dBWMR3 ,0
+ dBWML4      ,0
+dBWML16 ,0
+ URBL          ,0
+ VB11          ,0
+ CEPDR       ,0
+VB03 ,0
+dBWMR18 ,0
+pm2d ,0
+ AVJR          ,0
+dBWML8 ,0
+ vBWML6      ,0
+ AWCL        ,0
+CEPshVR,0
+ IL2R          ,0
+ dBWML2        ,0
+RMDL ,0
+ DB02        ,0
+RMER ,0
+ ADFL        ,0
+BWM-VR07,0
+ IL2VR         ,0
+ AWBL          ,0
+ DA06        ,0
+ ASHR          ,0
+PVCL ,0
+ PVDL        ,0
+ VA05          ,0
+ dBWMR9        ,0
+ IL2DL       ,0
+dBWMR4 ,0
+vBWMR22 ,0
+ RMEL        ,0
+ ASKR          ,0
+ AVFR          ,0
+ ALML        ,0
+ BAGL          ,0
+vBWML8 ,0
+AIBR ,0
+ AIAL        ,0
+ vBWML4        ,0
+AVAL,1
+ AVG           ,0
+DA09 ,0
+ SIBVL       ,0
+I1R ,0
+vBWML2 ,0
+ADLR,1
+ ALMR        ,0
+ VB06          ,0
+ M1          ,0
+IL2DR ,0
+ dBWML20     ,0
+BWM-DR03,0
+AINR ,0
+ dBWMR20     ,0
+ um2pL       ,0
+ VC03        ,0
+dBWMR11 ,0
+ vBWMR22       ,0
+mc1dl ,0
+ dBWMR22       ,0
+ RIPR        ,0
+ pm3vr       ,0
+DD05 ,0
+ vBWMR18     ,0
+ VB03        ,0
+ VA02        ,0
+BWM-VL04,0
+ RID           ,0
+RIH,2
+ ADAR        ,0
+VD11 ,0
+um1pR ,0
+ DB04        ,0
+ vBWMR21       ,0
+AS08 ,0
+ M4          ,0
+ AIMR          ,0
+ dBWML2      ,0
+RIGR ,0
+AQR,1
+ RMDVR         ,0
+ RMED        ,0
+SAADL ,0
+ AS06          ,0
+URBR ,0
+ ALNL        ,0
+SIADR,2
+ URAVR         ,0
+ AVEL          ,0
+mc2dr ,0
+RIML,2
+ VA11          ,0
+dBWMR5 ,0
+BAGL,1
+ FLPL        ,0
+PVWL ,0
+ RIAL        ,0
+ PDA           ,0
+ RIAL          ,0
+ PQR         ,0
+AVAR,1
+DB04 ,0
+ RMGL        ,0
+ SABVL       ,0
+ CEPVR       ,0
+ RIFR          ,0
+vBWML4 ,0
+RMFR,2
+dBWML4 ,0
+ VC04        ,0
+ dBWML10     ,0
+ ALA         ,0
+ PHBL        ,0
+SDQL,2
+ASKR,1
+ URAVL         ,0
+ AIYL          ,0
+ mc3dl       ,0
+AVFL,1
+ VA03        ,0
+ RICR          ,0
+RIAL ,0
+IL1VL,1
+RICL ,0
+vBWML11 ,0
+BWM-VL07,0
+ VC05        ,0
+ vBWML15       ,0
+SDQR ,0
+DD01 ,0
+ dBWMR20       ,0
+RMDVR ,0
+BWM-VR03,0
+AS10 ,0
+AVEL ,0
+vm1aL ,0
+ SMBDR         ,0
+ AWBR          ,0
+ DD05          ,0
+BWM-DL05,0
+RMDDL ,0
+ dBWML14     ,0
+ dBWML1        ,0
+ SAADL         ,0
+VD08 ,0
+dBWMR13 ,0
+dBWMR22 ,0
+ AVDL        ,0
+ AIBR          ,0
+URYDR ,0
+ DA03          ,0
+ SMBVL       ,0
+ IL1VR         ,0
+pm6vl ,0
+ RIML          ,0
+ pm5vr         ,0
+ AVAR          ,0
+ AVKR        ,0
+ dBWMR19     ,0
+ I6          ,0
+ SABVR       ,0
+OLLR ,0
+ dBWMR5      ,0
+ DA03        ,0
+ RIPR          ,0
+ vBWMR20     ,0
+ AS11        ,0
+URAVL,2
+ vBWML19       ,0
+OLQVL ,0
+AWCR ,0
+ vBWML11       ,0
+ SAAVR       ,0
+PQR ,0
+pm5vr ,0
+AVL,1
+PVT ,0
+pm7d ,0
+AIYR ,0
+ M4            ,0
+ DA01          ,0
+ vBWMR16       ,0
+ M3L           ,0
+ PVPL        ,0
+ vBWML9      ,0
+ pm3vr         ,0
+pm8 ,0
+ dBWML22     ,0
+ VD09          ,0
+ ASIR          ,0
+VA01 ,0
+ VA12          ,0
+IL2VR ,0
+ AVKL          ,0
+um2pR ,0
+vBWML14 ,0
+ dBWMR10     ,0
+AVBL ,0
+ pm4vl         ,0
+ IL2VL         ,0
+ VC01        ,0
+ intestine     ,0
+dBWML6 ,0
+ vBWML3      ,0
+um2pL ,0
+ um2aR       ,0
+BWM-DL03,0
+AIML,1
+ SABD        ,0
+ADFL ,0
+RMGR,2
+ dBWML5        ,0
+VC06 ,0
+ vBWMR3        ,0
+ DB05          ,0
+ vBWMR19     ,0
+BWM-VR06,0
+ RMDL          ,0
+AVDL,1
+OLQDR,1
+PVCR ,0
+DB03 ,0
+dBWMR9 ,0
+ vBWMR6      ,0
+ vBWMR11     ,0
+ dBWML24       ,0
+URBL ,0
+ RMDVL       ,0
+VB09 ,0
+ DB03          ,0
+ PVM           ,0
+ ASGR        ,0
+ RMHR        ,0
+dBWMR20 ,0
+ mc2dl         ,0
+ ASKL          ,0
+ pm5vl       ,0
+um1aR ,0
+PLNL ,0
+AWAR ,0
+ vBWMR15       ,0
+ALA,1
+BWM-VL02,0
+ RIBL          ,0
+ I1R         ,0
+ dBWMR10       ,0
+PDEL ,0
+vBWMR15 ,0
+BWM-DR06,0
+CEPshDL,0
+ADEL ,0
+PVNL ,0
+VB07 ,0
+ dBWMR12     ,0
+pm2vl ,0
+ dBWMR11     ,0
+ dBWML9      ,0
+AVFL ,0
+ M2R           ,0
+RMED,2
+ DA09        ,0
+SIBDR,2
+ DD01        ,0
+AIML ,0
+AIZR ,0
+AVBL,1
+ AFDR          ,0
+ URADL       ,0
+ DB06        ,0
+pm6d ,0
+ADFL,1
+ADER,1
+ SIBVR       ,0
+SAADL,2
+pm2vr ,0
+ SMBVR       ,0
+ PVCR        ,0
+SMBDR ,0
+ dBWML12     ,0
+ dBWML21       ,0
+ URYVL         ,0
+SMBVR ,0
+ VD01        ,0
+vBWMR2 ,0
+ AWAL        ,0
+ VA01        ,0
+ ALNR        ,0
+NSML ,0
+ASJR ,0
+AS11 ,0
+AS03 ,0
+CEPVR,1
+VB02 ,0
+PHAL ,0
+ dBWMR5        ,0
+ AVKR          ,0
+ SAAVL         ,0
+URXR,2
+ VA12        ,0
+ VD10          ,0
+dBWML3 ,0
+ dBWML19     ,0
+AS05 ,0
+AFDL,1
+SMDVL,2
+ mc2v          ,0
+AVAL ,0
+DA04 ,0
+vBWML3 ,0
+ PDA         ,0
+ IL1DL         ,0
+ I2R         ,0
+ ADAR          ,0
+ vBWML1        ,0
+ SMBDL       ,0
+VB05 ,0
+ mc2dl       ,0
+RIMR,2
+RIBR ,0
+URADL,2
+ DD04        ,0
+ vBWMR10       ,0
+ HSNR          ,0
+mc2v ,0
+ ALMR          ,0
+AWAL,1
+ DD06          ,0
+BWM-VL01,0
+ VD08          ,0
+ AIZR        ,0
+ DA04          ,0
+AS04 ,0
+ dBWML18       ,0
+VA04 ,0
+ DD05        ,0
+vBWML5 ,0
+ AS10        ,0
+BDUL ,0
+ SMDVL         ,0
+ PVCL          ,0
+pm4vr ,0
+ VD01          ,0
+ RIFR        ,0
+BWM-DL08,0
+excgl,0
+CEPVL ,0
+ AS11          ,0
+VB08 ,0
+IL1L ,0
+URYDL ,0
+ vBWMR2        ,0
+ dBWMR14     ,0
+PVR,2
+AS01 ,0
+VD02 ,0
+ dBWML3      ,0
+ASEL,1
+SMDDR,2
+ mc2dr       ,0
+ URYDR         ,0
+AWAL ,0
+dBWML21 ,0
+ SIBDR         ,0
+URYVL ,0
+ AUAR        ,0
+ vBWMR8      ,0
+ SAADR       ,0
+ vBWMR8        ,0
+AVM,1
+AIBL ,0
+PVQL,2
+DD06 ,0
+ vBWMR12     ,0
+ PHAR          ,0
+URBR,2
+IL1R,1
+ADER ,0
+ M1            ,0
+ pm7vr         ,0
+ASKL ,0
+ DVC         ,0
+ vm2pL       ,0
+ vBWML7      ,0
+PVQL ,0
+ PDER          ,0
+ AVJL        ,0
+ dBWMR16     ,0
+PLNR,2
+SMBDL ,0
+ RICL          ,0
+ PVWL          ,0
+URADL ,0
+ vBWML5        ,0
+vBWMR1 ,0
+ASJR,1
+ADFR,1
+ MCL           ,0
+ OLLR          ,0
+DB07 ,0
+GLRR,0
+ IL2L          ,0
+ PHBL          ,0
+ vBWMR6        ,0
+DA03 ,0
+dBWMR21 ,0
+BWM-VR05,0
+ PVCR          ,0
+ VA10        ,0
+ vBWML21     ,0
+ ADFR        ,0
+ VD12        ,0
+ dBWML9        ,0
+ AVG         ,0
+ DA01        ,0
+ PVR           ,0
+ ASER        ,0
+ RMDVL         ,0
+ VB04        ,0
+ anal        ,0
+ SIAVR       ,0
+vBWML23 ,0
+ vBWMR23     ,0
+ dBWML17       ,0
+pm4vl ,0
+ IL2R        ,0
+M4 ,0
+dBWML19 ,0
+ vBWMR9      ,0
+ URBL        ,0
+DB01 ,0
+ AINL        ,0
+VA11 ,0
+ RIR         ,0
+ vm2aR         ,0
+SIBDL,2
+ RIML        ,0
+GLRVL,0
+RIPR,2
+ ADFR          ,0
+GLRDR,0
+ vBWMR19       ,0
+ dBWML10       ,0
+ ASEL          ,0
+dBWML23 ,0
+IL1VR,1
+dBWML24 ,0
+ SIBVL         ,0
+pm1d ,0
+PDB ,0
+AWAR,1
+ DB05        ,0
+ AVBR          ,0
+AIAR,1
+ DB03        ,0
+VA07 ,0
+ RIGL          ,0
+IL1VR ,0
+SMDDL,2
+ BAGR        ,0
+vBWMR19 ,0
+BWM-DL07,0
+ PVDL          ,0
+ VA02          ,0
+ASKR ,0
+ CEPVR         ,0
+ AS03          ,0
+ VB09        ,0
+ PHBR        ,0
+ ADEL          ,0
+ vm2pR         ,0
+ AS03        ,0
+ dBWMR9      ,0
+RMED ,0
+ URYVR       ,0
+ AVAR        ,0
+ ALML          ,0
+ RMDDL       ,0
+ AIYR        ,0
+VD04 ,0
+ ASHR        ,0
+ADFR ,0
+ I2L           ,0
+ SAADR         ,0
+AVHR ,0
+ RMFL        ,0
+ DA02        ,0
+ BDUL          ,0
+OLLR,2
+ RIGR        ,0
+ SIBVR         ,0
+ pm2vl       ,0
+dBWML13 ,0
+ PVT         ,0
+pm1vr ,0
+BWM-DR01,0
+ ASIL          ,0
+ IL1DR         ,0
+dBWMR16 ,0
+ SAADL       ,0
+ vBWML16       ,0
+ AVAL        ,0
+ vm2aR       ,0
+RICR,2
+M5 ,0
+ pm6vr       ,0
+SIBVR ,0
+ RMDDR         ,0
+ mc1dl       ,0
+ NSML        ,0
+ AIYR          ,0
+ vBWML10       ,0
+ dBWMR23       ,0
+dBWMR23 ,0
+ pm1vr       ,0
+ SMDVR         ,0
+VD13 ,0
+ALMR,1
+AVER,1
+RICR ,0
+ IL1DL       ,0
+BWM-DR05,0
+ URXR          ,0
+ AVDL          ,0
+ ADLR          ,0
+AVKL ,0
+ OLQDL         ,0
+ASIL,1
+ pm4vl       ,0
+ AVFL        ,0
+ AVFR        ,0
+ AWBL        ,0
+AINL,1
+ASHR,1
+ vBWML4      ,0
+ASGL,1
+HSNR ,0
+RIGL,2
+vBWMR11 ,0
+I3 ,0
+vBWMR3 ,0
+ BDUR          ,0
+ VD07          ,0
+vBWML12 ,0
+ PVQL          ,0
+SMBDL,2
+ADAL,1
+ vBWML14       ,0
+RMGR ,0
+ dBWML7      ,0
+ SIAVL       ,0
+FLPL ,0
+BAGL ,0
+RIPL,2
+dBWMR10 ,0
+BWM-DR04,0
+ VB02        ,0
+VD12 ,0
+RID,2
+DVC ,0
+dBWML9 ,0
+ vBWMR18       ,0
+PHBL ,0
+ mc3dr       ,0
+ RMDL        ,0
+ PHAL          ,0
+ RMFL          ,0
+ IL2L        ,0
+ DA09          ,0
+SABD ,0
+ MCL         ,0
+ M5          ,0
+ PLNL        ,0
+ pm6vr         ,0
+vBWML6 ,0
+ ASJL        ,0
+vBWML13 ,0
+ URADR         ,0
+intR ,0
+OLQVR ,0
+PHAR ,0
+ dBWMR18     ,0
+RMHL,2
+AVG ,0
+dBWML22 ,0
+ hyp         ,0
+ I1L         ,0
+ VD12          ,0
+ HSNL          ,0
+ I1R           ,0
+RIFL,2
+ ASGR          ,0
+AUAR ,0
+ VC06          ,0
+CEPDL ,0
+SMDVL ,0
+ RIMR          ,0
+ mc1v        ,0
+ VD09        ,0
+ vBWMR15     ,0
+ AIAR        ,0
+ dBWML18     ,0
+ OLQDL       ,0
+ pm2d        ,0
+ URBR          ,0
+ RIVR        ,0
+AVKR,1
+ADEL,1
+ mc2v        ,0
+ AS05          ,0
+VD03 ,0
+ pm7d          ,0
+ AIML          ,0
+ dBWMR2      ,0
+I2L ,0
+RMHR,2
+ RMDVR       ,0
+ VA01          ,0
+ ASKL        ,0
+ VA10          ,0
+ PVM         ,0
+ ASHL          ,0
+ DB01          ,0
+ VA05        ,0
+OLLL,1
+ VB07        ,0
+ IL1VL       ,0
+I1L ,0
+VC05 ,0
+ PVQR          ,0
+BDUR ,0
+ vBWML22     ,0
+IL2VL ,0
+ AVBL        ,0
+ URXL          ,0
+ PVNR          ,0
+ALML,1
+ AVDR        ,0
+BDUL,1
+ AS01          ,0
+ASER ,0
+ AVER        ,0
+ pm7vr       ,0
+dBWML5 ,0
+ASJL,1
+ vBWMR13     ,0
+ AIZL        ,0
+FLPR ,0
+ pm1d        ,0
+ AVL         ,0
+ um1pR       ,0
+RIS,2
+ ADAL        ,0
+ vBWML15     ,0
+IL2DL ,0
+ SMDDR         ,0
+PVR ,0
+ dBWMR21     ,0
+ I1L           ,0
+ IL1R        ,0
+ pm4vr       ,0
+ vBWMR7      ,0
+ dBWML11       ,0
+URAVL ,0
+ VD11        ,0
+ AUAR          ,0
+ LUAL        ,0
+ PHBR          ,0
+ AIMR        ,0
+ DB02          ,0
+ PVWR        ,0
+SIAVR,2
+IL2L ,0
+RMFR ,0
+ AS06        ,0
+ dBWMR13     ,0
+ vBWML18       ,0
+CEPDL,1
+ vBWMR10     ,0
+ AIAL          ,0
+ PVNL          ,0
+ pm6vl         ,0
+DB06 ,0
+AWCL,1
+ PVNL        ,0
+RIR,2
+BWM-VR08,0
+LUAL ,0
+ SAAVL       ,0
+AIAL ,0
+ dBWML8        ,0
+ mc2dr         ,0
+ dBWML23       ,0
+ ADER          ,0
+ vBWMR4        ,0
+BAGR ,0
+ PDB           ,0
+PDER ,0
+ VD02        ,0
+ BDUL        ,0
+ URADR       ,0
+ PLNL          ,0
+ DA08        ,0
+ OLQVL         ,0
+ dBWMR6        ,0
+ I4            ,0
+ AVHR          ,0
+ VB07          ,0
+ VA04          ,0
+ dBWML6      ,0
+ AIBL          ,0
+ RMGL          ,0
+BWM-DL02,0
+ I3            ,0
+ I2R           ,0
+ VD05        ,0
+CEPDR,1
+dBWMR8 ,0
+ pm4d          ,0
+PHCR ,0
+AVEL,1
+ pm6d          ,0
+AVFR ,0
+mc1v ,0
+ AINR          ,0
+ IL1VR       ,0
+PVDR ,0
+RICL,2
+ RIMR        ,0
+ mc3v        ,0
+ dBWMR1      ,0
+ pm5d          ,0
+AWCR,1
+ OLQDR       ,0
+ VC01          ,0
+PVPL,2
+ vBWMR5        ,0
+RIMR ,0
+OLLL ,0
+PDA ,0
+ RIPL          ,0
+ SIADR         ,0
+ intL        ,0
+ RIAR        ,0
+AIBL,1
+mc2dl ,0
+ pm7d        ,0
+SABVR ,0
+BWM-VR01,0
+BWM-DR07,0
+ AQR           ,0
+AIZR,1
+ AWCL          ,0
+ RMDDR       ,0
+ PHAR        ,0
+ vBWMR24       ,0
+IL1DR,1
+ vBWML17     ,0
+DA05 ,0
+ URAVR       ,0
+ SMBDL         ,0
+ IL1L        ,0
+ OLQVR       ,0
+ AWAR          ,0
+VA09 ,0
+ASIR,1
+DA02 ,0
+ vBWMR2      ,0
+RIVL ,0
+dBWMR24 ,0
+SAAVL,2
+OLQVR,2
+PLML ,0
+ dBWMR11       ,0
+AVKL,1
+ AVL           ,0
+PVCL,2
+pm7vl ,0
+vm2aL  ,0
+ SMBVR         ,0
+dBWML17 ,0
+IL1R ,0
+ vBWMR14     ,0
+ vBWMR1      ,0
+ DA08          ,0
+ URYDR       ,0
+mc1dr ,0
+ VD13        ,0
+SAAVR ,0
+PVPR ,0
+ pm4vr         ,0
+NSMR ,0
+ dBWMR23     ,0
+ RIH           ,0
+SAADR,2
+ VB08          ,0
+ AVKL        ,0
+ SABVR         ,0
+AVBR ,0
+AIAL,1
+ M3R           ,0
+AIYL,1
+SMDVR ,0
+BWM-DL06,0
+vBWML20 ,0
+RMDR ,0
+ VD11          ,0
+ vBWMR16     ,0
+ LUAL          ,0
+ASGR ,0
+ dBWML3        ,0
+RMEL,2
+vm2pR ,0
+ PDEL          ,0
+AUAL ,0
+BWM-DL01,0
+DB05 ,0
+ AVFL          ,0
+URADR,2
+vBWML7 ,0
+ vm1aR       ,0
+AVHR,1
+vBWMR21 ,0
+ vBWML18     ,0
+ PVNR        ,0
+ DVC           ,0
+ AWBR        ,0
+ SIAVL         ,0
+ ALA           ,0
+HSNL ,0
+ I5            ,0
+URYVR,2
+AVDR ,0
+ ASJR        ,0
+ vBWMR22     ,0
+ dBWMR18       ,0
+ RICR        ,0
+ vBWML5      ,0
+ vm2aL         ,0
+hyp ,0
+RIPR ,0
+ dBWML12       ,0
+GLRVR,0
+dBWML20 ,0
+RIAR,2
+ ASGL        ,0
+ RIVL        ,0
+DVB ,0
+vBWMR16 ,0
+ AVJR        ,0
+ AVM           ,0
+ PDEL        ,0
+vBWMR23 ,0
+ADAR,1
+ DA07        ,0
+ vBWMR17       ,0
+VD07 ,0
+ PDER        ,0
+ AFDL          ,0
+ DB06          ,0
+DA01 ,0
+VC01 ,0
+ RMER          ,0
+ dBWMR4      ,0
+ dBWML15       ,0
+ALNL ,0
+ VD04        ,0
+ vBWMR3      ,0
+ RIBR        ,0
+AIYL ,0
+ dBWMR6      ,0
+ CEPVL       ,0
+ AS09          ,0
+ALNR,1
+ PVWR          ,0
+ ADLL          ,0
+ pm7vl       ,0
+RID ,0
+VA03 ,0
+AIYR,1
+VB10 ,0
+DA07 ,0
+ PDB         ,0
+ vBWMR4      ,0
+ DB07          ,0
+ SDQL        ,0
+ RMDR          ,0
+ vBWML23     ,0
+ intL          ,0
+AUAL,1
+dBWML1 ,0
+ AVAL          ,0
+ RIR           ,0
+ AINL          ,0
+ AIBR        ,0
+ FLPL          ,0
+I5 ,0
+ DD03          ,0
+ AVBR        ,0
+BWM-VR02,0
+ dBWML17     ,0
+dBWMR6 ,0
+ ADAL          ,0
+vBWMR12 ,0
+ PVWL        ,0
+ vBWML1      ,0
+SIAVL ,0
+ DA02          ,0
+VB11 ,0
+ pm1vl         ,0
+CEPVR ,0
+I2R ,0
+ vBWML22       ,0
+OLQDL,1
+ I2L         ,0
+mc3dr ,0
+ RMDR        ,0
+BWM-DR08,0
+ OLLL        ,0
+ PHAL        ,0
+dBWMR12 ,0
+ CEPDL         ,0
+vBWMR4 ,0
+BWM-DL04,0
+VD05 ,0
+ DVB           ,0
+ AS04        ,0
+ OLLL          ,0
+AVJL,1
+ LUAR        ,0
+RMHR ,0
+ DA05          ,0
+VA08 ,0
+ pm2d          ,0
+ VB04          ,0
+ VD10        ,0
+AINL ,0
+ vBWML20       ,0
+ PLNR          ,0
+vBWMR18 ,0
+ VC02          ,0
+ PVPL          ,0
+ASJL ,0
+ dBWML24     ,0
+ URXL        ,0
+RMEV,2
+ vBWMR14       ,0
+ M2L         ,0
+ OLQDR         ,0
+AS06 ,0
+MCR ,0
+GLRDL,0
+ DD06        ,0
+ RMDDL         ,0
+BWM-VL03,0
+RIGR,2
+AUAR,1
+ vBWML8        ,0
+ VA08        ,0
+AVAR ,0
+pm7vr ,0
+DA06 ,0
+ RMHL        ,0
+VA02 ,0
+AFDL ,0
+ VB10        ,0
+SAAVL ,0
+SDQR,2
+SMDDL ,0
+vBWML17 ,0
+BWM-VL08,0
+ dBWML16     ,0
+dBWMR17 ,0
+ IL1R          ,0
+ RMFR          ,0
+ PHCR          ,0
+dBWMR14 ,0
+ SIADL       ,0
+PVDL ,0
+ um1aL       ,0
+VB01 ,0
+AVL ,0
+PLNR ,0
+PVPR,2
+ PVCL        ,0
+RIBL ,0
+ MI            ,0
+ ASGL          ,0
+RIML ,0
+ vBWML11     ,0
+ vBWMR11       ,0
+ SIAVR         ,0
+ dBWMR12       ,0
+DVC,1
+ ADER        ,0
+ RMEV          ,0
+ vBWML2        ,0
+VD01 ,0
+ CEPDR         ,0
+ VA04        ,0
+ M3L         ,0
+pm3vr ,0
+AVJR,1
+ dBWMR15     ,0
+ M3R         ,0
+ PLML        ,0
+RMFL ,0
+vBWML10 ,0
+ I4          ,0
+ pm3vl       ,0
+ um1aR       ,0
+VB04 ,0
+ AS08          ,0
+AVDR,1
+ VC03          ,0
+ RIVR          ,0
+dBWML18 ,0
+ vBWML7        ,0
+URADR ,0
+SAAVR,2
+ vBWML13       ,0
+HSNR,1
+ VA09          ,0
+ VC05          ,0
+ VD02          ,0
+ VB02          ,0
+vBWMR14 ,0
+ AFDR        ,0
+vm2pL ,0
+PHCL ,0
+AWBR ,0
+ALML ,0
+ PVQR        ,0
+RMHL ,0
+ SIADL         ,0
+ VB10          ,0
+M2R ,0
+ DVA         ,0
+ URYDL       ,0
+ VA03          ,0
+ PVDR        ,0
+ RMGR        ,0
+RMGL ,0
+ dBWMR14       ,0
+RMDL,2
+ dBWMR24       ,0
+PQR,2
+VD02,0
+VB02,0
+DA03,1
+PHAR,2
+DA07,1
+DB04,1
+AS01,1
+PHAL,2
+VD06,0
+VB04,0
+DB03,1
+PHBR,2
+PLMR,2
+VD09,0
+VA10,0
+DVB,1
+AVG,1
+DD04,1
+VC05,0
+LUAL,1
+PVDR,2
+VA01,0
+AS06,1
+AS08,1
+SABVR,2
+PHCR,2
+AS05,1
+VD11,0
+DD03,1
+VB05,0
+VD01,0
+DB02,1
+VC03,0
+VA05,0
+VC04,0
+VD04,0
+DA05,1
+VD03,0
+VD10,0
+VC02,0
+DA06,1
+VA07,0
+VB06,0
+PDER,2
+PVM,2
+DD06,1
+PDB,2
+VB11,0
+VC01,0
+VD07,0
+DD01,1
+VB07,0
+AS04,1
+LUAR,2
+PDA,2
+VA08,0
+VD08,0
+VB01,0
+DB06,1
+PLML,2
+SABD,2
+VA06,0
+DB07,1
+VA03,0
+DD05,1
+DA04,1
+DA08,1
+DB05,1
+VA02,2
+VD05,0
+AS11,1
+PVDL,2
+VA11,0
+PDEL,2
+VA09,0
+AS03,1
+AS09,1
+VA04,0
+PVWL,2
+SABVL,2
+AS02,1
+VA12,0
+DA09,1
+DA01,1
+PHBL,2
+VB10,0
+PHCL,2
+AS07,1
+AS10,1
+DB01,1
+DD02,1
+DA02,1
+PVWR,2
+VB03,0
+VB09,0
+VB08,0
+VD12,0
+False,0
+True,0

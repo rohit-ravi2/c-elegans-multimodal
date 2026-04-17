@@ -1,0 +1,1534 @@
+Neuron,Type
+AINL,Unknown
+AINR,Unknown
+CEPshVR,Glia
+CEPshDL,Glia
+CEPshVL,Glia
+ASIR,Unknown
+CEPshDR,Glia
+ASJR,Unknown
+PVT,Unknown
+RIAR,Unknown
+RIH,Unknown
+BWM-VR04,Unknown
+RIMR,Unknown
+SMBVR,Unknown
+ADER,Unknown
+ASIL,Unknown
+BDUR,Unknown
+DVC,Unknown
+AVFR,Unknown
+CEPVR,Unknown
+URYVR,Unknown
+ADLR,Unknown
+PVNL,Unknown
+RMFL,Unknown
+AIBR,Unknown
+AVAR,Interneuron
+AIBL,Unknown
+AIYR,Unknown
+AUAR,Unknown
+URXR,Unknown
+AFDR,Sensory
+BAGL,Unknown
+ASEL,Sensory
+RID,Unknown
+RIML,Unknown
+AVHR,Unknown
+CEPVL,Unknown
+ASKR,Unknown
+AWCR,Sensory
+ASGR,Unknown
+BAGR,Unknown
+ASJL,Unknown
+URBL,Unknown
+BDUL,Unknown
+IL2DL,Unknown
+PVQL,Unknown
+AWCL,Sensory
+RIS,Unknown
+RIVR,Unknown
+URYVL,Unknown
+RIFL,Unknown
+ASGL,Unknown
+IL2DR,Unknown
+SMBDL,Unknown
+IL1R,Unknown
+BWM-VR01,Unknown
+IL2VR,Unknown
+GLRVL,Unknown
+RMDL,Unknown
+RMDR,Unknown
+RMDVL,Unknown
+RMDVR,Unknown
+SMBVL,Unknown
+SMDDL,Unknown
+SMDDR,Unknown
+SMDVL,Unknown
+SMDVR,Unknown
+RIVL,Unknown
+RICR,Unknown
+ALNR,Unknown
+CEPDR,Unknown
+RMFR,Unknown
+CEPDL,Unknown
+ASHR,Sensory
+AIYL,Unknown
+AWBR,Unknown
+SIADL,Unknown
+SIBDL,Unknown
+DVA,Unknown
+SAAVL,Unknown
+SIAVL,Unknown
+PVPR,Unknown
+URYDL,Unknown
+AVBR,Interneuron
+OLLL,Unknown
+AVAL,Interneuron
+AVDR,Interneuron
+AVEL,Interneuron
+AVER,Interneuron
+SIBVL,Unknown
+URYDR,Unknown
+AVBL,Interneuron
+AVDL,Interneuron
+OLLR,Unknown
+OLQVR,Unknown
+OLQDR,Unknown
+SIBDR,Unknown
+RICL,Unknown
+BWM-VL06,Unknown
+ADAR,Unknown
+AVKR,Unknown
+SAADR,Unknown
+AVKL,Unknown
+SAADL,Unknown
+SAAVR,Unknown
+HSNL,Unknown
+HSNR,Unknown
+URAVR,Unknown
+URBR,Unknown
+AVHL,Unknown
+AWAR,Unknown
+RMGR,Unknown
+RMHL,Unknown
+RMHR,Unknown
+ADAL,Unknown
+ADFL,Unknown
+URXL,Unknown
+AWAL,Unknown
+AVFL,Unknown
+PVPL,Unknown
+PLNL,Unknown
+FLPR,Unknown
+FLPL,Unknown
+AVJL,Unknown
+PVCR,Interneuron
+PVCL,Interneuron
+AVJR,Unknown
+IL1L,Unknown
+GLRL,Unknown
+GLRDR,Unknown
+GLRVR,Unknown
+RMEV,Unknown
+URAVL,Unknown
+IL2L,Unknown
+OLQVL,Unknown
+URADR,Unknown
+IL1DL,Unknown
+BWM-DL02,Unknown
+BWM-DL03,Unknown
+SMBDR,Unknown
+URADL,Unknown
+BWM-DL01,Unknown
+BWM-DR01,Unknown
+BWM-DR03,Unknown
+ALA,Unknown
+AVL,Unknown
+PVQR,Unknown
+ASKL,Unknown
+AFDL,Sensory
+AUAL,Unknown
+AIML,Unknown
+ALML,Sensory
+ADLL,Unknown
+BWM-DR02,Unknown
+BWM-VR02,Unknown
+ADFR,Unknown
+RIAL,Unknown
+SIADR,Unknown
+IL2VL,Unknown
+SIBVR,Unknown
+OLQDL,Unknown
+BWM-VL04,Unknown
+BWM-DL04,Unknown
+BWM-DL06,Unknown
+RIFR,Unknown
+BWM-DR04,Unknown
+BWM-DR06,Unknown
+PVR,Unknown
+ALMR,Sensory
+SIAVR,Unknown
+PVNR,Unknown
+AWBL,Unknown
+IL2R,Unknown
+GLRR,Unknown
+GLRDL,Unknown
+BWM-VR08,Unknown
+BWM-VR05,Unknown
+BWM-VR06,Unknown
+BWM-VR07,Unknown
+AVM,Unknown
+BWM-DR08,Unknown
+BWM-VL05,Unknown
+BWM-VL02,Unknown
+BWM-VL03,Unknown
+BWM-VL07,Unknown
+BWM-VL08,Unknown
+BWM-DL05,Unknown
+BWM-DR05,Unknown
+BWM-DL08,Unknown
+BWM-DL07,Unknown
+excgl,Unknown
+I1L ,Unknown
+ I3            ,Unknown
+ I5            ,Unknown
+ I6            ,Unknown
+ M2L           ,Unknown
+ M3L           ,Unknown
+ M3R           ,Unknown
+ MCR           ,Unknown
+ MI            ,Unknown
+ NSML          ,Unknown
+ pm1vl         ,Unknown
+ pm4vl         ,Unknown
+I5 ,Unknown
+I6 ,Unknown
+M1 ,Unknown
+ I2L         ,Unknown
+ M3L         ,Unknown
+ NSML        ,Unknown
+ pm4vl       ,Unknown
+ RIPL        ,Unknown
+I1R ,Unknown
+M2L ,Unknown
+MI ,Unknown
+I2L ,Unknown
+I3 ,Unknown
+I4 ,Unknown
+M2R ,Unknown
+M4 ,Unknown
+NSML ,Unknown
+M3L ,Unknown
+ADFL ,Unknown
+IL1L ,Unknown
+RIPL ,Unknown
+RIPR ,Unknown
+RMED ,Unknown
+URAVL ,Unknown
+pm4d ,Unknown
+pm3vl ,Unknown
+mc1dl ,Unknown
+mc1v ,Unknown
+ I2R           ,Unknown
+ M1            ,Unknown
+ M2R           ,Unknown
+ NSMR          ,Unknown
+ pm5vr         ,Unknown
+ I4            ,Unknown
+ pm5d          ,Unknown
+ pm5vl         ,Unknown
+ M4            ,Unknown
+ NSMR        ,Unknown
+ I1R         ,Unknown
+ M1          ,Unknown
+ M2R         ,Unknown
+ M2L         ,Unknown
+ M5          ,Unknown
+ M4          ,Unknown
+ pm2d          ,Unknown
+ I2R         ,Unknown
+ I3          ,Unknown
+ pm5d        ,Unknown
+ M3R         ,Unknown
+ pm3vr       ,Unknown
+ pm4vr       ,Unknown
+ RIPR        ,Unknown
+ pm5vl       ,Unknown
+ I5          ,Unknown
+ MCL         ,Unknown
+ pm4d        ,Unknown
+ I1L         ,Unknown
+ I4          ,Unknown
+ MI          ,Unknown
+ pm5vr       ,Unknown
+ I6          ,Unknown
+M5 ,Unknown
+pm3vr ,Unknown
+pm5vr ,Unknown
+mc1dr ,Unknown
+ pm6d          ,Unknown
+ pm6vr         ,Unknown
+ pm7vr         ,Unknown
+ pm6vr       ,Unknown
+MCL ,Unknown
+pm4vl ,Unknown
+pm3d ,Unknown
+pm6d ,Unknown
+mc2dl ,Unknown
+mc2dr ,Unknown
+pm6vl ,Unknown
+pm6vr ,Unknown
+mc3dr ,Unknown
+mc3v ,Unknown
+ mc2v          ,Unknown
+ mc2dr         ,Unknown
+ AWBL          ,Unknown
+ ADLL          ,Unknown
+ AWCR          ,Unknown
+ URXL          ,Unknown
+ AUAL          ,Unknown
+ AIAL          ,Unknown
+ AIBL          ,Unknown
+ AIBR          ,Unknown
+ ADAL          ,Unknown
+ RIAL          ,Unknown
+ RIBL          ,Unknown
+ RIGL          ,Unknown
+ RIR           ,Unknown
+ RIVL          ,Unknown
+ SMBDL         ,Unknown
+ SMBVL         ,Unknown
+ASER ,Unknown
+ASHL ,Unknown
+SDQR ,Unknown
+AIAL ,Unknown
+ADAL ,Unknown
+RIGL ,Unknown
+RMGL ,Unknown
+HSNL ,Unknown
+ ASHL        ,Unknown
+ AWCL        ,Unknown
+ AFDL        ,Unknown
+ AIZL        ,Unknown
+ ADAL        ,Unknown
+ RIAL        ,Unknown
+ URBL        ,Unknown
+ADLL ,Unknown
+ASEL ,Unknown
+ASHR ,Unknown
+AFDL ,Unknown
+AVHR ,Unknown
+HSNR ,Unknown
+ADFR ,Unknown
+ADLR ,Unknown
+ASIL ,Unknown
+ASIR ,Unknown
+AWCL ,Unknown
+AIAR ,Unknown
+AIBR ,Unknown
+AIZL ,Unknown
+AIZR ,Unknown
+AFDR ,Unknown
+CEPDL ,Unknown
+AINR ,Unknown
+IL2L ,Unknown
+CEPVL ,Unknown
+URXL ,Unknown
+URYVL ,Unknown
+AQR ,Unknown
+AUAL ,Unknown
+AIML ,Unknown
+RIAL ,Unknown
+RIR ,Unknown
+URBL ,Unknown
+DVA ,Unknown
+PVNR ,Unknown
+IL2DL ,Unknown
+RIBL ,Unknown
+ASGL ,Unknown
+ASKL ,Unknown
+ASKR ,Unknown
+AWBL ,Unknown
+AWCR ,Unknown
+AVFR ,Unknown
+PVQL ,Unknown
+PVQR ,Unknown
+FLPL ,Unknown
+BAGL ,Unknown
+AIBL ,Unknown
+ADAR ,Unknown
+RIBR ,Unknown
+RICR ,Unknown
+RIGR ,Unknown
+DVC ,Unknown
+PVT ,Unknown
+RIML ,Unknown
+RIMR ,Unknown
+SAADL ,Unknown
+SAADR ,Unknown
+SAAVL ,Unknown
+ASGR ,Unknown
+SDQL ,Unknown
+AVBR ,Unknown
+RMHR ,Unknown
+SAAVR ,Unknown
+SMDVR ,Unknown
+VB01 ,Unknown
+URYDL ,Unknown
+RIFR ,Unknown
+RIH ,Unknown
+SMBDL ,Unknown
+FLPR ,Unknown
+BDUL ,Unknown
+ADEL ,Unknown
+RICL ,Unknown
+PVPL ,Unknown
+IL2VL ,Unknown
+CEPVR ,Unknown
+BAGR ,Unknown
+RIAR ,Unknown
+AVAL ,Unknown
+RMDDL ,Unknown
+RMDL ,Unknown
+RMDR ,Unknown
+RIVL ,Unknown
+RIVR ,Unknown
+SMDDL ,Unknown
+SMDDR ,Unknown
+SMDVL ,Unknown
+OLLL ,Unknown
+AINL ,Unknown
+RIS ,Unknown
+ADER ,Unknown
+AVKR ,Unknown
+AVAR ,Unknown
+AWAR ,Unknown
+URXR ,Unknown
+RMGR ,Unknown
+PVPR ,Unknown
+SABVL ,Unknown
+AWBR ,Unknown
+AVHL ,Unknown
+AVKL ,Unknown
+SMBDR ,Unknown
+CEPDR ,Unknown
+ALNR ,Unknown
+URBR ,Unknown
+SIADL ,Unknown
+SMBVL ,Unknown
+PLNL ,Unknown
+PLNR ,Unknown
+AVFL ,Unknown
+SIAVL ,Unknown
+SIBDL ,Unknown
+OLLR ,Unknown
+URYVR ,Unknown
+RMEV ,Unknown
+SIAVR ,Unknown
+SIBVL ,Unknown
+OLQDL ,Unknown
+OLQVL ,Unknown
+AVDR ,Unknown
+AVEL ,Unknown
+ ASHR          ,Unknown
+ AWAR          ,Unknown
+ AWBR          ,Unknown
+ AFDR          ,Unknown
+ AIYR          ,Unknown
+ AIZR          ,Unknown
+ RIH           ,Unknown
+ ASEL          ,Unknown
+ ASER          ,Unknown
+ ASGL          ,Unknown
+ ASHL          ,Unknown
+ AWCL          ,Unknown
+ OLQVL         ,Unknown
+ RIPL          ,Unknown
+ AVJR          ,Unknown
+ AVAL          ,Unknown
+ AVAR          ,Unknown
+ AVBL          ,Unknown
+ AVDL          ,Unknown
+ AVDR          ,Unknown
+ ADLR          ,Unknown
+ AIAR          ,Unknown
+ RICL          ,Unknown
+ RICR          ,Unknown
+ AVBR          ,Unknown
+ AIYL          ,Unknown
+ ASGR        ,Unknown
+ AWBR        ,Unknown
+ AFDR        ,Unknown
+ PVQR        ,Unknown
+ ADFL          ,Unknown
+ AVFL          ,Unknown
+ AVHR          ,Unknown
+ RIML          ,Unknown
+ HSNL          ,Unknown
+ RMGL        ,Unknown
+ ADFL        ,Unknown
+ ASHR        ,Unknown
+ ASKL        ,Unknown
+ RICL        ,Unknown
+ AVER          ,Unknown
+ HSNR          ,Unknown
+ ASJR          ,Unknown
+ ASKR          ,Unknown
+ CEPDL         ,Unknown
+ PVQL          ,Unknown
+ AIML          ,Unknown
+ AIMR          ,Unknown
+ RMDVL         ,Unknown
+ SIBDL         ,Unknown
+ RMGL          ,Unknown
+ RMDR          ,Unknown
+ URAVL         ,Unknown
+ dBWML4        ,Unknown
+ dBWML5        ,Unknown
+ AVEL          ,Unknown
+ RMHL          ,Unknown
+ BAGR          ,Unknown
+ RMHR          ,Unknown
+ SIBDR         ,Unknown
+ SIBVR         ,Unknown
+ SMDDL         ,Unknown
+ SMDDR         ,Unknown
+ SMDVR         ,Unknown
+ ALML          ,Unknown
+ SIAVL         ,Unknown
+ vBWML5        ,Unknown
+ SDQL          ,Unknown
+ RID           ,Unknown
+ DVA           ,Unknown
+ SAADL         ,Unknown
+ vBWMR7        ,Unknown
+ RIVL        ,Unknown
+ AIBL        ,Unknown
+ ALMR        ,Unknown
+ DVA         ,Unknown
+ SDQL        ,Unknown
+ AVBL        ,Unknown
+ RIVR        ,Unknown
+ SAADL       ,Unknown
+ SIAVR       ,Unknown
+ SIBDL       ,Unknown
+ PVPL          ,Unknown
+ hyp           ,Unknown
+ RIVR          ,Unknown
+ AIAR        ,Unknown
+ AWCR        ,Unknown
+ AWBL        ,Unknown
+ ASIR        ,Unknown
+ ASJL        ,Unknown
+ ASIL        ,Unknown
+ ADAR        ,Unknown
+ AVDR        ,Unknown
+ PVQL        ,Unknown
+ OLQVL       ,Unknown
+ AVFR          ,Unknown
+ AIBR        ,Unknown
+ OLLL        ,Unknown
+ RIBL        ,Unknown
+ RIGR        ,Unknown
+ OLQDL       ,Unknown
+ AVKL        ,Unknown
+ BAGL        ,Unknown
+ PVPL        ,Unknown
+ URYDL       ,Unknown
+ URYVL       ,Unknown
+ RMFL        ,Unknown
+ VD01        ,Unknown
+ ADLL        ,Unknown
+ IL2L        ,Unknown
+ AVEL        ,Unknown
+ URXL        ,Unknown
+ RMDDR       ,Unknown
+ ALML        ,Unknown
+ AVFR        ,Unknown
+ RMHL        ,Unknown
+ vBWML11       ,Unknown
+ vBWML16       ,Unknown
+ vBWML15       ,Unknown
+ vBWMR11       ,Unknown
+ VC05          ,Unknown
+ vm2aL         ,Unknown
+ vm2pR         ,Unknown
+ HSNR        ,Unknown
+ ADFR          ,Unknown
+ ADAR          ,Unknown
+ RIAR          ,Unknown
+ AVHL          ,Unknown
+ PVPR          ,Unknown
+ SMBVR         ,Unknown
+ AWAL          ,Unknown
+ ADLR        ,Unknown
+ AWAL        ,Unknown
+ hyp         ,Unknown
+ RIFR          ,Unknown
+ PVCL          ,Unknown
+ IL2R          ,Unknown
+ ASGL        ,Unknown
+ AINR          ,Unknown
+ ASKR        ,Unknown
+ AIZR        ,Unknown
+ RICR        ,Unknown
+ RMGR        ,Unknown
+ AVHL        ,Unknown
+ AVAR        ,Unknown
+ AVER        ,Unknown
+ PVQR          ,Unknown
+ ASEL        ,Unknown
+ AIYL        ,Unknown
+ BDUR          ,Unknown
+ PVNR          ,Unknown
+ vBWMR10       ,Unknown
+ AQR           ,Unknown
+ PVT           ,Unknown
+ RIMR          ,Unknown
+ VA06          ,Unknown
+ SABD          ,Unknown
+ vBWMR9        ,Unknown
+ PHBL        ,Unknown
+ PHAR        ,Unknown
+ PHBR        ,Unknown
+ PVNL        ,Unknown
+ AVG         ,Unknown
+ DVC         ,Unknown
+ PVPR        ,Unknown
+ AVJL        ,Unknown
+ AVJR        ,Unknown
+ PVNR        ,Unknown
+ PVT         ,Unknown
+ DA08        ,Unknown
+ SIAVL       ,Unknown
+ AS11        ,Unknown
+ VA11        ,Unknown
+ VD12        ,Unknown
+ AVFL        ,Unknown
+ AVL         ,Unknown
+ DD06        ,Unknown
+ SABVR         ,Unknown
+ VC02          ,Unknown
+ DA05          ,Unknown
+ DA06          ,Unknown
+ AS05          ,Unknown
+ VC03          ,Unknown
+ vBWMR15       ,Unknown
+ vBWMR16       ,Unknown
+ ALA         ,Unknown
+ BDUR        ,Unknown
+ OLQVR         ,Unknown
+ BAGL          ,Unknown
+ URXR          ,Unknown
+ URYVR         ,Unknown
+ AUAR          ,Unknown
+ SMBDR         ,Unknown
+ RIH         ,Unknown
+ SMBVR       ,Unknown
+ SMDVR       ,Unknown
+ CEPVR         ,Unknown
+ URBR          ,Unknown
+ RIPR          ,Unknown
+ SIBVL         ,Unknown
+ RMFL          ,Unknown
+ SAAVL         ,Unknown
+ AINR        ,Unknown
+ AIAL        ,Unknown
+ ASGR          ,Unknown
+ AIYR        ,Unknown
+ ASIL          ,Unknown
+ AUAL        ,Unknown
+ ASIR          ,Unknown
+ URYDL         ,Unknown
+ vBWML7        ,Unknown
+ SAAVR         ,Unknown
+ SAADR         ,Unknown
+ VB01          ,Unknown
+ ADFR        ,Unknown
+ RIGL        ,Unknown
+ SMDDL       ,Unknown
+ RIS         ,Unknown
+ RIML        ,Unknown
+ VB02          ,Unknown
+ SIBVL       ,Unknown
+ ASER        ,Unknown
+ URBR        ,Unknown
+ RMDVR       ,Unknown
+ URADL         ,Unknown
+ OLLL          ,Unknown
+ OLQDL         ,Unknown
+ CEPDR         ,Unknown
+ RIS           ,Unknown
+ AINL          ,Unknown
+ AINL        ,Unknown
+ ADER        ,Unknown
+ IL2L          ,Unknown
+ PVR           ,Unknown
+ RMDDL         ,Unknown
+ RMDVR         ,Unknown
+ RMER          ,Unknown
+ IL1L          ,Unknown
+ IL1VL         ,Unknown
+ URYVL         ,Unknown
+ AVL           ,Unknown
+ RMEV          ,Unknown
+ ADEL          ,Unknown
+ RMER        ,Unknown
+ RMDL        ,Unknown
+ URAVL       ,Unknown
+ CEPVL         ,Unknown
+ RIBR          ,Unknown
+ SIAVR         ,Unknown
+ BDUL          ,Unknown
+ PVCR          ,Unknown
+ VA02          ,Unknown
+ PVDR          ,Unknown
+ VA12          ,Unknown
+ AVKR        ,Unknown
+ DB07          ,Unknown
+ AUAR        ,Unknown
+ RMDVL       ,Unknown
+ SIBVR       ,Unknown
+ SMDVL       ,Unknown
+ BAGR        ,Unknown
+ IL1L        ,Unknown
+ VA11          ,Unknown
+ PVWL          ,Unknown
+ PDER          ,Unknown
+ DA02          ,Unknown
+ DB02          ,Unknown
+ DB03          ,Unknown
+ VA08          ,Unknown
+ VB11          ,Unknown
+ PVR         ,Unknown
+ SDQR        ,Unknown
+ PVM         ,Unknown
+ PDEL        ,Unknown
+ PDER        ,Unknown
+ PVCL        ,Unknown
+ PVCR        ,Unknown
+ SIADR       ,Unknown
+ DA09        ,Unknown
+ SAAVR       ,Unknown
+ AVBR        ,Unknown
+ DB07        ,Unknown
+ DB01        ,Unknown
+ DB06        ,Unknown
+ VD13          ,Unknown
+ PQR           ,Unknown
+ PVWR          ,Unknown
+ DD02          ,Unknown
+ VD04          ,Unknown
+ VD06          ,Unknown
+ VD07          ,Unknown
+ AVHR        ,Unknown
+ AVDL        ,Unknown
+ LUAR        ,Unknown
+ PQR         ,Unknown
+ PVWR        ,Unknown
+ VD13        ,Unknown
+ VC06        ,Unknown
+ RMEL          ,Unknown
+ RMED          ,Unknown
+ DVC           ,Unknown
+ RMEV        ,Unknown
+ RIBR        ,Unknown
+ SIADL       ,Unknown
+ AIML        ,Unknown
+ DD01          ,Unknown
+ AVG           ,Unknown
+ PVDL          ,Unknown
+ DA08          ,Unknown
+ vBWML12       ,Unknown
+ vBWMR14       ,Unknown
+ VB01        ,Unknown
+ VD01          ,Unknown
+ DD06          ,Unknown
+ LUAL        ,Unknown
+ PHAL        ,Unknown
+ ASJR        ,Unknown
+ DA07        ,Unknown
+ dBWML3        ,Unknown
+ dBWML6        ,Unknown
+ URYDR         ,Unknown
+ dBWMR3        ,Unknown
+ vBWML4        ,Unknown
+ dBWMR4        ,Unknown
+ dBWMR5        ,Unknown
+ vBWMR4        ,Unknown
+ URAVR         ,Unknown
+ ADER          ,Unknown
+ vBWMR3        ,Unknown
+ AVKL          ,Unknown
+ FLPR          ,Unknown
+ VA01          ,Unknown
+ FLPR        ,Unknown
+ DD01        ,Unknown
+ FLPL          ,Unknown
+ dBWMR6        ,Unknown
+ RIR         ,Unknown
+ ALNR          ,Unknown
+ RMED        ,Unknown
+ SMDDR       ,Unknown
+ FLPL        ,Unknown
+ RIMR        ,Unknown
+ OLQDR       ,Unknown
+ OLQVR       ,Unknown
+ SMBDR       ,Unknown
+ SIBDR       ,Unknown
+ URXR        ,Unknown
+ RMHR        ,Unknown
+ OLLR        ,Unknown
+ ADEL        ,Unknown
+ URYDR       ,Unknown
+ AQR         ,Unknown
+ vBWMR6        ,Unknown
+ vBWML9        ,Unknown
+ VD09          ,Unknown
+ vBWMR20       ,Unknown
+ PVDR        ,Unknown
+ DVB         ,Unknown
+ VD11        ,Unknown
+ VC03        ,Unknown
+ VA03          ,Unknown
+ VA04          ,Unknown
+ VD02          ,Unknown
+ AVAL        ,Unknown
+ SMBDL       ,Unknown
+ PLNL          ,Unknown
+ SABD        ,Unknown
+ vBWML1        ,Unknown
+ vBWML2        ,Unknown
+ vBWML6        ,Unknown
+ AS10          ,Unknown
+ vBWML10       ,Unknown
+ vBWML13       ,Unknown
+ SABVL         ,Unknown
+ DA04          ,Unknown
+ DA07          ,Unknown
+ DA03          ,Unknown
+ AS04          ,Unknown
+ DB03        ,Unknown
+ VB10        ,Unknown
+ VB11        ,Unknown
+ VB09        ,Unknown
+ AS05        ,Unknown
+ AS06        ,Unknown
+ DB02        ,Unknown
+ DB04        ,Unknown
+ VB02        ,Unknown
+ VB04        ,Unknown
+ VB05        ,Unknown
+ VB06        ,Unknown
+ VB07        ,Unknown
+ VB08        ,Unknown
+ VB03        ,Unknown
+ vBWML3        ,Unknown
+ SMBVL       ,Unknown
+ RIAR        ,Unknown
+ SAAVL       ,Unknown
+ vBWML8        ,Unknown
+ vBWML14       ,Unknown
+ dBWMR7        ,Unknown
+ dBWMR2        ,Unknown
+ IL2VR         ,Unknown
+ OLQDR         ,Unknown
+ CEPVL       ,Unknown
+ SDQR          ,Unknown
+ dBWMR8        ,Unknown
+ dBWMR9        ,Unknown
+ dBWMR11       ,Unknown
+ dBWMR12       ,Unknown
+ dBWMR13       ,Unknown
+ dBWMR14       ,Unknown
+ dBWMR15       ,Unknown
+ dBWMR16       ,Unknown
+ PVNL          ,Unknown
+ DA01        ,Unknown
+ DA02        ,Unknown
+ DA03        ,Unknown
+ AS01        ,Unknown
+ VA12        ,Unknown
+ PDB         ,Unknown
+ dBWML1        ,Unknown
+ dBWML2        ,Unknown
+ IL1DR         ,Unknown
+ IL1R          ,Unknown
+ vBWMR2        ,Unknown
+ IL1VR         ,Unknown
+ vBWMR5        ,Unknown
+ vBWMR8        ,Unknown
+ AIMR        ,Unknown
+ IL2VR       ,Unknown
+ DA01          ,Unknown
+ VA09          ,Unknown
+ LUAR          ,Unknown
+ AS11          ,Unknown
+ LUAL          ,Unknown
+ DA09          ,Unknown
+ RMDDL       ,Unknown
+ dBWML13       ,Unknown
+ AS02          ,Unknown
+ AS07          ,Unknown
+ AS08          ,Unknown
+ AS09          ,Unknown
+ VA05          ,Unknown
+ VA07          ,Unknown
+ VA10          ,Unknown
+ PHCL        ,Unknown
+ VA02        ,Unknown
+ VA10        ,Unknown
+ PHCR        ,Unknown
+ AS10        ,Unknown
+ DA04        ,Unknown
+ URYVR       ,Unknown
+ SABVR       ,Unknown
+ DA05        ,Unknown
+ DA06        ,Unknown
+ VA01        ,Unknown
+ VA03        ,Unknown
+ VA04        ,Unknown
+ VA05        ,Unknown
+ VA06        ,Unknown
+ VA07        ,Unknown
+ VA08        ,Unknown
+ VA09        ,Unknown
+ IL1VL       ,Unknown
+ SAADR       ,Unknown
+ dBWML7        ,Unknown
+ dBWML8        ,Unknown
+ dBWML10       ,Unknown
+ dBWML11       ,Unknown
+ dBWML12       ,Unknown
+ dBWML15       ,Unknown
+ vBWMR12       ,Unknown
+ vBWMR13       ,Unknown
+ ALNR        ,Unknown
+ ALNL        ,Unknown
+ RMDR        ,Unknown
+ IL2DR       ,Unknown
+ IL2VL       ,Unknown
+ AS06          ,Unknown
+ PVDL        ,Unknown
+ SABVL       ,Unknown
+ ALMR          ,Unknown
+ IL2R        ,Unknown
+ RIFR        ,Unknown
+ PVWL        ,Unknown
+ VC01        ,Unknown
+ AVM           ,Unknown
+ URADR         ,Unknown
+ PLNR          ,Unknown
+ PLML        ,Unknown
+ PLMR        ,Unknown
+ DVB           ,Unknown
+ VC01          ,Unknown
+ VC05        ,Unknown
+ IL1DR       ,Unknown
+ IL1DL       ,Unknown
+AIYR ,Unknown
+AIMR ,Unknown
+AVJL ,Unknown
+PVCL ,Unknown
+IL2R ,Unknown
+IL2VR ,Unknown
+RMDVL ,Unknown
+SIBVR ,Unknown
+AUAR ,Unknown
+IL1R ,Unknown
+URYDR ,Unknown
+AVER ,Unknown
+URAVR ,Unknown
+PVR ,Unknown
+OLQVR ,Unknown
+ALA ,Unknown
+RMDVR ,Unknown
+SMBVR ,Unknown
+OLQDR ,Unknown
+URADL ,Unknown
+AVM ,Unknown
+BDUR ,Unknown
+PQR ,Unknown
+PHAL ,Unknown
+PVCR ,Unknown
+AVL ,Unknown
+PVNL ,Unknown
+AVBL ,Unknown
+VC01 ,Unknown
+VC02 ,Unknown
+VC03 ,Unknown
+ALML ,Unknown
+SIADR ,Unknown
+AVDL ,Unknown
+ CEPVR       ,Unknown
+ IL1R        ,Unknown
+ IL1VR       ,Unknown
+ VB03          ,Unknown
+ PVM           ,Unknown
+ AVM         ,Unknown
+ vBWMR1        ,Unknown
+ CEPDL       ,Unknown
+ PHAR          ,Unknown
+ PHBR          ,Unknown
+ PLNL        ,Unknown
+ VD12          ,Unknown
+ BDUL        ,Unknown
+ VD05          ,Unknown
+ DD03          ,Unknown
+ VC04        ,Unknown
+ vm2pL       ,Unknown
+ vm2pR       ,Unknown
+IL1VL ,Unknown
+ASJL ,Unknown
+IL1DL ,Unknown
+IL2DR ,Unknown
+AVG ,Unknown
+AVJR ,Unknown
+LUAL ,Unknown
+RIFL ,Unknown
+LUAR ,Unknown
+PVDL ,Unknown
+PVDR ,Unknown
+PHBL ,Unknown
+PHBR ,Unknown
+PHCL ,Unknown
+VA02 ,Unknown
+VA12 ,Unknown
+VD06 ,Unknown
+PVWR ,Unknown
+RMHL ,Unknown
+VA04 ,Unknown
+VA06 ,Unknown
+VD05 ,Unknown
+VD11 ,Unknown
+VD13 ,Unknown
+ALMR ,Unknown
+PDER ,Unknown
+DVB ,Unknown
+PVWL ,Unknown
+RMDDR ,Unknown
+DA08 ,Unknown
+DA09 ,Unknown
+PDA ,Unknown
+DB07 ,Unknown
+AS10 ,Unknown
+AS11 ,Unknown
+PDB ,Unknown
+VA10 ,Unknown
+VA11 ,Unknown
+VB11 ,Unknown
+VD12 ,Unknown
+PLML ,Unknown
+PLMR ,Unknown
+hyp ,Unknown
+ PHAL          ,Unknown
+ PDB           ,Unknown
+ DD05          ,Unknown
+ VD10          ,Unknown
+ VB05          ,Unknown
+ VD09        ,Unknown
+ PHCR          ,Unknown
+ PLNR        ,Unknown
+ VD02        ,Unknown
+ vBWMR22       ,Unknown
+ vBWMR23       ,Unknown
+ vBWML22       ,Unknown
+ vBWML23       ,Unknown
+ vBWMR24       ,Unknown
+ VD05        ,Unknown
+ VD07        ,Unknown
+ AS02        ,Unknown
+ vBWML19       ,Unknown
+ vBWMR21       ,Unknown
+ VB10          ,Unknown
+ DD02        ,Unknown
+IL1DR ,Unknown
+RMEL ,Unknown
+URADR ,Unknown
+PVM ,Unknown
+VC04 ,Unknown
+DA07 ,Unknown
+VC05 ,Unknown
+PHCR ,Unknown
+ PHCL          ,Unknown
+SABVR ,Unknown
+DA01 ,Unknown
+DA02 ,Unknown
+DA03 ,Unknown
+DA04 ,Unknown
+DA05 ,Unknown
+DA06 ,Unknown
+AS01 ,Unknown
+AS03 ,Unknown
+AS05 ,Unknown
+AS06 ,Unknown
+VA01 ,Unknown
+VA03 ,Unknown
+VA05 ,Unknown
+VA07 ,Unknown
+VA08 ,Unknown
+VA09 ,Unknown
+VD01 ,Unknown
+RID ,Unknown
+RMER ,Unknown
+DD06 ,Unknown
+SABD ,Unknown
+SIBDR ,Unknown
+DB01 ,Unknown
+DD01 ,Unknown
+AS02 ,Unknown
+ VD03        ,Unknown
+ PDEL          ,Unknown
+VB02 ,Unknown
+VD02 ,Unknown
+ dBWML9      ,Unknown
+VC06 ,Unknown
+ PDA           ,Unknown
+ intL          ,Unknown
+ VD11          ,Unknown
+ vBWML17       ,Unknown
+ vBWMR17       ,Unknown
+PDEL ,Unknown
+VB06 ,Unknown
+VD03 ,Unknown
+VD04 ,Unknown
+ dBWML21       ,Unknown
+ dBWMR21       ,Unknown
+ dBWML22       ,Unknown
+ dBWML23       ,Unknown
+ dBWML24       ,Unknown
+ dBWMR22       ,Unknown
+ dBWMR24       ,Unknown
+VB03 ,Unknown
+DB02 ,Unknown
+DB04 ,Unknown
+DB06 ,Unknown
+DD03 ,Unknown
+VB04 ,Unknown
+VB09 ,Unknown
+VB10 ,Unknown
+VD09 ,Unknown
+VD10 ,Unknown
+ dBWML19       ,Unknown
+ dBWMR19       ,Unknown
+ dBWML20       ,Unknown
+ dBWMR20       ,Unknown
+AS04 ,Unknown
+DD02 ,Unknown
+DB03 ,Unknown
+DB05 ,Unknown
+VB05 ,Unknown
+VB07 ,Unknown
+VB08 ,Unknown
+ VD08          ,Unknown
+ dBWML17       ,Unknown
+ dBWMR17       ,Unknown
+ dBWMR18       ,Unknown
+ vBWML18       ,Unknown
+ vBWMR18       ,Unknown
+ VB08          ,Unknown
+ vBWMR19       ,Unknown
+ VB09          ,Unknown
+VD07 ,Unknown
+ VD08        ,Unknown
+DD05 ,Unknown
+DD04 ,Unknown
+ DB06          ,Unknown
+AS07 ,Unknown
+ DB05          ,Unknown
+ DD04        ,Unknown
+vm2aL  ,Unknown
+vm2pL ,Unknown
+vm2pR ,Unknown
+dBWML10 ,Unknown
+um1pL ,Unknown
+vm1pL ,Unknown
+um1pR ,Unknown
+ pm3d        ,Unknown
+ mc1dl       ,Unknown
+ mc1dr       ,Unknown
+ pm6d        ,Unknown
+ mc2dl       ,Unknown
+ mc2dr       ,Unknown
+ mc2v        ,Unknown
+ pm2vl       ,Unknown
+ pm3vl       ,Unknown
+ pm2vr       ,Unknown
+ pm2d        ,Unknown
+ mc3dl       ,Unknown
+ mc3dr       ,Unknown
+ mc3v        ,Unknown
+ pm8         ,Unknown
+ pm7vr       ,Unknown
+pm7d ,Unknown
+pm8 ,Unknown
+pm7vr ,Unknown
+ vBWML7      ,Unknown
+ um1aR       ,Unknown
+ vm1aL       ,Unknown
+ vm1pL       ,Unknown
+ vm1pR       ,Unknown
+ vBWML6      ,Unknown
+ vBWML10     ,Unknown
+ dBWML11     ,Unknown
+dBWML12 ,Unknown
+ dBWML13     ,Unknown
+dBWML14 ,Unknown
+ dBWML15     ,Unknown
+dBWML16 ,Unknown
+ dBWML17     ,Unknown
+ dBWML19     ,Unknown
+dBWML20 ,Unknown
+ dBWML21     ,Unknown
+dBWMR1 ,Unknown
+ dBWMR3      ,Unknown
+ dBWMR2      ,Unknown
+dBWMR3 ,Unknown
+dBWMR2 ,Unknown
+dBWMR4 ,Unknown
+ dBWMR1      ,Unknown
+ dBWMR5      ,Unknown
+ dBWMR7      ,Unknown
+dBWMR8 ,Unknown
+ dBWMR9      ,Unknown
+ dBWMR10     ,Unknown
+dBWMR11 ,Unknown
+ dBWMR12     ,Unknown
+ dBWMR17     ,Unknown
+ dBWMR18     ,Unknown
+dBWMR18 ,Unknown
+ dBWMR19     ,Unknown
+dBWMR19 ,Unknown
+ dBWMR20     ,Unknown
+ dBWMR21     ,Unknown
+dBWMR21 ,Unknown
+ dBWMR22     ,Unknown
+dBWMR22 ,Unknown
+ dBWMR23     ,Unknown
+ vBWML2      ,Unknown
+vBWML3 ,Unknown
+ vBWML4      ,Unknown
+ vBWML5      ,Unknown
+vBWML5 ,Unknown
+vBWML6 ,Unknown
+vBWML11 ,Unknown
+ vBWML12     ,Unknown
+ vBWML13     ,Unknown
+vBWML13 ,Unknown
+ vBWML14     ,Unknown
+vBWML14 ,Unknown
+ vBWML15     ,Unknown
+vBWML15 ,Unknown
+ vBWML16     ,Unknown
+ vBWML17     ,Unknown
+vBWML17 ,Unknown
+ vBWML18     ,Unknown
+vBWML18 ,Unknown
+ vBWML19     ,Unknown
+ vBWML20     ,Unknown
+vBWML20 ,Unknown
+ vBWML21     ,Unknown
+vBWML21 ,Unknown
+ vBWML22     ,Unknown
+vBWMR1 ,Unknown
+ vBWMR3      ,Unknown
+ vBWMR2      ,Unknown
+vBWMR3 ,Unknown
+vBWMR2 ,Unknown
+ vBWMR1      ,Unknown
+ vBWMR4      ,Unknown
+ vBWMR15     ,Unknown
+vBWMR16 ,Unknown
+ vBWMR17     ,Unknown
+ vBWMR19     ,Unknown
+vBWMR20 ,Unknown
+ vBWMR21     ,Unknown
+intL ,Unknown
+ intR        ,Unknown
+ anal        ,Unknown
+sph ,Unknown
+anal ,Unknown
+ intL        ,Unknown
+ um2pL       ,Unknown
+BWM-VL01,Unknown
+PLNR,Unknown
+ALNL,Unknown
+BWM-DR07,Unknown
+I2R ,Unknown
+NSMR ,Unknown
+M3R ,Unknown
+pm5d ,Unknown
+pm5vl ,Unknown
+MCR ,Unknown
+pm2vr ,Unknown
+pm4vr ,Unknown
+mc2v ,Unknown
+AWAL ,Unknown
+AIYL ,Unknown
+ALNL ,Unknown
+RMFL ,Unknown
+ dBWML9        ,Unknown
+IL1VR ,Unknown
+RMFR ,Unknown
+PHAR ,Unknown
+ASJR ,Unknown
+ vBWML8      ,Unknown
+ DD05        ,Unknown
+VD08 ,Unknown
+vBWML8 ,Unknown
+vBWMR8 ,Unknown
+AS09 ,Unknown
+vm2aR ,Unknown
+AS08 ,Unknown
+vBWML7 ,Unknown
+vBWML9 ,Unknown
+um1aL ,Unknown
+vm1aR ,Unknown
+pm1vl ,Unknown
+pm1vr ,Unknown
+pm2d ,Unknown
+pm2vl ,Unknown
+mc3dl ,Unknown
+pm7vl ,Unknown
+ dBWML3      ,Unknown
+dBWML3 ,Unknown
+dBWML2 ,Unknown
+dBWML4 ,Unknown
+ dBWML1      ,Unknown
+ dBWML5      ,Unknown
+dBWML6 ,Unknown
+dBWML18 ,Unknown
+dBWML22 ,Unknown
+ dBWML23     ,Unknown
+dBWML24 ,Unknown
+dBWMR5 ,Unknown
+ dBWMR6      ,Unknown
+dBWMR6 ,Unknown
+dBWMR7 ,Unknown
+dBWMR9 ,Unknown
+dBWMR10 ,Unknown
+dBWMR13 ,Unknown
+dBWMR16 ,Unknown
+dBWMR17 ,Unknown
+dBWMR20 ,Unknown
+vBWML10 ,Unknown
+ vBWML11     ,Unknown
+vBWMR7 ,Unknown
+ vBWMR6      ,Unknown
+vBWML12 ,Unknown
+vBWML16 ,Unknown
+vBWML19 ,Unknown
+vBWML22 ,Unknown
+vBWMR4 ,Unknown
+vBWMR5 ,Unknown
+vBWMR17 ,Unknown
+ vBWMR18     ,Unknown
+vBWMR18 ,Unknown
+vBWMR19 ,Unknown
+intR ,Unknown
+um2aR ,Unknown
+um2pR ,Unknown
+RIBL,Interneuron
+RIBR,Interneuron
+RIGR,Unknown
+AIAR,Unknown
+ASER,Sensory
+RIGL,Unknown
+IL1VR,Unknown
+RMDDL,Unknown
+RMDDR,Unknown
+RMGL,Unknown
+AIZL,Unknown
+AIZR,Unknown
+AQR,Unknown
+RMED,Unknown
+ASHL,Sensory
+RIPR,Unknown
+SDQR,Unknown
+SDQL,Unknown
+RMER,Unknown
+IL1VL,Unknown
+RIPL,Unknown
+RIR,Unknown
+ADEL,Unknown
+AIAL,Unknown
+AIMR,Unknown
+RMEL,Unknown
+IL1DR,Unknown
+CANR,Unknown
+dBWML8 ,Unknown
+vm1aL ,Unknown
+vm1pR ,Unknown
+pm1d ,Unknown
+dBWML11 ,Unknown
+ dBWML12     ,Unknown
+dBWML13 ,Unknown
+dBWML15 ,Unknown
+ dBWML16     ,Unknown
+dBWML17 ,Unknown
+dBWML21 ,Unknown
+ dBWML22     ,Unknown
+dBWML23 ,Unknown
+ dBWMR14     ,Unknown
+dBWMR15 ,Unknown
+dBWMR23 ,Unknown
+dBWMR24 ,Unknown
+vBWML1 ,Unknown
+vBWML4 ,Unknown
+vBWML23 ,Unknown
+vBWMR10 ,Unknown
+ vBWMR11     ,Unknown
+vBWMR12 ,Unknown
+vBWMR14 ,Unknown
+vBWMR21 ,Unknown
+ vBWMR22     ,Unknown
+vBWMR22 ,Unknown
+vBWMR23 ,Unknown
+BWM-VR03,Unknown
+DB1,Unknown
+ I2L           ,Unknown
+ MCL           ,Unknown
+ pm3vl         ,Unknown
+ pm4d          ,Unknown
+ MCR         ,Unknown
+ pm1vr         ,Unknown
+ pm3vr         ,Unknown
+ I1L           ,Unknown
+ I1R           ,Unknown
+ pm4vr         ,Unknown
+ pm6vl         ,Unknown
+ pm7d          ,Unknown
+ mc2dl         ,Unknown
+ AFDL          ,Unknown
+ AIZL          ,Unknown
+ RIGR          ,Unknown
+ SMDVL         ,Unknown
+ AVJL          ,Unknown
+ ASJL          ,Unknown
+ ASKL          ,Unknown
+ RMGR          ,Unknown
+ RMDDR         ,Unknown
+ RMDL          ,Unknown
+ SIADR         ,Unknown
+ RIFL          ,Unknown
+ SIADL         ,Unknown
+ AVKR          ,Unknown
+ ALNL          ,Unknown
+ RMEL        ,Unknown
+ vm2aR         ,Unknown
+ vm2pL         ,Unknown
+ RIFL        ,Unknown
+ ALA           ,Unknown
+ OLLR          ,Unknown
+ AWAR        ,Unknown
+ VC04          ,Unknown
+ HSNL        ,Unknown
+ IL2DL         ,Unknown
+ URBL          ,Unknown
+ IL1DL         ,Unknown
+ DB04          ,Unknown
+ PDA         ,Unknown
+ VD03          ,Unknown
+ URADL       ,Unknown
+ IL2DR         ,Unknown
+ RMFR          ,Unknown
+ AS01          ,Unknown
+ AS03          ,Unknown
+ RID         ,Unknown
+ DB05        ,Unknown
+ dBWMR1        ,Unknown
+ IL2VL         ,Unknown
+ dBWMR10       ,Unknown
+ dBWML14       ,Unknown
+ dBWML16       ,Unknown
+ AS03        ,Unknown
+ intestine     ,Unknown
+ VB06          ,Unknown
+ VB04          ,Unknown
+ URAVR       ,Unknown
+ URADR       ,Unknown
+ CEPDR       ,Unknown
+ IL2DL       ,Unknown
+ PHBL          ,Unknown
+ VC06          ,Unknown
+ VC02        ,Unknown
+ vm2aL       ,Unknown
+ vm2aR       ,Unknown
+ DB01          ,Unknown
+ vBWML21       ,Unknown
+ vBWML20       ,Unknown
+ VD06        ,Unknown
+ VD04        ,Unknown
+ VD10        ,Unknown
+ AS04        ,Unknown
+ DD04          ,Unknown
+ dBWMR23       ,Unknown
+ dBWML18       ,Unknown
+ DD03        ,Unknown
+ VB07          ,Unknown
+dBWML9 ,Unknown
+um1aR ,Unknown
+ pm6vl       ,Unknown
+ mc1v        ,Unknown
+ pm7d        ,Unknown
+ pm7vl       ,Unknown
+ pm1vl       ,Unknown
+ vBWML9      ,Unknown
+ vBWMR7      ,Unknown
+ vBWMR9      ,Unknown
+ um1aL       ,Unknown
+ um1pL       ,Unknown
+ um1pR       ,Unknown
+ vm1aR       ,Unknown
+ dBWML8      ,Unknown
+ dBWML10     ,Unknown
+ vBWMR8      ,Unknown
+ dBWML2      ,Unknown
+dBWML1 ,Unknown
+ dBWML4      ,Unknown
+ dBWML6      ,Unknown
+dBWML7 ,Unknown
+ dBWMR8      ,Unknown
+ dBWMR11     ,Unknown
+dBWMR12 ,Unknown
+ dBWMR13     ,Unknown
+dBWMR14 ,Unknown
+ dBWMR15     ,Unknown
+ dBWMR16     ,Unknown
+ vBWML3      ,Unknown
+vBWML2 ,Unknown
+ vBWML1      ,Unknown
+vBWMR9 ,Unknown
+ vBWMR10     ,Unknown
+ vBWML23     ,Unknown
+ vBWMR5      ,Unknown
+vBWMR6 ,Unknown
+vBWMR11 ,Unknown
+ vBWMR12     ,Unknown
+vBWMR13 ,Unknown
+ vBWMR14     ,Unknown
+vBWMR15 ,Unknown
+ vBWMR16     ,Unknown
+ vBWMR20     ,Unknown
+ sph         ,Unknown
+ um2aL       ,Unknown
+ um2aR       ,Unknown
+ um2pR       ,Unknown
+um2aL  ,Unknown
+um2pL ,Unknown
+ pm1vr       ,Unknown
+ pm1d        ,Unknown
+ dBWML7      ,Unknown
+dBWML5 ,Unknown
+ dBWML14     ,Unknown
+ dBWML18     ,Unknown
+dBWML19 ,Unknown
+ dBWML20     ,Unknown
+ dBWML24     ,Unknown
+ dBWMR4      ,Unknown
+ dBWMR24     ,Unknown
+ vBWMR13     ,Unknown
+ vBWMR23     ,Unknown
+ vBWMR24     ,Unknown
+vBWMR24 ,Unknown

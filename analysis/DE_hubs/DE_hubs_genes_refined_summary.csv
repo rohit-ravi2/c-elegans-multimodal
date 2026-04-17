@@ -1,0 +1,4 @@
+metric,n_hubs_in_expr,n_ctrl_pool,n_sig_q05,out_csv
+degree,20,50,7214,DE_hubs_genes_degree_refined.csv
+betweenness,20,50,7214,DE_hubs_genes_betweenness_refined.csv
+cycle,20,50,7214,DE_hubs_genes_cycle_refined.csv

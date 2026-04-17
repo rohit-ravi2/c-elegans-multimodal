@@ -1,0 +1,1648 @@
+RelativePath,Extension,Size_MB,Suggested_Target
+hub/ws268.hal,.hal,2573.88,Unknown/Custom
+database.297.4-16.tar.gz,.gz,1260.33,Compressed archive (may need inspection)
+database.297.4-2.tar.gz,.gz,1038.95,Compressed archive (may need inspection)
+database.297.4-12.tar.gz,.gz,1010.81,Compressed archive (may need inspection)
+database.297.4-9.tar.gz,.gz,1008.72,Compressed archive (may need inspection)
+database.297.4-11.tar.gz,.gz,989.72,Compressed archive (may need inspection)
+database.297.4-13.tar.gz,.gz,980.32,Compressed archive (may need inspection)
+database.297.4-15.tar.gz,.gz,963.42,Compressed archive (may need inspection)
+hub/lod/ws268_lod_32.hal,.hal,907.23,Unknown/Custom
+wormpep_clw.WS297.sql.gz,.gz,899.5,Compressed archive (may need inspection)
+database.297.4-1.tar.gz,.gz,891.86,Compressed archive (may need inspection)
+database.297.4-14.tar.gz,.gz,885.42,Compressed archive (may need inspection)
+database.297.4-5.tar.gz,.gz,874.4,Compressed archive (may need inspection)
+database.297.4-4.tar.gz,.gz,851.35,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.annotations.gff2.gz,.gz,841.11,Compressed archive (may need inspection)
+database.297.4-3.tar.gz,.gz,836.53,Compressed archive (may need inspection)
+database.297.4-8.tar.gz,.gz,817.38,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.annotations.gff3.gz,.gz,816.26,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.annotations.gff3.gz,.gz,777.17,Compressed archive (may need inspection)
+database.297.4-10.tar.gz,.gz,732.69,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.annotations.gff2.gz,.gz,730.82,Compressed archive (may need inspection)
+database.297.4-7.tar.gz,.gz,607.86,Compressed archive (may need inspection)
+database.297.4-6.tar.gz,.gz,575.14,Compressed archive (may need inspection)
+hub/lod/ws268_lod_81.hal,.hal,490.47,Unknown/Custom
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.annotations.gff3.gz,.gz,440.42,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.annotations.gff2.gz,.gz,422.55,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.annotations.gff3.gz,.gz,401.59,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.annotations.gff3.gz,.gz,383.14,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.annotations.gff2.gz,.gz,372.68,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.annotations.gff2.gz,.gz,358.26,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.annotations.gff3.gz,.gz,339.41,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.annotations.gff3.gz,.gz,323.14,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.annotations.gff2.gz,.gz,314.93,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.annotations.gff2.gz,.gz,307.73,Compressed archive (may need inspection)
+hub/remanei/remanei.phylop.wib,.wib,290.59,Unknown/Custom
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.annotations.gff3.gz,.gz,273.96,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.annotations.gff2.gz,.gz,267.34,Compressed archive (may need inspection)
+hub/lod/ws268_lod_203.hal,.hal,255.16,Unknown/Custom
+hub/brenneri/brenneri.phylop.wib,.wib,254.23,Unknown/Custom
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.annotations.gff3.gz,.gz,240.44,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.annotations.gff2.gz,.gz,237.87,Compressed archive (may need inspection)
+hub/c_nigoni/c_nigoni.phylop.wib,.wib,231.5,Unknown/Custom
+hub/briggsae/briggsae.phylop.wib,.wib,219.04,Unknown/Custom
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.annotations.gff3.gz,.gz,216.61,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.SRA_gene_expression.tar.gz,.gz,213.59,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.annotations.gff2.gz,.gz,209.64,Compressed archive (may need inspection)
+database.297.4-17.tar.gz,.gz,206.31,Compressed archive (may need inspection)
+hub/elegans/elegans.phylop.wib,.wib,189.04,Unknown/Custom
+hub/elegans/elegans.phastcons.wib,.wib,185.77,Unknown/Custom
+hub/pristionchus/pristionchus.phylop.wib,.wib,155.35,Unknown/Custom
+hub/japonica/japonica.phylop.wib,.wib,152.19,Unknown/Custom
+hub/brugia3/brugia.phylop.wib,.wib,145.95,Unknown/Custom
+hub/lod/ws268_lod_509.hal,.hal,137.33,Unknown/Custom
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.variations.vcf.gz,.gz,132.05,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus.phylop.wib,.wib,109.8,Unknown/Custom
+hub/brugia/brugia.phylop.wib,.wib,105.55,Unknown/Custom
+hub/brenneri/brenneri.align.wib,.wib,84.11,Unknown/Custom
+all_classes_report.WS297.txt.gz,.gz,81.59,Compressed archive (may need inspection)
+Non_C_elegans_BLASTX/c_brenneri.WS297.blastx.ace.gz,.gz,80.71,Compressed archive (may need inspection)
+hub/remanei/remanei.align.wib,.wib,78.28,Unknown/Custom
+Non_C_elegans_BLASTX/c_remanei.WS297.blastx.ace.gz,.gz,75.84,Compressed archive (may need inspection)
+hub/lod/ws268_lod_1274.hal,.hal,74.7,Unknown/Custom
+Non_C_elegans_BLASTX/c_japonica.WS297.blastx.ace.gz,.gz,70.57,Compressed archive (may need inspection)
+hub/c_nigoni/c_nigoni.alignability.bw,.bw,68.67,Unknown/Custom
+hub/c_nigoni/c_nigoni.align.wib,.wib,67.23,Unknown/Custom
+anatomy_association.WS297.wb,.wb,66.7,Unknown/Custom
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.ests.fa.gz,.gz,62.06,Compressed archive (may need inspection)
+hub/briggsae/briggsae.align.wib,.wib,61.16,Unknown/Custom
+hub/japonica/japonica.align.wib,.wib,60.75,Unknown/Custom
+Non_C_elegans_BLASTX/t_muris.WS297.blastx.ace.gz,.gz,60.27,Compressed archive (may need inspection)
+phenotype_association.WS297.wb,.wb,58.2,Unknown/Custom
+Non_C_elegans_BLASTX/p_pacificus.WS297.blastx.ace.gz,.gz,56.26,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.genomic_softmasked.fa.gz,.gz,53.24,Compressed archive (may need inspection)
+hub/pristionchus/pristionchus.align.wib,.wib,52.24,Unknown/Custom
+Non_C_elegans_BLASTX/c_briggsae.WS297.blastx.ace.gz,.gz,51.91,Compressed archive (may need inspection)
+hub/elegans/elegans.align.wib,.wib,51.05,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.TSS.wig.tar.gz,.gz,50.71,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.genomic.fa.gz,.gz,50.53,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.genomic_softmasked.fa.gz,.gz,49.4,Compressed archive (may need inspection)
+c_elegans/PRJNA275000/c_elegans.PRJNA275000.WS297.annotations.gff3.gz,.gz,48.89,Compressed archive (may need inspection)
+gene_association.WS297.wb,.wb,48.71,Unknown/Custom
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.genomic_softmasked.fa.gz,.gz,48.05,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.annotations.gff3.gz,.gz,47.93,Compressed archive (may need inspection)
+hub/brenneri/brenneri.2bit,.2bit,47.82,Unknown/Custom
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.annotations.gff3.gz,.gz,47.27,Compressed archive (may need inspection)
+gene_association_nonnoctua.WS297.wb,.wb,46.07,Unknown/Custom
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.genomic.fa.gz,.gz,45.69,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.genomic.fa.gz,.gz,45.24,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.genomic_masked.fa.gz,.gz,44.62,Compressed archive (may need inspection)
+hub/remanei/remanei_genes_WS297.bb,.bb,43.91,Unknown/Custom
+hub/brugia3/brugia.align.wib,.wib,43.5,Unknown/Custom
+hub/brenneri/brenneri_genes_WS297.bb,.bb,43.32,Unknown/Custom
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.genomic_softmasked.fa.gz,.gz,42.83,Compressed archive (may need inspection)
+hub/japonica/japonica.2bit,.2bit,42.54,Unknown/Custom
+hub/briggsae/briggsae_genes_WS297.bb,.bb,41.37,Unknown/Custom
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.genomic_softmasked.fa.gz,.gz,41.29,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.annotations.gff3.gz,.gz,41.11,Compressed archive (may need inspection)
+hub/japonica/japonica_genes_WS297.bb,.bb,41.09,Unknown/Custom
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.genomic.fa.gz,.gz,40.54,Compressed archive (may need inspection)
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.annotations.gff3.gz,.gz,40.46,Compressed archive (may need inspection)
+hub/pristionchus/pristionchus.2bit,.2bit,40.36,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.expr_graph.csv.gz,.gz,39.98,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.genomic_softmasked.fa.gz,.gz,39.83,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.genomic_softmasked.fa.gz,.gz,39.23,Compressed archive (may need inspection)
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.genomic.fa.gz,.gz,39.1,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.genomic_masked.fa.gz,.gz,38.72,Compressed archive (may need inspection)
+hub/t_muris/t_muris.phylop.wib,.wib,37.66,Unknown/Custom
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.genomic.fa.gz,.gz,37.37,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.genomic.fa.gz,.gz,36.6,Compressed archive (may need inspection)
+hub/remanei/remanei.2bit,.2bit,36.6,Unknown/Custom
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.genomic_softmasked.fa.gz,.gz,36.59,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus.align.wib,.wib,36.27,Unknown/Custom
+Non_C_elegans_BLASTX/s_ratti.WS297.blastx.ace.gz,.gz,36.21,Compressed archive (may need inspection)
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.genomic.fa.gz,.gz,35.24,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.genomic_softmasked.fa.gz,.gz,35.21,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.annotations.gff3.gz,.gz,35.2,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.genomic_masked.fa.gz,.gz,35.12,Compressed archive (may need inspection)
+gene_ontology.WS297.obo,.obo,35.01,"Ontologies (anatomy, development, GO)"
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.genomic_masked.fa.gz,.gz,34.53,Compressed archive (may need inspection)
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.genomic_masked.fa.gz,.gz,33.89,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.annotations.gff3.gz,.gz,33.85,Compressed archive (may need inspection)
+hub/c_nigoni/c_nigoni.2bit,.2bit,33.47,Unknown/Custom
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.genomic_masked.fa.gz,.gz,33.23,Compressed archive (may need inspection)
+hub/brugia/brugia.align.wib,.wib,33.22,Unknown/Custom
+hub/s_ratti/s_ratti.phylop.wib,.wib,33.22,Unknown/Custom
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.genomic_softmasked.fa.gz,.gz,32.96,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.genomic.fa.gz,.gz,32.7,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.genomic_softmasked.fa.gz,.gz,32.38,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.intergenic_sequences.fa.gz,.gz,32.04,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.genomic.fa.gz,.gz,31.43,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.wormpep_package.tar.gz,.gz,31.25,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.genomic_softmasked.fa.gz,.gz,31.07,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.genomic_softmasked.fa.gz,.gz,30.91,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.genomic_softmasked.fa.gz,.gz,30.9,Compressed archive (may need inspection)
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.genomic_softmasked.fa.gz,.gz,30.87,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.genomic.fa.gz,.gz,30.7,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.genomic_softmasked.fa.gz,.gz,30.67,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.genomic_masked.fa.gz,.gz,30.47,Compressed archive (may need inspection)
+c_elegans/PRJNA275000/c_elegans.PRJNA275000.WS297.genomic_softmasked.fa.gz,.gz,30.33,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.genomic_softmasked.fa.gz,.gz,30.07,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.genomic.fa.gz,.gz,29.97,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.genomic.fa.gz,.gz,29.83,Compressed archive (may need inspection)
+hub/elegans/elegans_cDNAs_WS250.bb,.bb,29.73,Unknown/Custom
+hub/elegans/elegans_cDNAs_WS245.bb,.bb,29.72,Unknown/Custom
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.genomic.fa.gz,.gz,29.69,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.genomic.fa.gz,.gz,29.28,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.genomic.fa.gz,.gz,29.13,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.genomic_masked.fa.gz,.gz,29.09,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.genomic_softmasked.fa.gz,.gz,29.01,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.genomic.fa.gz,.gz,28.9,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.genomic_masked.fa.gz,.gz,28.9,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.genomic_masked.fa.gz,.gz,28.89,Compressed archive (may need inspection)
+hub/t_muris/t_muris.2bit,.2bit,28.83,Unknown/Custom
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.upstream_sequences.fa.gz,.gz,28.62,Compressed archive (may need inspection)
+c_elegans/PRJNA275000/c_elegans.PRJNA275000.WS297.genomic.fa.gz,.gz,28.61,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.genomic_softmasked.fa.gz,.gz,28.49,Compressed archive (may need inspection)
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.genomic_softmasked.fa.gz,.gz,28.17,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.genomic_softmasked.fa.gz,.gz,28.05,Compressed archive (may need inspection)
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.genomic_masked.fa.gz,.gz,27.96,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.intergenic_sequences.fa.gz,.gz,27.75,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.genomic_masked.fa.gz,.gz,27.69,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.genomic.fa.gz,.gz,27.37,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.genomic_masked.fa.gz,.gz,27.35,Compressed archive (may need inspection)
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.genomic.fa.gz,.gz,27.31,Compressed archive (may need inspection)
+hub/briggsae/briggsae.2bit,.2bit,27.16,Unknown/Custom
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.genomic.fa.gz,.gz,27.08,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.genomic.fa.gz,.gz,27.04,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.genomic_softmasked.fa.gz,.gz,26.3,Compressed archive (may need inspection)
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.genomic_masked.fa.gz,.gz,26.04,Compressed archive (may need inspection)
+hub/t_muris/t_muris.align.wib,.wib,26.0,Unknown/Custom
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.genomic_softmasked.fa.gz,.gz,25.82,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.genomic.fa.gz,.gz,25.46,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.genomic_masked.fa.gz,.gz,25.34,Compressed archive (may need inspection)
+hub/elegans/elegans.2bit,.2bit,25.07,Unknown/Custom
+Non_C_elegans_BLASTX/b_malayi.WS297.blastx.ace.gz,.gz,24.91,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.genomic_masked.fa.gz,.gz,24.7,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.genomic.fa.gz,.gz,24.65,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.genomic_masked.fa.gz,.gz,24.58,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.genomic_masked.fa.gz,.gz,24.56,Compressed archive (may need inspection)
+Non_C_elegans_BLASTX/o_volvulus.WS297.blastx.ace.gz,.gz,24.46,Compressed archive (may need inspection)
+c_elegans/PRJNA275000/c_elegans.PRJNA275000.WS297.genomic_masked.fa.gz,.gz,24.41,Compressed archive (may need inspection)
+hub/elegans/elegans_cDNAs_WS297.bb,.bb,24.23,Unknown/Custom
+hub/elegans/elegans_cDNAs_WS265.bb,.bb,24.19,Unknown/Custom
+hub/elegans/elegans_cDNAs_WS255.bb,.bb,24.19,Unknown/Custom
+hub/elegans/elegans_cDNAs_WS260.bb,.bb,24.19,Unknown/Custom
+hub/elegans/elegans_cDNAs_WS270.bb,.bb,24.19,Unknown/Custom
+hub/ovolvulus/ovolvulus.2bit,.2bit,24.14,Unknown/Custom
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.genomic_masked.fa.gz,.gz,24.1,Compressed archive (may need inspection)
+hub/brugia3/brugia.2bit,.2bit,24.03,Unknown/Custom
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.genomic_masked.fa.gz,.gz,24.01,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.genomic_softmasked.fa.gz,.gz,23.9,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.genomic_softmasked.fa.gz,.gz,23.76,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.genomic.fa.gz,.gz,23.76,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.genomic_masked.fa.gz,.gz,23.54,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.upstream_sequences.fa.gz,.gz,23.24,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.genomic.fa.gz,.gz,23.18,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.upstream_sequences.fa.gz,.gz,22.89,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.genomic_masked.fa.gz,.gz,22.45,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.genomic_masked.fa.gz,.gz,22.26,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.genomic_masked.fa.gz,.gz,22.16,Compressed archive (may need inspection)
+hub/brugia/brugia.2bit,.2bit,22.06,Unknown/Custom
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.intergenic_sequences.fa.gz,.gz,22.01,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.genomic_masked.fa.gz,.gz,20.4,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.upstream_sequences.fa.gz,.gz,20.13,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.genomic_softmasked.fa.gz,.gz,19.78,Compressed archive (may need inspection)
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.genomic_softmasked.fa.gz,.gz,19.59,Compressed archive (may need inspection)
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.genomic.fa.gz,.gz,19.59,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.genomic.fa.gz,.gz,19.16,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.genomic_softmasked.fa.gz,.gz,19.02,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.genomic.fa.gz,.gz,18.44,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.genomic_softmasked.fa.gz,.gz,18.24,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.genomic_masked.fa.gz,.gz,18.2,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.genomic.fa.gz,.gz,17.96,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.genomic_masked.fa.gz,.gz,17.88,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.genomic_masked.fa.gz,.gz,17.8,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.upstream_sequences.fa.gz,.gz,17.7,Compressed archive (may need inspection)
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.genomic_masked.fa.gz,.gz,17.41,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.upstream_sequences.fa.gz,.gz,16.95,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.intergenic_sequences.fa.gz,.gz,16.64,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.SRA_gene_expression.tar.gz,.gz,15.74,Compressed archive (may need inspection)
+hub/japonica/japonica_repeatmasker.bb,.bb,15.7,Unknown/Custom
+hub/s_ratti/s_ratti.align.wib,.wib,13.78,Unknown/Custom
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.intergenic_sequences.fa.gz,.gz,13.73,Compressed archive (may need inspection)
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.mRNA_transcripts.fa.gz,.gz,13.7,Compressed archive (may need inspection)
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.CDS_transcripts.fa.gz,.gz,13.7,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.intergenic_sequences.fa.gz,.gz,13.4,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.genomic_softmasked.fa.gz,.gz,12.56,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.mRNA_transcripts.fa.gz,.gz,12.02,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.TAR_gene_expression.tar.gz,.gz,11.99,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.mRNA_transcripts.fa.gz,.gz,11.94,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.CDS_transcripts.fa.gz,.gz,11.89,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.mRNA_transcripts.fa.gz,.gz,11.89,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.mRNA_transcripts.fa.gz,.gz,11.88,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.genomic.fa.gz,.gz,11.8,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.upstream_sequences.fa.gz,.gz,11.73,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.CDS_transcripts.fa.gz,.gz,11.48,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.CDS_transcripts.fa.gz,.gz,11.38,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.intergenic_sequences.fa.gz,.gz,11.19,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.RNASeq_controls_FPKM.dat,.dat,11.05,Unknown/Custom
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.intergenic_sequences.fa.gz,.gz,10.95,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.mRNA_transcripts.fa.gz,.gz,10.89,Compressed archive (may need inspection)
+hub/s_ratti/s_ratti.2bit,.2bit,10.8,Unknown/Custom
+hub/c_nigoni/c_nigoni_genes_WS264.bb,.bb,10.61,Unknown/Custom
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.CDS_transcripts.fa.gz,.gz,10.59,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.intergenic_sequences.fa.gz,.gz,10.42,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.genomic_masked.fa.gz,.gz,10.34,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.mRNA_transcripts.fa.gz,.gz,10.29,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.SRA_gene_expression.tar.gz,.gz,10.24,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.mRNA_transcripts.fa.gz,.gz,10.02,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.CDS_transcripts.fa.gz,.gz,10.0,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.canonical_geneset.gtf.gz,.gz,9.77,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.mRNA_transcripts.fa.gz,.gz,9.63,Compressed archive (may need inspection)
+development_association.WS297.wb,.wb,9.52,Unknown/Custom
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.mRNA_transcripts.fa.gz,.gz,9.51,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.CDS_transcripts.fa.gz,.gz,9.49,Compressed archive (may need inspection)
+strain_RRIDs.WS297.dat.gz,.gz,9.25,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.mRNA_transcripts.fa.gz,.gz,9.24,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.CDS_transcripts.fa.gz,.gz,9.22,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.protein_annotation.gff3.gz,.gz,9.2,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.CDS_transcripts.fa.gz,.gz,9.18,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.upstream_sequences.fa.gz,.gz,9.16,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.mRNA_transcripts.fa.gz,.gz,9.1,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.CDS_transcripts.fa.gz,.gz,9.1,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.mRNA_transcripts.fa.gz,.gz,9.09,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.upstream_sequences.fa.gz,.gz,9.05,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.CDS_transcripts.fa.gz,.gz,9.02,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.mRNA_transcripts.fa.gz,.gz,9.02,Compressed archive (may need inspection)
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.protein.fa.gz,.gz,8.89,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.upstream_sequences.fa.gz,.gz,8.8,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.mRNA_transcripts.fa.gz,.gz,8.75,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.CDS_transcripts.fa.gz,.gz,8.75,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.mRNA_transcripts.fa.gz,.gz,8.75,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.CDS_transcripts.fa.gz,.gz,8.74,Compressed archive (may need inspection)
+hub/japonica/japonica_genes_WS270.bb,.bb,8.72,Unknown/Custom
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.CDS_transcripts.fa.gz,.gz,8.72,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.CDS_transcripts.fa.gz,.gz,8.71,Compressed archive (may need inspection)
+hub/japonica/japonica_genes_WS265.bb,.bb,8.69,Unknown/Custom
+hub/japonica/japonica_genes_WS260.bb,.bb,8.63,Unknown/Custom
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.CDS_transcripts.fa.gz,.gz,8.59,Compressed archive (may need inspection)
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.mRNA_transcripts.fa.gz,.gz,8.59,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.canonical_geneset.gtf.gz,.gz,8.53,Compressed archive (may need inspection)
+hub/japonica/japonica_genes_WS250.bb,.bb,8.48,Unknown/Custom
+hub/japonica/japonica_genes_WS255.bb,.bb,8.48,Unknown/Custom
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.mRNA_transcripts.fa.gz,.gz,8.42,Compressed archive (may need inspection)
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.CDS_transcripts.fa.gz,.gz,8.4,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.CDS_transcripts.fa.gz,.gz,8.34,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.mRNA_transcripts.fa.gz,.gz,8.32,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.CDS_transcripts.fa.gz,.gz,8.32,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.annotations.gff3.gz,.gz,8.14,Compressed archive (may need inspection)
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.mRNA_transcripts.fa.gz,.gz,8.02,Compressed archive (may need inspection)
+hub/elegans_genes_WS265.bed,.bed,7.96,Unknown/Custom
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.protein.fa.gz,.gz,7.95,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.mRNA_transcripts.fa.gz,.gz,7.93,Compressed archive (may need inspection)
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.CDS_transcripts.fa.gz,.gz,7.9,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.protein.fa.gz,.gz,7.9,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.mRNA_transcripts.fa.gz,.gz,7.83,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.CDS_transcripts.fa.gz,.gz,7.81,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.cdna2orf.txt.gz,.gz,7.77,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.CDS_transcripts.fa.gz,.gz,7.74,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.mRNA_transcripts.fa.gz,.gz,7.74,Compressed archive (may need inspection)
+hub/elegans/elegans_genes_WS270.bb,.bb,7.65,Unknown/Custom
+hub/elegans/elegans_genes_WS265.bb,.bb,7.56,Unknown/Custom
+hub/elegans/elegans_genes_WS260.bb,.bb,7.56,Unknown/Custom
+hub/elegans/elegans_genes_WS297.bb,.bb,7.54,Unknown/Custom
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.protein.fa.gz,.gz,7.5,Compressed archive (may need inspection)
+hub/elegans/elegans_genes_WS255.bb,.bb,7.48,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.confirmed_genes.fa.gz,.gz,7.43,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.annotations.gff3.gz,.gz,7.29,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.annotations.gff3.gz,.gz,7.27,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.protein.fa.gz,.gz,7.25,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.mRNA_transcripts.fa.gz,.gz,7.22,Compressed archive (may need inspection)
+hub/elegans/elegans_genes_WS250.bb,.bb,7.22,Unknown/Custom
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.CDS_transcripts.fa.gz,.gz,7.21,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.mRNA_transcripts.fa.gz,.gz,7.2,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.annotations.gff3.gz,.gz,7.06,Compressed archive (may need inspection)
+disease_ontology.WS297.obo,.obo,6.86,"Ontologies (anatomy, development, GO)"
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.protein.fa.gz,.gz,6.79,Compressed archive (may need inspection)
+hub/remanei/remanei_genes_WS270.bb,.bb,6.78,Unknown/Custom
+hub/remanei/remanei_genes_WS265.bb,.bb,6.76,Unknown/Custom
+hub/brenneri/brenneri_genes_WS270.bb,.bb,6.75,Unknown/Custom
+hub/remanei/remanei_genes_WS260.bb,.bb,6.75,Unknown/Custom
+c_sinica/PRJNA194557/c_sinica.PRJNA194557.WS297.canonical_geneset.gtf.gz,.gz,6.73,Compressed archive (may need inspection)
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.annotations.gff3.gz,.gz,6.69,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.SRA_gene_expression.tar.gz,.gz,6.68,Compressed archive (may need inspection)
+hub/brenneri/brenneri_genes_WS265.bb,.bb,6.67,Unknown/Custom
+hub/remanei/remanei_genes_WS255.bb,.bb,6.66,Unknown/Custom
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.protein_annotation.gff3.gz,.gz,6.66,Compressed archive (may need inspection)
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.annotations.gff3.gz,.gz,6.64,Compressed archive (may need inspection)
+hub/remanei/remanei_genes_WS250.bb,.bb,6.62,Unknown/Custom
+hub/brenneri/brenneri_genes_WS260.bb,.bb,6.59,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.SRA_gene_expression.tar.gz,.gz,6.57,Compressed archive (may need inspection)
+hub/brenneri/brenneri_genes_WS250.bb,.bb,6.52,Unknown/Custom
+hub/brenneri/brenneri_genes_WS255.bb,.bb,6.52,Unknown/Custom
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.mRNA_transcripts.fa.gz,.gz,6.5,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.protein.fa.gz,.gz,6.47,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.protein.fa.gz,.gz,6.47,Compressed archive (may need inspection)
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.annotations.gff3.gz,.gz,6.31,Compressed archive (may need inspection)
+c_nigoni/PRJNA384657/c_nigoni.PRJNA384657.WS297.canonical_geneset.gtf.gz,.gz,6.31,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.protein_annotation.gff3.gz,.gz,6.27,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.protein_annotation.gff3.gz,.gz,6.25,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.canonical_geneset.gtf.gz,.gz,6.24,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.protein.fa.gz,.gz,6.23,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.intergenic_sequences.fa.gz,.gz,6.18,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.annotations.gff3.gz,.gz,6.15,Compressed archive (may need inspection)
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.mRNA_transcripts.fa.gz,.gz,6.13,Compressed archive (may need inspection)
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.annotations.gff3.gz,.gz,6.12,Compressed archive (may need inspection)
+hub/pristionchus/pristionchus_genes_WS297.bb,.bb,6.11,Unknown/Custom
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.CDS_transcripts.fa.gz,.gz,6.11,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.protein.fa.gz,.gz,6.1,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.CDS_transcripts.fa.gz,.gz,6.06,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.mRNA_transcripts.fa.gz,.gz,6.04,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.mRNA_transcripts.fa.gz,.gz,6.01,Compressed archive (may need inspection)
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.protein.fa.gz,.gz,5.99,Compressed archive (may need inspection)
+hub/brenneri/brenneri_repeatmasker.bb,.bb,5.99,Unknown/Custom
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.protein_annotation.gff3.gz,.gz,5.96,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.protein.fa.gz,.gz,5.93,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.CDS_transcripts.fa.gz,.gz,5.93,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.protein.fa.gz,.gz,5.92,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.canonical_geneset.gtf.gz,.gz,5.91,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.protein.fa.gz,.gz,5.89,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.protein.fa.gz,.gz,5.89,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.CDS_transcripts.fa.gz,.gz,5.85,Compressed archive (may need inspection)
+hub/pristionchus/pristionchus_genes_WS265.bb,.bb,5.82,Unknown/Custom
+hub/pristionchus/pristionchus_genes_WS270.bb,.bb,5.82,Unknown/Custom
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.protein.fa.gz,.gz,5.81,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.annotations.gff3.gz,.gz,5.81,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.canonical_geneset.gtf.gz,.gz,5.78,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.protein.fa.gz,.gz,5.75,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.RNASeq_controls_FPKM.dat,.dat,5.75,Unknown/Custom
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.protein.fa.gz,.gz,5.71,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.canonical_geneset.gtf.gz,.gz,5.71,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.protein_annotation.gff3.gz,.gz,5.69,Compressed archive (may need inspection)
+hub/briggsae/briggsae_repeatmasker.bb,.bb,5.64,Unknown/Custom
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.protein.fa.gz,.gz,5.52,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.orthologs.txt.gz,.gz,5.49,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/c_uteleia.PRJEB12600.WS297.canonical_geneset.gtf.gz,.gz,5.45,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.mRNA_transcripts.fa.gz,.gz,5.43,Compressed archive (may need inspection)
+hub/remanei/remanei_repeatmasker.bb,.bb,5.4,Unknown/Custom
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.protein.fa.gz,.gz,5.32,Compressed archive (may need inspection)
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.protein.fa.gz,.gz,5.29,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.CDS_transcripts.fa.gz,.gz,5.27,Compressed archive (may need inspection)
+hub/briggsae/briggsae_genes_WS260.bb,.bb,5.26,Unknown/Custom
+hub/briggsae/briggsae_genes_WS265.bb,.bb,5.22,Unknown/Custom
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.ests.fa.gz,.gz,5.22,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.protein.fa.gz,.gz,5.17,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.annotations.gff3.gz,.gz,5.15,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.CDS_transcripts.fa.gz,.gz,5.13,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.RNASeq_controls_FPKM.dat,.dat,5.07,Unknown/Custom
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.annotations.gff3.gz,.gz,5.06,Compressed archive (may need inspection)
+hub/briggsae/briggsae_genes_WS270.bb,.bb,5.04,Unknown/Custom
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.ests.fa.gz,.gz,4.99,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.protein.fa.gz,.gz,4.92,Compressed archive (may need inspection)
+c_elegans/PRJEB28388/c_elegans.PRJEB28388.WS297.canonical_geneset.gtf.gz,.gz,4.87,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.canonical_geneset.gtf.gz,.gz,4.86,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.ests.fa.gz,.gz,4.8,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.annotations.gff3.gz,.gz,4.8,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/c_waitukubuli.PRJEB12602.WS297.canonical_geneset.gtf.gz,.gz,4.77,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.orthologs.txt.gz,.gz,4.71,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.CDS_transcripts.fa.gz,.gz,4.63,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.orthologs.txt.gz,.gz,4.62,Compressed archive (may need inspection)
+hub/briggsae/briggsae_genes_WS255.bb,.bb,4.54,Unknown/Custom
+c_latens/PRJNA248912/c_latens.PRJNA248912.WS297.canonical_geneset.gtf.gz,.gz,4.44,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.ests.fa.gz,.gz,4.43,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.orthologs.txt.gz,.gz,4.4,Compressed archive (may need inspection)
+hub/japonica/japonica_genes_WS245.bb,.bb,4.4,Unknown/Custom
+c_tribulationis/PRJEB12608/c_tribulationis.PRJEB12608.WS297.canonical_geneset.gtf.gz,.gz,4.35,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.RNASeq_controls_FPKM.dat,.dat,4.33,Unknown/Custom
+hub/briggsae/briggsae_genes_WS250.bb,.bb,4.32,Unknown/Custom
+c_remanei/PRJNA577507/c_remanei.PRJNA577507.WS297.canonical_geneset.gtf.gz,.gz,4.24,Compressed archive (may need inspection)
+c_becei/PRJEB28243/c_becei.PRJEB28243.WS297.canonical_geneset.gtf.gz,.gz,4.21,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.protein.fa.gz,.gz,4.18,Compressed archive (may need inspection)
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.canonical_geneset.gtf.gz,.gz,4.18,Compressed archive (may need inspection)
+hub/brugia3/brugia_genes_WS250.bb,.bb,4.16,Unknown/Custom
+c_parvicauda/PRJEB12595/c_parvicauda.PRJEB12595.WS297.protein.fa.gz,.gz,4.14,Compressed archive (may need inspection)
+c_zanzibari/PRJEB12596/c_zanzibari.PRJEB12596.WS297.canonical_geneset.gtf.gz,.gz,3.99,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.protein.fa.gz,.gz,3.98,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.protein.fa.gz,.gz,3.97,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.protein.fa.gz,.gz,3.97,Compressed archive (may need inspection)
+c_tropicalis/PRJNA53597/c_tropicalis.PRJNA53597.WS297.canonical_geneset.gtf.gz,.gz,3.96,Compressed archive (may need inspection)
+hub/t_muris/t_muris_genes_WS297.bb,.bb,3.94,Unknown/Custom
+hub/t_muris/t_muris_genes_WS270.bb,.bb,3.94,Unknown/Custom
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.canonical_geneset.gtf.gz,.gz,3.92,Compressed archive (may need inspection)
+c_panamensis/PRJEB28259/c_panamensis.PRJEB28259.WS297.canonical_geneset.gtf.gz,.gz,3.91,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.annotations.gff3.gz,.gz,3.87,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.RNASeq_controls_FPKM.dat,.dat,3.86,Unknown/Custom
+c_quiockensis/PRJEB11354/c_quiockensis.PRJEB11354.WS297.canonical_geneset.gtf.gz,.gz,3.83,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.canonical_geneset.gtf.gz,.gz,3.83,Compressed archive (may need inspection)
+hub/brugia3/brugia_repeatmasker.bb,.bb,3.82,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.orthologs.txt.gz,.gz,3.79,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.ests.fa.gz,.gz,3.78,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/c_angaria.PRJNA51225.WS297.canonical_geneset.gtf.gz,.gz,3.72,Compressed archive (may need inspection)
+hub/elegans/elegans_repeatmasker.bb,.bb,3.71,Unknown/Custom
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.protein_annotation.gff3.gz,.gz,3.69,Compressed archive (may need inspection)
+c_inopinata/PRJDB5687/c_inopinata.PRJDB5687.WS297.canonical_geneset.gtf.gz,.gz,3.69,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.protein.fa.gz,.gz,3.64,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/c_bovis.PRJEB34497.WS297.canonical_geneset.gtf.gz,.gz,3.6,Compressed archive (may need inspection)
+disease_association.by_orthology.WS297.tsv.txt,.txt,3.55,Generic data
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.anatomy_association.wb.gz,.gz,3.51,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.orthologs.txt.gz,.gz,3.49,Compressed archive (may need inspection)
+hub/t_muris/t_muris_genes_WS265.bb,.bb,3.46,Unknown/Custom
+o_tipulae/PRJEB15512/o_tipulae.PRJEB15512.WS297.canonical_geneset.gtf.gz,.gz,3.38,Compressed archive (may need inspection)
+hub/brugia/brugia_genes_WS297.bb,.bb,3.37,Unknown/Custom
+p_redivivus/PRJNA186477/p_redivivus.PRJNA186477.WS297.canonical_geneset.gtf.gz,.gz,3.35,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.protein.fa.gz,.gz,3.35,Compressed archive (may need inspection)
+hub/remanei/remanei_genes_WS244.bb,.bb,3.31,Unknown/Custom
+hub/remanei/remanei_genes_WS247.bb,.bb,3.31,Unknown/Custom
+c_sulstoni/PRJEB12601/c_sulstoni.PRJEB12601.WS297.canonical_geneset.gtf.gz,.gz,3.27,Compressed archive (may need inspection)
+hub/brenneri/brenneri_genes_WS245.bb,.bb,3.23,Unknown/Custom
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.protein_annotation.gff3.gz,.gz,3.17,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_genes_WS265.bb,.bb,3.15,Unknown/Custom
+hub/ovolvulus/ovolvulus_genes_WS260.bb,.bb,3.15,Unknown/Custom
+hub/brugia/brugia_genes_WS270.bb,.bb,3.15,Unknown/Custom
+hub/ovolvulus/ovolvulus_repeatmasker.bb,.bb,3.14,Unknown/Custom
+hub/ovolvulus/ovolvulus_genes_WS255.bb,.bb,3.12,Unknown/Custom
+hub/ovolvulus/ovolvulus_genes_WS270.bb,.bb,3.06,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.phenotype_association.wb.gz,.gz,3.03,Compressed archive (may need inspection)
+hub/brugia/brugia_repeatmasker.bb,.bb,2.99,Unknown/Custom
+hub/brugia/brugia_genes_WS265.bb,.bb,2.99,Unknown/Custom
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.ests.fa.gz,.gz,2.99,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_genes_WS297.bb,.bb,2.99,Unknown/Custom
+hub/brugia/brugia_genes_WS255.bb,.bb,2.92,Unknown/Custom
+hub/brugia/brugia_genes_WS260.bb,.bb,2.92,Unknown/Custom
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.protein_annotation.gff3.gz,.gz,2.87,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_genes_WS250.bb,.bb,2.76,Unknown/Custom
+hub/elegans/elegans_genes_WS245.bb,.bb,2.72,Unknown/Custom
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.protein_annotation.gff3.gz,.gz,2.66,Compressed archive (may need inspection)
+hub/s_ratti/s_ratti_genes_WS297.bb,.bb,2.65,Unknown/Custom
+hub/s_ratti/s_ratti_genes_WS265.bb,.bb,2.57,Unknown/Custom
+hub/s_ratti/s_ratti_genes_WS270.bb,.bb,2.57,Unknown/Custom
+hub/s_ratti/s_ratti_genes_WS255.bb,.bb,2.57,Unknown/Custom
+hub/s_ratti/s_ratti_genes_WS250.bb,.bb,2.53,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.functional_descriptions.txt.gz,.gz,2.52,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.SRA_gene_expression.tar.gz,.gz,2.5,Compressed archive (may need inspection)
+hub/pristionchus/pristionchus_cDNAs_WS270.bb,.bb,2.43,Unknown/Custom
+hub/pristionchus/pristionchus_cDNAs_WS297.bb,.bb,2.43,Unknown/Custom
+hub/pristionchus/pristionchus_cDNAs_WS265.bb,.bb,2.43,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.orthologs.txt.gz,.gz,2.4,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.reuters_citation_index.xml.gz,.gz,2.39,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.gene_product_info.gpi2.gz,.gz,2.34,Compressed archive (may need inspection)
+hub/japonica/japonica_cDNAs_WS260.bb,.bb,2.33,Unknown/Custom
+hub/japonica/japonica_cDNAs_WS297.bb,.bb,2.33,Unknown/Custom
+hub/japonica/japonica_cDNAs_WS270.bb,.bb,2.33,Unknown/Custom
+hub/japonica/japonica_cDNAs_WS250.bb,.bb,2.33,Unknown/Custom
+hub/japonica/japonica_cDNAs_WS255.bb,.bb,2.33,Unknown/Custom
+hub/japonica/japonica_cDNAs_WS245.bb,.bb,2.33,Unknown/Custom
+hub/japonica/japonica_cDNAs_WS265.bb,.bb,2.33,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS260.bb,.bb,2.28,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS255.bb,.bb,2.28,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS250.bb,.bb,2.28,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS245.bb,.bb,2.28,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS297.bb,.bb,2.28,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS265.bb,.bb,2.28,Unknown/Custom
+hub/brenneri/brenneri_cDNAs_WS270.bb,.bb,2.28,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.interactions.txt.gz,.gz,2.25,Compressed archive (may need inspection)
+hub/brugia3/brugia_genes_WS245.bb,.bb,2.24,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.gene_product_info.gpi.gz,.gz,2.23,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.alaska_ids.tsv.gz,.gz,2.21,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.RNASeq_controls_FPKM.dat,.dat,2.2,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.gene_association.wb.gz,.gz,2.16,Compressed archive (may need inspection)
+hub/briggsae/briggsae_genes_WS245.bb,.bb,2.14,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.orthologs.txt.gz,.gz,2.11,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.orthologs.txt.gz,.gz,2.06,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.orthologs.txt.gz,.gz,2.0,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.RNASeq_controls_FPKM.dat,.dat,1.98,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.uniprot_papers.txt.gz,.gz,1.85,Compressed archive (may need inspection)
+hub/remanei/remanei_cDNAs_WS255.bb,.bb,1.81,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS260.bb,.bb,1.81,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS297.bb,.bb,1.81,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS247.bb,.bb,1.81,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS265.bb,.bb,1.81,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS250.bb,.bb,1.81,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS270.bb,.bb,1.81,Unknown/Custom
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.ests.fa.gz,.gz,1.8,Compressed archive (may need inspection)
+hub/brugia3/brugia_cDNAs_WS250.bb,.bb,1.74,Unknown/Custom
+hub/brugia3/brugia_cDNAs_WS245.bb,.bb,1.74,Unknown/Custom
+hub/remanei/remanei_cDNAs_WS244.bb,.bb,1.73,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.SRA_gene_expression.tar.gz,.gz,1.7,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.best_blastp_hits.txt.gz,.gz,1.67,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.ncRNA_transcripts.fa.gz,.gz,1.62,Compressed archive (may need inspection)
+anatomy_ontology.WS297.obo,.obo,1.61,"Ontologies (anatomy, development, GO)"
+hub/brugia/brugia_cDNAs_WS265.bb,.bb,1.59,Unknown/Custom
+hub/brugia/brugia_cDNAs_WS297.bb,.bb,1.59,Unknown/Custom
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.best_blastp_hits.txt.gz,.gz,1.59,Compressed archive (may need inspection)
+hub/brugia/brugia_cDNAs_WS255.bb,.bb,1.59,Unknown/Custom
+hub/brugia/brugia_cDNAs_WS260.bb,.bb,1.59,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.RNASeq_controls_FPKM.dat,.dat,1.59,Unknown/Custom
+hub/brugia/brugia_cDNAs_WS270.bb,.bb,1.59,Unknown/Custom
+hub/s_ratti/s_ratti_cDNAs_WS255.bb,.bb,1.56,Unknown/Custom
+hub/s_ratti/s_ratti_cDNAs_WS265.bb,.bb,1.56,Unknown/Custom
+hub/s_ratti/s_ratti_cDNAs_WS297.bb,.bb,1.56,Unknown/Custom
+hub/s_ratti/s_ratti_cDNAs_WS250.bb,.bb,1.56,Unknown/Custom
+hub/s_ratti/s_ratti_cDNAs_WS270.bb,.bb,1.56,Unknown/Custom
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.variations.vcf.gz,.gz,1.55,Compressed archive (may need inspection)
+hub/elegans/elegans_ncRNAs_WS255.bb,.bb,1.54,Unknown/Custom
+hub/elegans/elegans_ncRNAs_WS250.bb,.bb,1.54,Unknown/Custom
+hub/elegans/elegans_ncRNAs_WS297.bb,.bb,1.53,Unknown/Custom
+hub/elegans/elegans_ncRNAs_WS265.bb,.bb,1.53,Unknown/Custom
+hub/elegans/elegans_ncRNAs_WS270.bb,.bb,1.53,Unknown/Custom
+hub/elegans/elegans_ncRNAs_WS260.bb,.bb,1.53,Unknown/Custom
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.canonical_geneset.gtf.gz,.gz,1.53,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.best_blastp_hits.txt.gz,.gz,1.52,Compressed archive (may need inspection)
+hub/elegans/elegans_ncRNAs_WS245.bb,.bb,1.52,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.gene_product_info.gpi2.gz,.gz,1.49,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.protein_domains.csv.gz,.gz,1.45,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.gene_product_info.gpi.gz,.gz,1.45,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_genes_WS245.bb,.bb,1.44,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.SRA_gene_expression.tar.gz,.gz,1.42,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.best_blastp_hits.txt.gz,.gz,1.38,Compressed archive (may need inspection)
+database.297.4-0.tar.gz,.gz,1.35,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.protein_domains.csv.gz,.gz,1.33,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.protein_domains.csv.gz,.gz,1.33,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.gene_product_info.gpi2.gz,.gz,1.27,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.SRA_gene_expression.tar.gz,.gz,1.27,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.gene_product_info.gpi2.gz,.gz,1.26,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.gene_product_info.gpi2.gz,.gz,1.26,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.protein_domains.csv.gz,.gz,1.26,Compressed archive (may need inspection)
+hub/s_ratti/s_ratti_repeatmasker.bb,.bb,1.25,Unknown/Custom
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.gene_product_info.gpi2.gz,.gz,1.25,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.gene_product_info.gpi.gz,.gz,1.23,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.gene_product_info.gpi.gz,.gz,1.22,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.gene_product_info.gpi.gz,.gz,1.22,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.best_blastp_hits.txt.gz,.gz,1.21,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.gene_product_info.gpi.gz,.gz,1.21,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.RNASeq_controls_FPKM.dat,.dat,1.18,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.functional_descriptions.txt.gz,.gz,1.17,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.functional_descriptions.txt.gz,.gz,1.13,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.knockout_consortium_alleles.xml.gz,.gz,1.13,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.best_blastp_hits.txt.gz,.gz,1.1,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_cDNAs_WS270.bb,.bb,1.09,Unknown/Custom
+hub/ovolvulus/ovolvulus_cDNAs_WS297.bb,.bb,1.09,Unknown/Custom
+hub/ovolvulus/ovolvulus_cDNAs_WS265.bb,.bb,1.09,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.functional_descriptions.txt.gz,.gz,1.09,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_cDNAs_WS250.bb,.bb,1.09,Unknown/Custom
+hub/ovolvulus/ovolvulus_cDNAs_WS245.bb,.bb,1.09,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.protein_domains.csv.gz,.gz,1.09,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_cDNAs_WS255.bb,.bb,1.09,Unknown/Custom
+hub/ovolvulus/ovolvulus_cDNAs_WS260.bb,.bb,1.09,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.protein_domains.csv.gz,.gz,1.06,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.xrefs.txt.gz,.gz,1.03,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.gene_product_info.gpi2.gz,.gz,1.02,Compressed archive (may need inspection)
+phenotype_ontology.WS297.obo,.obo,1.02,"Ontologies (anatomy, development, GO)"
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.gene_product_info.gpi.gz,.gz,1.0,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.transposons.fa.gz,.gz,0.99,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.functional_descriptions.txt.gz,.gz,0.99,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.alaska_ids.tsv.gz,.gz,0.96,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.pcr_product2gene.txt.gz,.gz,0.95,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.alaska_ids.tsv.gz,.gz,0.91,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.alaska_ids.tsv.gz,.gz,0.87,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.ests.fa.gz,.gz,0.86,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.rnai_phenotypes.wb.gz,.gz,0.86,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.best_blastp_hits.txt.gz,.gz,0.84,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.functional_descriptions.txt.gz,.gz,0.83,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.protein_domains.csv.gz,.gz,0.74,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.protein_domains.csv.gz,.gz,0.73,Compressed archive (may need inspection)
+s_ratti/PRJEB125/s_ratti.PRJEB125.WS297.best_blastp_hits.txt.gz,.gz,0.73,Compressed archive (may need inspection)
+t_muris/PRJEB126/t_muris.PRJEB126.WS297.best_blastp_hits.txt.gz,.gz,0.73,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.protein_domains.csv.gz,.gz,0.69,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.alaska_ids.tsv.gz,.gz,0.68,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.alaska_ids.tsv.gz,.gz,0.68,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.best_blastp_hits.txt.gz,.gz,0.65,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.protein_domains.csv.gz,.gz,0.64,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.pseudogenic_transcripts.fa.gz,.gz,0.63,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.agil_oligo_mapping.txt.gz,.gz,0.58,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.functional_descriptions.txt.gz,.gz,0.57,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.molecules.ace.gz,.gz,0.56,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.geneOtherIDs.txt.gz,.gz,0.53,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.functional_descriptions.txt.gz,.gz,0.52,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.swissprot.txt.gz,.gz,0.5,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.xrefs.txt.gz,.gz,0.5,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.functional_descriptions.txt.gz,.gz,0.5,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.alaska_ids.tsv.gz,.gz,0.48,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.functional_descriptions.txt.gz,.gz,0.48,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.alaska_ids.tsv.gz,.gz,0.47,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.gene_product_info.gpi2.gz,.gz,0.46,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.xrefs.txt.gz,.gz,0.46,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.gene_product_info.gpi2.gz,.gz,0.45,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.gene_product_info.gpi.gz,.gz,0.45,Compressed archive (may need inspection)
+hub/t_muris/t_muris_cDNAs_WS297.bb,.bb,0.44,Unknown/Custom
+development_ontology.WS297.obo,.obo,0.44,"Ontologies (anatomy, development, GO)"
+hub/t_muris/t_muris_cDNAs_WS270.bb,.bb,0.44,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.alaska_ids.tsv.gz,.gz,0.44,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.alaska_ids.tsv.gz,.gz,0.44,Compressed archive (may need inspection)
+hub/t_muris/t_muris_cDNAs_WS265.bb,.bb,0.44,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.gene_product_info.gpi.gz,.gz,0.44,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.affy_oligo_mapping.txt.gz,.gz,0.43,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.xrefs.txt.gz,.gz,0.42,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.geneIDs.txt.gz,.gz,0.42,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.xrefs.txt.gz,.gz,0.42,Compressed archive (may need inspection)
+hub/japonica/japonica.chrom_sizes,.chrom_sizes,0.41,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.gsc_oligo_mapping.txt.gz,.gz,0.37,Compressed archive (may need inspection)
+disease_association.WS297.daf.txt,.txt,0.36,Generic data
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.gene_product_info.gpi2.gz,.gz,0.35,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.gene_product_info.gpi.gz,.gz,0.35,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.development_association.wb.gz,.gz,0.35,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.smd_oligo_mapping.txt.gz,.gz,0.34,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.xrefs.txt.gz,.gz,0.33,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.gene_association.wb.gz,.gz,0.33,Compressed archive (may need inspection)
+hub/japonica/japonica_ncRNAs_WS245.bb,.bb,0.32,Unknown/Custom
+hub/japonica/japonica_ncRNAs_WS260.bb,.bb,0.32,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.gene_association.wb.gz,.gz,0.32,Compressed archive (may need inspection)
+hub/japonica/japonica_ncRNAs_WS270.bb,.bb,0.32,Unknown/Custom
+hub/japonica/japonica_ncRNAs_WS297.bb,.bb,0.32,Unknown/Custom
+hub/japonica/japonica_ncRNAs_WS250.bb,.bb,0.32,Unknown/Custom
+hub/japonica/japonica_ncRNAs_WS255.bb,.bb,0.32,Unknown/Custom
+hub/japonica/japonica_ncRNAs_WS265.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS250.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS297.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS270.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS265.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS255.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS260.bb,.bb,0.32,Unknown/Custom
+hub/brenneri/brenneri_ncRNAs_WS245.bb,.bb,0.32,Unknown/Custom
+hub/briggsae/briggsae_cDNAs_WS245.bb,.bb,0.31,Unknown/Custom
+hub/briggsae/briggsae_cDNAs_WS250.bb,.bb,0.31,Unknown/Custom
+hub/briggsae/briggsae_cDNAs_WS260.bb,.bb,0.3,Unknown/Custom
+hub/briggsae/briggsae_cDNAs_WS255.bb,.bb,0.3,Unknown/Custom
+hub/briggsae/briggsae_cDNAs_WS270.bb,.bb,0.3,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.geneOtherIDs.txt.gz,.gz,0.3,Compressed archive (may need inspection)
+hub/briggsae/briggsae_cDNAs_WS297.bb,.bb,0.3,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.gene_association.wb.gz,.gz,0.3,Compressed archive (may need inspection)
+hub/briggsae/briggsae_cDNAs_WS265.bb,.bb,0.3,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.geneOtherIDs.txt.gz,.gz,0.29,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.xrefs.txt.gz,.gz,0.28,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.ests.fa.gz,.gz,0.28,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/c_briggsae.PRJNA10731.WS297.pseudogenic_transcripts.fa.gz,.gz,0.28,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.gene_association.wb.gz,.gz,0.27,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.gene_association.wb.gz,.gz,0.26,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.geneIDs.txt.gz,.gz,0.26,Compressed archive (may need inspection)
+hub/elegans/elegans_pseudogenes_WS297.bb,.bb,0.26,Unknown/Custom
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.geneOtherIDs.txt.gz,.gz,0.26,Compressed archive (may need inspection)
+hub/brugia3/brugia_ncRNAs_WS250.bb,.bb,0.26,Unknown/Custom
+hub/brugia3/brugia.chrom_sizes,.chrom_sizes,0.25,Unknown/Custom
+hub/remanei/remanei_ncRNAs_WS260.bb,.bb,0.24,Unknown/Custom
+hub/remanei/remanei_ncRNAs_WS247.bb,.bb,0.24,Unknown/Custom
+hub/remanei/remanei_ncRNAs_WS250.bb,.bb,0.24,Unknown/Custom
+hub/elegans/elegans_pseudogenes_WS265.bb,.bb,0.24,Unknown/Custom
+hub/remanei/remanei_ncRNAs_WS297.bb,.bb,0.24,Unknown/Custom
+hub/remanei/remanei_ncRNAs_WS270.bb,.bb,0.24,Unknown/Custom
+hub/remanei/remanei_ncRNAs_WS265.bb,.bb,0.24,Unknown/Custom
+hub/elegans/elegans_pseudogenes_WS270.bb,.bb,0.24,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.repeats.fa.gz,.gz,0.24,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.rnai_phenotypes_quick.wb.gz,.gz,0.24,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.geneIDs.txt.gz,.gz,0.24,Compressed archive (may need inspection)
+hub/remanei/remanei_ncRNAs_WS255.bb,.bb,0.24,Unknown/Custom
+hub/brugia3/brugia_ncRNAs_WS245.bb,.bb,0.24,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.geneOtherIDs.txt.gz,.gz,0.23,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.geneOtherIDs.txt.gz,.gz,0.23,Compressed archive (may need inspection)
+hub/elegans/elegans_pseudogenes_WS260.bb,.bb,0.23,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.geneIDs.txt.gz,.gz,0.23,Compressed archive (may need inspection)
+models.wrm.WS297.annot,.annot,0.23,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.geneIDs.txt.gz,.gz,0.23,Compressed archive (may need inspection)
+hub/elegans/elegans_pseudogenes_WS255.bb,.bb,0.23,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.gene_association.wb.gz,.gz,0.23,Compressed archive (may need inspection)
+hub/remanei/remanei_ncRNAs_WS244.bb,.bb,0.22,Unknown/Custom
+hub/elegans/elegans_pseudogenes_WS250.bb,.bb,0.22,Unknown/Custom
+models.wrm.WS297,.ws297,0.21,Unknown/Custom
+hub/elegans/elegans_pseudogenes_WS245.bb,.bb,0.21,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.repeats.fa.gz,.gz,0.2,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.xrefs.txt.gz,.gz,0.19,Compressed archive (may need inspection)
+hub/japonica/japonica_pseudogenes_WS245.bb,.bb,0.19,Unknown/Custom
+hub/japonica/japonica_pseudogenes_WS260.bb,.bb,0.19,Unknown/Custom
+hub/japonica/japonica_pseudogenes_WS270.bb,.bb,0.19,Unknown/Custom
+hub/japonica/japonica_pseudogenes_WS265.bb,.bb,0.19,Unknown/Custom
+hub/japonica/japonica_pseudogenes_WS297.bb,.bb,0.19,Unknown/Custom
+hub/japonica/japonica_pseudogenes_WS250.bb,.bb,0.19,Unknown/Custom
+hub/japonica/japonica_pseudogenes_WS255.bb,.bb,0.19,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.geneIDs.txt.gz,.gz,0.18,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.xrefs.txt.gz,.gz,0.18,Compressed archive (may need inspection)
+hub/briggsae/briggsae_pseudogenes_WS270.bb,.bb,0.17,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.gene_association.wb.gz,.gz,0.17,Compressed archive (may need inspection)
+hub/briggsae/briggsae_pseudogenes_WS297.bb,.bb,0.17,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.gene_association.wb.gz,.gz,0.17,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.xrefs.txt.gz,.gz,0.16,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.transposon_transcripts.fa.gz,.gz,0.16,Compressed archive (may need inspection)
+hub/briggsae/briggsae_ncRNAs_WS297.bb,.bb,0.15,Unknown/Custom
+hub/briggsae/briggsae_ncRNAs_WS265.bb,.bb,0.15,Unknown/Custom
+hub/briggsae/briggsae_ncRNAs_WS270.bb,.bb,0.15,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.geneOtherIDs.txt.gz,.gz,0.15,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.gene_association.wb.gz,.gz,0.15,Compressed archive (may need inspection)
+hub/t_muris/t_muris_ncRNAs_WS297.bb,.bb,0.14,Unknown/Custom
+human_disease.WS297.ace.gz,.gz,0.14,Compressed archive (may need inspection)
+hub/briggsae/briggsae_ncRNAs_WS255.bb,.bb,0.14,Unknown/Custom
+hub/briggsae/briggsae_ncRNAs_WS245.bb,.bb,0.14,Unknown/Custom
+hub/briggsae/briggsae_ncRNAs_WS260.bb,.bb,0.14,Unknown/Custom
+hub/t_muris/t_muris_ncRNAs_WS270.bb,.bb,0.14,Unknown/Custom
+hub/brenneri/brenneri_pseudogenes_WS245.bb,.bb,0.14,Unknown/Custom
+hub/briggsae/briggsae_ncRNAs_WS250.bb,.bb,0.14,Unknown/Custom
+hub/brenneri/brenneri_pseudogenes_WS250.bb,.bb,0.13,Unknown/Custom
+hub/brenneri/brenneri_pseudogenes_WS260.bb,.bb,0.13,Unknown/Custom
+hub/briggsae/briggsae_pseudogenes_WS265.bb,.bb,0.13,Unknown/Custom
+hub/brenneri/brenneri_pseudogenes_WS297.bb,.bb,0.13,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.geneOtherIDs.txt.gz,.gz,0.13,Compressed archive (may need inspection)
+hub/brenneri/brenneri_pseudogenes_WS255.bb,.bb,0.13,Unknown/Custom
+hub/brenneri/brenneri_pseudogenes_WS265.bb,.bb,0.13,Unknown/Custom
+hub/brenneri/brenneri_pseudogenes_WS270.bb,.bb,0.13,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.repeats.fa.gz,.gz,0.11,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.geneIDs.txt.gz,.gz,0.11,Compressed archive (may need inspection)
+hub/brugia/brugia_ncRNAs_WS270.bb,.bb,0.11,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.geneIDs.txt.gz,.gz,0.11,Compressed archive (may need inspection)
+hub/brugia/brugia_ncRNAs_WS297.bb,.bb,0.11,Unknown/Custom
+hub/s_ratti/s_ratti_ncRNAs_WS255.bb,.bb,0.1,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS265.bb,.bb,0.1,Unknown/Custom
+hub/s_ratti/s_ratti_ncRNAs_WS265.bb,.bb,0.1,Unknown/Custom
+hub/brugia/brugia_ncRNAs_WS260.bb,.bb,0.1,Unknown/Custom
+hub/s_ratti/s_ratti_ncRNAs_WS297.bb,.bb,0.1,Unknown/Custom
+hub/brugia/brugia_ncRNAs_WS255.bb,.bb,0.1,Unknown/Custom
+hub/s_ratti/s_ratti_ncRNAs_WS270.bb,.bb,0.1,Unknown/Custom
+CHECKSUMS,,0.1,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS255.bb,.bb,0.1,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS297.bb,.bb,0.1,Unknown/Custom
+hub/briggsae/briggsae_pseudogenes_WS260.bb,.bb,0.1,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS270.bb,.bb,0.1,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS260.bb,.bb,0.1,Unknown/Custom
+hub/brugia/brugia_ncRNAs_WS265.bb,.bb,0.1,Unknown/Custom
+hub/remanei/remanei_pseudogenes_WS244.bb,.bb,0.1,Unknown/Custom
+hub/brugia/brugia_pseudogenes_WS260.bb,.bb,0.09,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.geneIDs.txt.gz,.gz,0.09,Compressed archive (may need inspection)
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.repeats.fa.gz,.gz,0.09,Compressed archive (may need inspection)
+hub/brugia/brugia_pseudogenes_WS255.bb,.bb,0.09,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS245.bb,.bb,0.09,Unknown/Custom
+hub/ovolvulus/ovolvulus_ncRNAs_WS250.bb,.bb,0.09,Unknown/Custom
+hub/brugia/brugia_pseudogenes_WS297.bb,.bb,0.09,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.uniprot_papers.txt.gz,.gz,0.09,Compressed archive (may need inspection)
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.uniprot_papers.txt.gz,.gz,0.09,Compressed archive (may need inspection)
+hub/brugia/brugia_pseudogenes_WS270.bb,.bb,0.09,Unknown/Custom
+hub/brugia/brugia_pseudogenes_WS265.bb,.bb,0.09,Unknown/Custom
+hub/remanei/remanei_pseudogenes_WS270.bb,.bb,0.08,Unknown/Custom
+hub/remanei/remanei_pseudogenes_WS255.bb,.bb,0.08,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.geneOtherIDs.txt.gz,.gz,0.08,Compressed archive (may need inspection)
+hub/remanei/remanei.chrom_sizes,.chrom_sizes,0.08,Unknown/Custom
+hub/remanei/remanei_pseudogenes_WS260.bb,.bb,0.08,Unknown/Custom
+hub/remanei/remanei_pseudogenes_WS297.bb,.bb,0.08,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.repeats.fa.gz,.gz,0.08,Compressed archive (may need inspection)
+hub/remanei/remanei_pseudogenes_WS247.bb,.bb,0.08,Unknown/Custom
+c_elegans/PRJNA13758/c_elegans.PRJNA13758.WS297.transposon_cds.pep.gz,.gz,0.08,Compressed archive (may need inspection)
+hub/remanei/remanei_pseudogenes_WS250.bb,.bb,0.08,Unknown/Custom
+hub/remanei/remanei_pseudogenes_WS265.bb,.bb,0.08,Unknown/Custom
+hub/ovolvulus/ovolvulus_pseudogenes_WS250.bb,.bb,0.07,Unknown/Custom
+hub/briggsae/briggsae_pseudogenes_WS255.bb,.bb,0.07,Unknown/Custom
+hub/ovolvulus/ovolvulus_pseudogenes_WS245.bb,.bb,0.07,Unknown/Custom
+hub/ovolvulus/ovolvulus_pseudogenes_WS297.bb,.bb,0.07,Unknown/Custom
+hub/ovolvulus/ovolvulus_pseudogenes_WS260.bb,.bb,0.07,Unknown/Custom
+hub/ovolvulus/ovolvulus_pseudogenes_WS255.bb,.bb,0.07,Unknown/Custom
+hub/brenneri/brenneri.chrom_sizes,.chrom_sizes,0.07,Unknown/Custom
+hub/ovolvulus/ovolvulus_pseudogenes_WS265.bb,.bb,0.07,Unknown/Custom
+hub/briggsae/briggsae_pseudogenes_WS245.bb,.bb,0.07,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.geneOtherIDs.txt.gz,.gz,0.07,Compressed archive (may need inspection)
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.geneIDs.txt.gz,.gz,0.07,Compressed archive (may need inspection)
+hub/ovolvulus/ovolvulus_pseudogenes_WS270.bb,.bb,0.07,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.repeats.fa.gz,.gz,0.07,Compressed archive (may need inspection)
+hub/briggsae/briggsae_pseudogenes_WS250.bb,.bb,0.07,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.repeats.fa.gz,.gz,0.05,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.uniprot_papers.txt.gz,.gz,0.05,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.repeats.fa.gz,.gz,0.05,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.repeats.fa.gz,.gz,0.04,Compressed archive (may need inspection)
+hub/t_muris/t_muris_ncRNAs_WS265.bb,.bb,0.04,Unknown/Custom
+hub/brugia3/brugia_pseudogenes_WS250.bb,.bb,0.03,Unknown/Custom
+hub/brugia3/brugia_pseudogenes_WS245.bb,.bb,0.03,Unknown/Custom
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.pseudogenic_transcripts.fa.gz,.gz,0.03,Compressed archive (may need inspection)
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.disease_association.daf.txt.gz,.gz,0.03,Compressed archive (may need inspection)
+hub/brugia3/brugia_pseudogenes_WS252.bed,.bed,0.03,Unknown/Custom
+hub/remanei/trackDb.txt,.txt,0.02,Generic data
+hub/ovolvulus/trackDb.txt,.txt,0.02,Generic data
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.interpolated_clones.txt.gz,.gz,0.02,Compressed archive (may need inspection)
+hub/pristionchus/pristionchus_pseudogenes_WS297.bb,.bb,0.02,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.repeats.fa.gz,.gz,0.02,Compressed archive (may need inspection)
+hub/briggsae/trackDb.txt,.txt,0.02,Generic data
+b_malayi/PRJNA10729/b_malayi.PRJNA10729.WS297.ncRNA_transcripts.fa.gz,.gz,0.02,Compressed archive (may need inspection)
+letter.WS297,.ws297,0.02,Unknown/Custom
+hub/japonica/trackDb.txt,.txt,0.02,Generic data
+hub/t_muris/t_muris.chrom_sizes,.chrom_sizes,0.02,Unknown/Custom
+hub/brenneri/trackDb.txt,.txt,0.02,Generic data
+ASSEMBLIES.WS297.json,.json,0.02,"Annotations, metadata, expression"
+hub/elegans/trackDb.txt,.txt,0.02,Generic data
+p_pacificus/PRJNA12644/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+t_muris/PRJEB126/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+t_muris/PRJEB126/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html,.html,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+t_muris/PRJEB126/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/remanei/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/index.html,.html,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html,.html,0.01,Unknown/Custom
+c_elegans/PRJNA13758/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/annotation/index.html,.html,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html,.html,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html,.html,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+t_muris/PRJEB126/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/remanei/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/pristionchus/trackDb.txt,.txt,0.01,Generic data
+hub/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html,.html,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/remanei/index.html,.html,0.01,Unknown/Custom
+hub/remanei/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/remanei/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/index.html,.html,0.01,Unknown/Custom
+hub/remanei/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/remanei/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html,.html,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/remanei/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/remanei/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+t_muris/PRJEB126/annotation/index.html,.html,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+s_ratti/PRJEB125/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+o_volvulus/PRJEB513/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_remanei/PRJNA53967/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+o_volvulus/PRJEB513/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+o_volvulus/PRJEB513/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+b_malayi/PRJNA10729/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.anatomy_association.wb.gz,.gz,0.01,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+o_volvulus/PRJEB513/annotation/index.html,.html,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+o_volvulus/PRJEB513/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html,.html,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_remanei/PRJNA53967/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+b_malayi/PRJNA10729/annotation/index.html,.html,0.01,Unknown/Custom
+c_elegans/PRJNA13758/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+c_remanei/PRJNA53967/annotation/index.html,.html,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_elegans/PRJNA13758/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/index.html,.html,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+s_ratti/PRJEB125/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.omim_xrefs.txt,.txt,0.01,Generic data
+c_elegans/PRJNA13758/annotation/index.html,.html,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html,.html,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+o_volvulus/PRJEB513/o_volvulus.PRJEB513.WS297.pseudogenic_transcripts.fa.gz,.gz,0.01,Compressed archive (may need inspection)
+o_volvulus/PRJEB513/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+c_elegans/PRJNA13758/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_remanei/PRJNA53967/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+o_volvulus/PRJEB513/index.html,.html,0.01,Unknown/Custom
+c_brenneri/PRJNA20035/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/t_muris/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html,.html,0.01,Unknown/Custom
+hub/brugia/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/brugia/trackDb.txt,.txt,0.01,Generic data
+index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+INSTALL,,0.01,Unknown/Custom
+hub/brugia/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/c_nigoni/trackDb.txt,.txt,0.01,Generic data
+files_in_tar,,0.01,Unknown/Custom
+hub/japonica/index.html,.html,0.01,Unknown/Custom
+hub/japonica/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/brugia/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/brugia/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/japonica/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/japonica/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/japonica/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/annotation/index.html,.html,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/brenneri/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/t_muris/trackDb.txt,.txt,0.01,Generic data
+hub/brenneri/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/brenneri/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/t_muris/index.html,.html,0.01,Unknown/Custom
+hub/t_muris/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/t_muris/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/t_muris/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/t_muris/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/t_muris/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+t_muris/PRJEB126/index.html,.html,0.01,Unknown/Custom
+hub/t_muris/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/ovolvulus/ovolvulus.chrom_sizes,.chrom_sizes,0.01,Unknown/Custom
+hub/t_muris/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/brugia/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/brugia/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/brugia/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/briggsae/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/s_ratti/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/briggsae/briggsae.chrom_sizes,.chrom_sizes,0.01,Unknown/Custom
+hub/s_ratti/trackDb.txt,.txt,0.01,Generic data
+hub/s_ratti/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/s_ratti/index.html,.html,0.01,Unknown/Custom
+hub/elegans/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/elegans/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/japonica/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/japonica/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/japonica/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/brugia/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/japonica/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/brugia/index.html,.html,0.01,Unknown/Custom
+hub/elegans/index.html,.html,0.01,Unknown/Custom
+hub/elegans/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+index.html,.html,0.01,Unknown/Custom
+hub/elegans/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/elegans/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/briggsae/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/elegans/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/elegans/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/elegans/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/brenneri/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+b_malayi/PRJNA10729/index.html,.html,0.01,Unknown/Custom
+hub/brugia3/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/documentation/hubCentral.html,.html,0.01,Unknown/Custom
+index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/brugia3/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/brugia3/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/brugia3/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/brugia3/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/brugia3/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+hub/brugia3/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+WS296-WS297.dbcomp,.dbcomp,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/index.html,.html,0.01,Unknown/Custom
+index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+c_japonica/PRJNA12591/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/brenneri/index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/brenneri/index.html?C=M;O=A,.html?c=m;o=a,0.01,Unknown/Custom
+hub/brenneri/index.html?C=M;O=D,.html?c=m;o=d,0.01,Unknown/Custom
+hub/ovolvulus/index.html?C=D;O=A,.html?c=d;o=a,0.01,Unknown/Custom
+hub/brenneri/index.html?C=N;O=A,.html?c=n;o=a,0.01,Unknown/Custom
+hub/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/index.html?C=S;O=A,.html?c=s;o=a,0.01,Unknown/Custom
+index.html?C=D;O=D,.html?c=d;o=d,0.01,Unknown/Custom
+hub/brenneri/index.html,.html,0.01,Unknown/Custom
+hub/brugia3/index.html?C=S;O=D,.html?c=s;o=d,0.01,Unknown/Custom
+hub/brugia3/index.html,.html,0.01,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/index.html?C=N;O=D,.html?c=n;o=d,0.01,Unknown/Custom
+b_malayi/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_brenneri/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_brenneri/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_becei/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html,.html,0.0,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_quiockensis/PRJEB11354/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+b_malayi/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+b_malayi/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+b_malayi/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+b_malayi/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+b_malayi/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+b_malayi/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+b_malayi/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_becei/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+b_malayi/index.html,.html,0.0,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_zanzibari/PRJEB12596/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_becei/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_becei/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_brenneri/index.html,.html,0.0,Unknown/Custom
+c_brenneri/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_brenneri/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_brenneri/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_brenneri/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_quiockensis/index.html,.html,0.0,Unknown/Custom
+c_quiockensis/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html,.html,0.0,Unknown/Custom
+c_quiockensis/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_quiockensis/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_becei/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_becei/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_quiockensis/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_quiockensis/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_becei/index.html,.html,0.0,Unknown/Custom
+c_quiockensis/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_quiockensis/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.uniprot_papers.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_remanei/PRJNA577507/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_quiockensis/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_becei/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_remanei/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_becei/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_brenneri/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_brenneri/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_quiockensis/PRJEB11354/index.html,.html,0.0,Unknown/Custom
+c_remanei/PRJNA577507/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA53967/annotation/c_remanei.PRJNA53967.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_becei/PRJEB28243/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_remanei/index.html,.html,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_remanei/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_remanei/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_remanei/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_remanei/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_remanei/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_remanei/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_brenneri/PRJNA20035/c_brenneri.PRJNA20035.WS297.pseudogenic_transcripts.fa.gz,.gz,0.0,Compressed archive (may need inspection)
+c_remanei/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_remanei/PRJNA53967/c_remanei.PRJNA53967.WS297.pseudogenic_transcripts.fa.gz,.gz,0.0,Compressed archive (may need inspection)
+c_becei/PRJEB28243/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_brenneri/PRJNA20035/annotation/c_brenneri.PRJNA20035.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+p_pacificus/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_briggsae/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_briggsae/index.html,.html,0.0,Unknown/Custom
+c_briggsae/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_briggsae/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_briggsae/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_briggsae/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_briggsae/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_briggsae/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_briggsae/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+o_tipulae/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+o_tipulae/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+o_tipulae/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+o_tipulae/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+o_tipulae/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+o_tipulae/index.html,.html,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+o_tipulae/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_panamensis/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+o_tipulae/PRJEB15512/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+p_pacificus/PRJNA12644/p_pacificus.PRJNA12644.WS297.pseudogenic_transcripts.fa.gz,.gz,0.0,Compressed archive (may need inspection)
+c_panamensis/index.html,.html,0.0,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.uniprot_papers.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+o_tipulae/PRJEB15512/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+o_tipulae/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+o_tipulae/PRJEB15512/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+p_pacificus/PRJNA12644/annotation/p_pacificus.PRJNA12644.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+o_tipulae/PRJEB15512/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+o_tipulae/PRJEB15512/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+o_tipulae/PRJEB15512/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+o_tipulae/PRJEB15512/index.html,.html,0.0,Unknown/Custom
+o_tipulae/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_uteleia/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_uteleia/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_uteleia/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_uteleia/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_uteleia/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_uteleia/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html,.html,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+md5sum.WS297,.ws297,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+GFF3_comparison_report.WS297.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_uteleia/PRJEB12600/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_uteleia/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_uteleia/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_uteleia/index.html,.html,0.0,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_bovis/PRJEB34497/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_bovis/PRJEB34497/index.html,.html,0.0,Unknown/Custom
+c_bovis/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_bovis/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_bovis/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_bovis/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_briggsae/PRJNA10731/annotation/c_briggsae.PRJNA10731.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_bovis/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_bovis/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_bovis/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_bovis/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_bovis/index.html,.html,0.0,Unknown/Custom
+c_panamensis/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_panamensis/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html,.html,0.0,Unknown/Custom
+c_angaria/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_angaria/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_angaria/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.uniprot_papers.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_angaria/PRJNA51225/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_angaria/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_angaria/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_tribulationis/index.html,.html,0.0,Unknown/Custom
+c_tribulationis/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_tribulationis/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_tribulationis/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_tribulationis/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+b_malayi/PRJNA10729/annotation/b_malayi.PRJNA10729.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_panamensis/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_zanzibari/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_zanzibari/PRJEB12596/index.html,.html,0.0,Unknown/Custom
+c_zanzibari/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_zanzibari/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_zanzibari/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_zanzibari/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_zanzibari/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_zanzibari/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_zanzibari/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_zanzibari/index.html,.html,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_angaria/PRJNA51225/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_tribulationis/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_tribulationis/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_tribulationis/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+p_pacificus/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+p_pacificus/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+p_pacificus/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+p_pacificus/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+p_pacificus/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+p_pacificus/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_tribulationis/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html,.html,0.0,Unknown/Custom
+c_panamensis/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_panamensis/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_panamensis/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_panamensis/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+p_pacificus/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+p_pacificus/index.html,.html,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html,.html,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_angaria/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_angaria/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_angaria/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_angaria/index.html,.html,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_tribulationis/PRJEB12608/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_panamensis/PRJEB28259/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_inopinata/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_becei/PRJEB28243/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_latens/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+s_ratti/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+s_ratti/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+s_ratti/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+s_ratti/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+s_ratti/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+s_ratti/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+s_ratti/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+s_ratti/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_latens/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_latens/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_latens/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_latens/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_latens/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_latens/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_latens/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_latens/index.html,.html,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+s_ratti/index.html,.html,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html,.html,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html,.html,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html,.html,0.0,Unknown/Custom
+p_redivivus/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+p_redivivus/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+p_redivivus/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+p_redivivus/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+p_redivivus/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+p_redivivus/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+p_redivivus/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+p_redivivus/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+p_redivivus/index.html,.html,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_latens/PRJNA248912/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+o_volvulus/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+o_volvulus/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+o_volvulus/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+o_volvulus/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+o_volvulus/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+o_volvulus/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+o_volvulus/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html,.html,0.0,Unknown/Custom
+c_tropicalis/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_tropicalis/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+o_volvulus/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+o_volvulus/index.html,.html,0.0,Unknown/Custom
+c_tropicalis/PRJNA53597/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_sulstoni/PRJEB12601/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_sulstoni/PRJEB12601/index.html,.html,0.0,Unknown/Custom
+c_sulstoni/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_sulstoni/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_sulstoni/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_sulstoni/index.html,.html,0.0,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_sulstoni/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_sulstoni/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_sulstoni/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_sulstoni/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+s_ratti/PRJEB125/annotation/s_ratti.PRJEB125.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_sulstoni/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+hub/documentation/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+hub/ovolvulus/description.html,.html,0.0,Unknown/Custom
+hub/brenneri/description.html,.html,0.0,Unknown/Custom
+hub/brugia3/trackDb.txt,.txt,0.0,Generic data
+hub/brugia3/brugia_pseudogenes_WS250.bed,.bed,0.0,Unknown/Custom
+hub/brugia3/best_pseudogene_252.bed,.bed,0.0,Unknown/Custom
+hub/documentation/index.html,.html,0.0,Unknown/Custom
+hub/documentation/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+hub/documentation/gene_tracks.html,.html,0.0,Unknown/Custom
+hub/documentation/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+hub/documentation/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+hub/documentation/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+hub/documentation/hub.html,.html,0.0,Unknown/Custom
+hub/documentation/cdna_tracks.html,.html,0.0,Unknown/Custom
+hub/documentation/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+hub/documentation/phastcons.html,.html,0.0,Unknown/Custom
+hub/documentation/phylop.html,.html,0.0,Unknown/Custom
+hub/documentation/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+hub/t_muris/description.html,.html,0.0,Unknown/Custom
+hub/c_nigoni/c_nigoni.chrom_sizes,.chrom_sizes,0.0,Unknown/Custom
+hub/c_nigoni/index.html,.html,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+hub/s_ratti/s_ratti.chrom_sizes,.chrom_sizes,0.0,Unknown/Custom
+hub/briggsae/description.html,.html,0.0,Unknown/Custom
+hub/s_ratti/description.html,.html,0.0,Unknown/Custom
+hub/elegans/elegans.chrom_sizes,.chrom_sizes,0.0,Unknown/Custom
+hub/elegans/description.html,.html,0.0,Unknown/Custom
+hub/japonica/description.html,.html,0.0,Unknown/Custom
+hub/brugia/description.html,.html,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+hub/brugia/brugia.chrom_sizes,.chrom_sizes,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+hub/c_nigoni/description.html,.html,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+hub/c_nigoni/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+hub/documentation/repeatmasker.html,.html,0.0,Unknown/Custom
+hub/documentation/alignability.html,.html,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+hub/documentation/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+hub/pristionchus/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+hub/pristionchus/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+hub/ensembl.txt,.txt,0.0,Generic data
+hub/pristionchus/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+hub/lod.txt,.txt,0.0,Generic data
+hub/pristionchus/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+hub/description.html,.html,0.0,Unknown/Custom
+hub/groups.txt,.txt,0.0,Generic data
+hub/neutral_4d.mod,.mod,0.0,Unknown/Custom
+hub/remanei/groups.txt,.txt,0.0,Generic data
+hub/genomes.txt,.txt,0.0,Generic data
+hub/remanei/description.html,.html,0.0,Unknown/Custom
+hub/haltree.nw,.nw,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+p_redivivus/PRJNA186477/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+hub/pristionchus/description.html,.html,0.0,Unknown/Custom
+hub/pristionchus/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+hub/pristionchus/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+hub/lod/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+hub/brugia3/description.html,.html,0.0,Unknown/Custom
+hub/lod/index.html,.html,0.0,Unknown/Custom
+hub/lod/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+hub/lod/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+hub/lod/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+hub/lod/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+hub/lod/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+hub/lod/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+hub/pristionchus/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+hub/lod/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+hub/hub.txt,.txt,0.0,Generic data
+hub/hubTreeModified.nw,.nw,0.0,Unknown/Custom
+hub/pristionchus/index.html,.html,0.0,Unknown/Custom
+hub/pristionchus/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+hub/ensembl_genomes.txt,.txt,0.0,Generic data
+hub/pristionchus/pristionchus.chrom_sizes,.chrom_sizes,0.0,Unknown/Custom
+c_tropicalis/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_tropicalis/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_tropicalis/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_inopinata/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_inopinata/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_inopinata/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_inopinata/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_inopinata/index.html,.html,0.0,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_elegans/PRJNA275000/index.html,.html,0.0,Unknown/Custom
+c_elegans/PRJNA275000/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_elegans/PRJNA275000/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_elegans/PRJNA275000/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_elegans/PRJNA275000/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_elegans/PRJNA275000/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_elegans/PRJNA275000/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_elegans/PRJNA275000/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+t_muris/PRJEB126/annotation/t_muris.PRJEB126.WS297.SRA_gene_expression.tar.gz,.gz,0.0,Compressed archive (may need inspection)
+c_inopinata/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_inopinata/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_inopinata/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_nigoni/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_nigoni/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_nigoni/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_nigoni/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_nigoni/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_nigoni/index.html,.html,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html,.html,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_inopinata/PRJDB5687/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.changed_CGC_names.txt,.txt,0.0,Generic data
+c_inopinata/PRJDB5687/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_elegans/PRJNA13758/annotation/c_elegans.PRJNA13758.WS297.readable_changed_CGC_names.txt,.txt,0.0,Generic data
+c_elegans/PRJNA275000/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html,.html,0.0,Unknown/Custom
+c_nigoni/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+t_muris/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+t_muris/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+t_muris/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_japonica/PRJNA12591/c_japonica.PRJNA12591.WS297.pseudogenic_transcripts.fa.gz,.gz,0.0,Compressed archive (may need inspection)
+t_muris/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+t_muris/index.html,.html,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_japonica/PRJNA12591/annotation/c_japonica.PRJNA12591.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+Non_C_elegans_BLASTX/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+Non_C_elegans_BLASTX/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+t_muris/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+t_muris/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+t_muris/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_japonica/index.html,.html,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_elegans/PRJEB28388/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_japonica/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+t_muris/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_japonica/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_japonica/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_japonica/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_japonica/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_japonica/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_japonica/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_japonica/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_nigoni/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_nigoni/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_tropicalis/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_sinica/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_sinica/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_sinica/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_sinica/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_sinica/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_sinica/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html,.html,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_sinica/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_sinica/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_sinica/index.html,.html,0.0,Unknown/Custom
+c_waitukubuli/PRJEB12602/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_tropicalis/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_tropicalis/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_tropicalis/index.html,.html,0.0,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.anatomy_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.phenotype_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.development_association.wb.gz,.gz,0.0,Compressed archive (may need inspection)
+c_waitukubuli/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_waitukubuli/PRJEB12602/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_waitukubuli/PRJEB12602/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+o_volvulus/PRJEB513/annotation/o_volvulus.PRJEB513.WS297.disease_association.daf.txt.gz,.gz,0.0,Compressed archive (may need inspection)
+c_waitukubuli/PRJEB12602/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_waitukubuli/PRJEB12602/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_waitukubuli/PRJEB12602/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_waitukubuli/PRJEB12602/index.html,.html,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html,.html,0.0,Unknown/Custom
+c_waitukubuli/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_parvicauda/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_parvicauda/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_parvicauda/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_parvicauda/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_parvicauda/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_parvicauda/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_parvicauda/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_parvicauda/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_parvicauda/index.html,.html,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_nigoni/PRJNA384657/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html,.html,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_elegans/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_waitukubuli/index.html,.html,0.0,Unknown/Custom
+c_sinica/PRJNA194557/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_elegans/index.html,.html,0.0,Unknown/Custom
+c_elegans/index.html?C=N;O=A,.html?c=n;o=a,0.0,Unknown/Custom
+c_elegans/index.html?C=M;O=D,.html?c=m;o=d,0.0,Unknown/Custom
+c_elegans/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_elegans/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_elegans/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=M;O=A,.html?c=m;o=a,0.0,Unknown/Custom
+c_elegans/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_elegans/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=D;O=A,.html?c=d;o=a,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=N;O=D,.html?c=n;o=d,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=S;O=A,.html?c=s;o=a,0.0,Unknown/Custom
+c_parvicauda/PRJEB12595/index.html?C=D;O=D,.html?c=d;o=d,0.0,Unknown/Custom
+c_uteleia/PRJEB12600/index.html?C=S;O=D,.html?c=s;o=d,0.0,Unknown/Custom

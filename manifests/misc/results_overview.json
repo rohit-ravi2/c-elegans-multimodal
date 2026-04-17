@@ -1,0 +1,287 @@
+{
+  "backbone_leaderboard": [
+    {
+      "backbone": "gcn",
+      "val_macroF1_mean": 0.7785321594276323,
+      "val_balAcc_mean": 0.8366760140863441,
+      "val_weightedF1_mean": 0.8517719009227785,
+      "val_macroF1_std": 0.23480133549000018,
+      "val_balAcc_std": 0.23314323292813116,
+      "val_weightedF1_std": 0.22015531447531916
+    },
+    {
+      "backbone": "gat",
+      "val_macroF1_mean": 0.7726879654279846,
+      "val_balAcc_mean": 0.8401126641836828,
+      "val_weightedF1_mean": 0.8534578916327784,
+      "val_macroF1_std": 0.23593719191084073,
+      "val_balAcc_std": 0.2197547869957493,
+      "val_weightedF1_std": 0.20981089817210571
+    },
+    {
+      "backbone": "mlp",
+      "val_macroF1_mean": 0.7280963576870951,
+      "val_balAcc_mean": 0.7782241472592979,
+      "val_weightedF1_mean": 0.7984759254956812,
+      "val_macroF1_std": 0.2523505502226542,
+      "val_balAcc_std": 0.21922594530777387,
+      "val_weightedF1_std": 0.26004933688173587
+    },
+    {
+      "backbone": "gin",
+      "val_macroF1_mean": 0.7173546505349112,
+      "val_balAcc_mean": 0.8228337656816854,
+      "val_weightedF1_mean": 0.7625897841895825,
+      "val_macroF1_std": 0.32580432028162576,
+      "val_balAcc_std": 0.1970331716241258,
+      "val_weightedF1_std": 0.31634694339432623
+    },
+    {
+      "backbone": "sage",
+      "val_macroF1_mean": 0.701483091151019,
+      "val_balAcc_mean": 0.7846500756005778,
+      "val_weightedF1_mean": 0.7528738407289566,
+      "val_macroF1_std": 0.3046327165118831,
+      "val_balAcc_std": 0.23730170270217843,
+      "val_weightedF1_std": 0.3131162804372987
+    }
+  ],
+  "ablation_summary": [
+    {
+      "abla": "topo_only",
+      "val_macroF1_mean": 0.7646682919913415,
+      "val_balAcc_mean": 0.8440299817882314,
+      "val_weightedF1_mean": 0.8399904194088089,
+      "val_macroF1_std": 0.24500691060636093,
+      "val_balAcc_std": 0.212400639776671,
+      "val_weightedF1_std": 0.23729581496883778
+    },
+    {
+      "abla": "core_only",
+      "val_macroF1_mean": 0.7641443629714234,
+      "val_balAcc_mean": 0.8523737011434285,
+      "val_weightedF1_mean": 0.8378313714621193,
+      "val_macroF1_std": 0.2535453608345931,
+      "val_balAcc_std": 0.19465901314899836,
+      "val_weightedF1_std": 0.2488859429600646
+    },
+    {
+      "abla": "all_blocks",
+      "val_macroF1_mean": 0.7594494998265403,
+      "val_balAcc_mean": 0.8280391432256569,
+      "val_weightedF1_mean": 0.842013995371585,
+      "val_macroF1_std": 0.25069454376139694,
+      "val_balAcc_std": 0.2374998819407662,
+      "val_weightedF1_std": 0.22470126560962997
+    },
+    {
+      "abla": "core+topo",
+      "val_macroF1_mean": 0.7594494998265403,
+      "val_balAcc_mean": 0.8280391432256569,
+      "val_weightedF1_mean": 0.842013995371585,
+      "val_macroF1_std": 0.25069454376139694,
+      "val_balAcc_std": 0.2374998819407662,
+      "val_weightedF1_std": 0.22470126560962997
+    }
+  ],
+  "top10_backbone_runs": [
+    {
+      "backbone": "mlp",
+      "seed": 13,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "sage",
+      "seed": 34,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "gat",
+      "seed": 13,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "gat",
+      "seed": 34,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "gat",
+      "seed": 34,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "gat",
+      "seed": 13,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "gcn",
+      "seed": 34,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "sage",
+      "seed": 13,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "sage",
+      "seed": 13,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "backbone": "gcn",
+      "seed": 34,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    }
+  ],
+  "top10_ablation_runs": [
+    {
+      "abla": "core_only",
+      "seed": 13,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "core+topo",
+      "seed": 34,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "topo_only",
+      "seed": 21,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "topo_only",
+      "seed": 34,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "topo_only",
+      "seed": 34,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "core+topo",
+      "seed": 13,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "core+topo",
+      "seed": 21,
+      "fold": 0,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "core+topo",
+      "seed": 21,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "core+topo",
+      "seed": 34,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    },
+    {
+      "abla": "topo_only",
+      "seed": 13,
+      "fold": 3,
+      "val_macroF1": 1.0,
+      "val_balAcc": 1.0,
+      "val_weightedF1": 1.0
+    }
+  ],
+  "summary_bullets": [
+    "Best backbone by Macro-F1: gcn (macroF1=0.779\u00b10.235, balAcc=0.837\u00b10.233)",
+    "Ablation: all_blocks (macroF1=0.759) vs best single (topo_only: 0.765)"
+  ],
+  "paired_gcn_vs_mlp": [
+    {
+      "metric": "val_macroF1",
+      "n_pairs": 15,
+      "gcn_mean": 0.7728358106786027,
+      "mlp_mean": 0.7289184495684107,
+      "mean_delta": 0.04391736111019219,
+      "std_delta": 0.1248722890678678,
+      "t_stat": 1.3621213277888053,
+      "p_value": 0.19467438311618854
+    },
+    {
+      "metric": "val_balAcc",
+      "n_pairs": 15,
+      "gcn_mean": 0.8364373288117907,
+      "mlp_mean": 0.7788936833664236,
+      "mean_delta": 0.057543645445367095,
+      "std_delta": 0.11930579550140294,
+      "t_stat": 1.8680197349453183,
+      "p_value": 0.08283177247454018
+    },
+    {
+      "metric": "val_weightedF1",
+      "n_pairs": 15,
+      "gcn_mean": 0.8515514235178451,
+      "mlp_mean": 0.7992126710549514,
+      "mean_delta": 0.052338752462893635,
+      "std_delta": 0.11371526871141717,
+      "t_stat": 1.782584862587652,
+      "p_value": 0.09634415278065374
+    }
+  ]
+}

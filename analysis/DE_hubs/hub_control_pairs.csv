@@ -1,0 +1,181 @@
+hub_def,hub,control
+degree, AIBL        ,PLMR 
+degree, AIBL        , OLQVR         
+degree, AIBL        , SMBVL       
+degree, OLQDL         , AIBR          
+degree, OLQDL         , dBWMR8      
+degree, OLQDL         , dBWML10     
+degree, AVAL        , VA04          
+degree, AVAL        , VD07        
+degree, AVAL        ,RMFL
+degree, RMHR        , vBWMR6      
+degree, RMHR        , VB11        
+degree, RMHR        , VD05        
+degree, URXR        ,vm1pL 
+degree, URXR        ,um2aL  
+degree, URXR        ,AVKL 
+degree, SMBDR       , ASGL        
+degree, SMBDR       , VA02        
+degree, SMBDR       , VB10        
+degree, RIMR        ,IL2DL
+degree, RIMR        , AWBL        
+degree, RIMR        ,VD10 
+degree, FLPL        , AIAR        
+degree, FLPL        , SAADR       
+degree, FLPL        ,M4 
+degree, SMDDR       , vBWML5        
+degree, SMDDR       ,AIML 
+degree, SMDDR       , VB09        
+degree, FLPR        , SMBDL         
+degree, FLPR        ,PVCL
+degree, FLPR        ,AVJL
+degree, AVKL          ,intR 
+degree, AVKL          , RIGR        
+degree, AVKL          , SDQR        
+degree, ADER          ,ASKL
+degree, ADER          , vBWMR9        
+degree, ADER          , dBWML22     
+degree, AIML        ,dBWML1 
+degree, AIML        , dBWML16     
+degree, AIML        , RIR         
+degree, RMEV        , vBWML13       
+degree, RMEV        ,mc3dl 
+degree, RMEV        ,dBWML17 
+degree, DVC           , URYDR         
+degree, DVC           , M2L           
+degree, DVC           , pm7vr       
+degree, AVHR        , VD05          
+degree, AVHR        , PVWL        
+degree, AVHR        , URADR       
+degree, AVBR        , pm1vl       
+degree, AVBR        , um2pR       
+degree, AVBR        , pm6vr       
+degree, SAAVR       ,IL2DL 
+degree, SAAVR       , M2R           
+degree, SAAVR       , ADFL        
+degree, IL1L        , AVJR        
+degree, IL1L        ,SIAVL 
+degree, IL1L        ,RMDDR 
+degree, BAGR        ,PVPL
+degree, BAGR        ,HSNR 
+degree, BAGR        , ALA           
+betweenness,AINL,mc2dl 
+betweenness,AINL, dBWMR6      
+betweenness,AINL, VA09          
+betweenness, ASIL          ,vBWMR15 
+betweenness, ASIL          , pm4vr         
+betweenness, ASIL          ,RMHL 
+betweenness, IL1L          ,VD02 
+betweenness, IL1L          ,hyp 
+betweenness, IL1L          , RMDDL         
+betweenness, IL1VL         , ADAR        
+betweenness, IL1VL         ,VD11 
+betweenness, IL1VL         ,dBWMR13 
+betweenness, URYVL         ,PVR
+betweenness, URYVL         ,AWCR
+betweenness, URYVL         , VB05        
+betweenness, AVL           , ALA         
+betweenness, AVL           , vBWML22     
+betweenness, AVL           , AUAL          
+betweenness, RMEV          ,RMGR 
+betweenness, RMEV          , VA04          
+betweenness, RMEV          , PVCL        
+betweenness, ADEL          , dBWML21     
+betweenness, ADEL          , RIFL        
+betweenness, ADEL          , AIMR          
+betweenness, RMER        , VA01          
+betweenness, RMER        ,dBWML5 
+betweenness, RMER        ,RIR
+betweenness, RMDL        , dBWMR18     
+betweenness, RMDL        ,IL2L
+betweenness, RMDL        ,um2pL 
+betweenness, URAVL       , OLQDL       
+betweenness, URAVL       , VC05        
+betweenness, URAVL       ,ASGL 
+betweenness, CEPVL         ,dBWMR16 
+betweenness, CEPVL         , AS05          
+betweenness, CEPVL         ,ALML 
+betweenness, RIBR          , VA12          
+betweenness, RIBR          , SAADL       
+betweenness, RIBR          , VA03          
+betweenness, SIAVR         ,ASJL 
+betweenness, SIAVR         , AVBL        
+betweenness, SIAVR         , dBWMR12     
+betweenness, BDUL          ,BWM-VL06
+betweenness, BDUL          ,dBWML8 
+betweenness, BDUL          , AS05          
+betweenness, PVCR          , dBWML11     
+betweenness, PVCR          , PVWR          
+betweenness, PVCR          , VD11        
+betweenness, PVDR          , vm2aL         
+betweenness, PVDR          , AS09          
+betweenness, PVDR          ,ADER
+betweenness, AVKR        , ADFR          
+betweenness, AVKR        ,PHBL 
+betweenness, AVKR        ,IL1DR
+betweenness, AUAR        ,DVC 
+betweenness, AUAR        , VB04          
+betweenness, AUAR        ,PHBL 
+betweenness, RMDVL       , SMDDL         
+betweenness, RMDVL       , IL2R        
+betweenness, RMDVL       ,vBWMR24 
+cycle,AINL, M1          
+cycle,AINL, ASGL        
+cycle,AINL,AVFR
+cycle, ASIL          ,BWM-VL01
+cycle, ASIL          , CEPDR         
+cycle, ASIL          , AVAR          
+cycle, IL1L          ,AVHL 
+cycle, IL1L          , VA12        
+cycle, IL1L          , DB06          
+cycle, IL1VL         ,pm4d 
+cycle, IL1VL         , AIAL          
+cycle, IL1VL         , RMFL        
+cycle, URYVL         ,BWM-DL02
+cycle, URYVL         ,AWAR 
+cycle, URYVL         ,AWAL
+cycle, AVL           , I4            
+cycle, AVL           ,dBWMR18 
+cycle, AVL           , AVG         
+cycle, RMEV          , OLLL          
+cycle, RMEV          , AS04          
+cycle, RMEV          ,ASJR
+cycle, ADEL          ,AVFR 
+cycle, ADEL          , IL1VL       
+cycle, ADEL          , vBWML5      
+cycle, RMER        ,BAGR
+cycle, RMER        , vBWMR1        
+cycle, RMER        , AVKL          
+cycle, RMDL        ,GLRDR
+cycle, RMDL        , dBWML12       
+cycle, RMDL        , vBWMR14     
+cycle, URAVL       , RMGR          
+cycle, URAVL       ,DB01 
+cycle, URAVL       , RICL          
+cycle, CEPVL         , AVG           
+cycle, CEPVL         ,URAVR
+cycle, CEPVL         ,dBWMR7 
+cycle, RIBR          ,OLQVL
+cycle, RIBR          , PVWR          
+cycle, RIBR          , ASHR        
+cycle, SIAVR         ,BWM-DR04
+cycle, SIAVR         ,AS01 
+cycle, SIAVR         , vm1aR       
+cycle, BDUL          , RIFL        
+cycle, BDUL          , PVT         
+cycle, BDUL          , AVKL          
+cycle, PVCR          , um2aR       
+cycle, PVCR          ,AIAL
+cycle, PVCR          ,GLRL
+cycle, PVDR          , dBWMR4      
+cycle, PVDR          , RIVR          
+cycle, PVDR          , VD09          
+cycle, AVKR        ,BWM-VL03
+cycle, AVKR        ,dBWMR15 
+cycle, AVKR        ,AUAL 
+cycle, AUAR        ,vBWMR18 
+cycle, AUAR        ,ASER 
+cycle, AUAR        ,anal 
+cycle, RMDVL       ,RMHL 
+cycle, RMDVL       , DA03          
+cycle, RMDVL       , dBWML14     

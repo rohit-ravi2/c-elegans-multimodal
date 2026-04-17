@@ -1,0 +1,839 @@
+neuron,degree,betweenness,cycle_centrality,Type
+AINL,0.0,0.0,0,Unknown
+AINR,0.0,0.0,0,Unknown
+ASIR,0.0,0.0,0,Unknown
+ASJR,0.0,0.0,0,Unknown
+PVT,0.0,0.0,0,Unknown
+RIAR,0.0,0.0,0,Unknown
+RIH,0.0,0.0,0,Unknown
+RIMR,0.0,0.0,0,Unknown
+SMBVR,0.0,0.0,0,Unknown
+ADER,0.0,0.0,0,Unknown
+ASIL,0.0,0.0,0,Unknown
+BDUR,0.0,0.0,0,Unknown
+DVC,0.0,0.0,0,Unknown
+AVFR,0.0,0.0,0,Unknown
+CEPVR,0.0,0.0,0,Unknown
+URYVR,0.0,0.0,0,Unknown
+ADLR,0.0,0.0,0,Unknown
+RMFL,0.0,0.0,0,Unknown
+AIBR,0.0,0.0,0,Unknown
+AVAR,0.0,0.0,0,Interneuron
+AIBL,0.0,0.0,0,Unknown
+AIYR,0.0,0.0,0,Unknown
+AUAR,0.0,0.0,0,Unknown
+URXR,0.0,0.0,0,Unknown
+AFDR,0.0,0.0,0,Sensory
+BAGL,0.0,0.0,0,Unknown
+ASEL,0.0,0.0,0,Sensory
+RID,0.0,0.0,0,Unknown
+RIML,0.0,0.0,0,Unknown
+AVHR,0.0,0.0,0,Unknown
+CEPVL,0.0,0.0,0,Unknown
+ASKR,0.0,0.0,0,Unknown
+AWCR,0.0,0.0,0,Sensory
+ASGR,0.0,0.0,0,Unknown
+BAGR,0.0,0.0,0,Unknown
+ASJL,0.0,0.0,0,Unknown
+URBL,0.0,0.0,0,Unknown
+BDUL,0.0,0.0,0,Unknown
+IL2DL,0.0,0.0,0,Unknown
+PVQL,0.0,0.0,0,Unknown
+AWCL,0.0,0.0,0,Sensory
+RIS,0.0,0.0,0,Unknown
+RIVR,0.0,0.0,0,Unknown
+URYVL,0.0,0.0,0,Unknown
+RIFL,0.0,0.0,0,Unknown
+ASGL,0.0,0.0,0,Unknown
+IL2DR,0.0,0.0,0,Unknown
+SMBDL,0.0,0.0,0,Unknown
+IL1R,0.0,0.0,0,Unknown
+IL2VR,0.0,0.0,0,Unknown
+RMDL,0.0,0.0,0,Unknown
+RMDR,0.0,0.0,0,Unknown
+RMDVL,0.0,0.0,0,Unknown
+RMDVR,0.0,0.0,0,Unknown
+SMBVL,0.0,0.0,0,Unknown
+SMDDL,0.0,0.0,0,Unknown
+SMDDR,0.0,0.0,0,Unknown
+SMDVL,0.0,0.0,0,Unknown
+SMDVR,0.0,0.0,0,Unknown
+RIVL,0.0,0.0,0,Unknown
+RICR,0.0,0.0,0,Unknown
+ALNR,0.0,0.0,0,Unknown
+CEPDR,0.0,0.0,0,Unknown
+RMFR,0.0,0.0,0,Unknown
+CEPDL,0.0,0.0,0,Unknown
+ASHR,0.0,0.0,0,Sensory
+AIYL,0.0,0.0,0,Unknown
+AWBR,0.0,0.0,0,Unknown
+SIADL,0.0,0.0,0,Unknown
+SIBDL,0.0,0.0,0,Unknown
+DVA,0.0,0.0,0,Unknown
+SAAVL,0.0,0.0,0,Unknown
+SIAVL,0.0,0.0,0,Unknown
+PVPR,0.0,0.0,0,Unknown
+URYDL,0.0,0.0,0,Unknown
+AVBR,0.0,0.0,0,Interneuron
+OLLL,0.0,0.0,0,Unknown
+AVAL,0.0,0.0,0,Interneuron
+AVDR,0.0,0.0,0,Interneuron
+AVEL,0.0,0.0,0,Interneuron
+AVER,0.0,0.0,0,Interneuron
+SIBVL,0.0,0.0,0,Unknown
+URYDR,0.0,0.0,0,Unknown
+AVBL,0.0,0.0,0,Interneuron
+AVDL,0.0,0.0,0,Interneuron
+OLLR,0.0,0.0,0,Unknown
+OLQVR,0.0,0.0,0,Unknown
+OLQDR,0.0,0.0,0,Unknown
+SIBDR,0.0,0.0,0,Unknown
+RICL,0.0,0.0,0,Unknown
+ADAR,0.0,0.0,0,Unknown
+AVKR,0.0,0.0,0,Unknown
+SAADR,0.0,0.0,0,Unknown
+AVKL,0.0,0.0,0,Unknown
+SAADL,0.0,0.0,0,Unknown
+SAAVR,0.0,0.0,0,Unknown
+HSNL,0.0,0.0,0,Unknown
+HSNR,0.0,0.0,0,Unknown
+URAVR,0.0,0.0,0,Unknown
+URBR,0.0,0.0,0,Unknown
+AVHL,0.0,0.0,0,Unknown
+AWAR,0.0,0.0,0,Unknown
+RMGR,0.0,0.0,0,Unknown
+RMHL,0.0,0.0,0,Unknown
+RMHR,0.0,0.0,0,Unknown
+ADAL,0.0,0.0,0,Unknown
+ADFL,0.0,0.0,0,Unknown
+URXL,0.0,0.0,0,Unknown
+AWAL,0.0,0.0,0,Unknown
+AVFL,0.0,0.0,0,Unknown
+PVPL,0.0,0.0,0,Unknown
+PLNL,0.0,0.0,0,Unknown
+FLPR,0.0,0.0,0,Unknown
+FLPL,0.0,0.0,0,Unknown
+AVJL,0.0,0.0,0,Unknown
+PVCR,0.0,0.0,0,Interneuron
+PVCL,0.0,0.0,0,Interneuron
+AVJR,0.0,0.0,0,Unknown
+IL1L,0.0,0.0,0,Unknown
+RMEV,0.0,0.0,0,Unknown
+URAVL,0.0,0.0,0,Unknown
+IL2L,0.0,0.0,0,Unknown
+OLQVL,0.0,0.0,0,Unknown
+URADR,0.0,0.0,0,Unknown
+IL1DL,0.0,0.0,0,Unknown
+SMBDR,0.0,0.0,0,Unknown
+URADL,0.0,0.0,0,Unknown
+ALA,0.0,0.0,0,Unknown
+AVL,0.0,0.0,0,Unknown
+PVQR,0.0,0.0,0,Unknown
+ASKL,0.0,0.0,0,Unknown
+AFDL,0.0,0.0,0,Sensory
+AUAL,0.0,0.0,0,Unknown
+AIML,0.0,0.0,0,Unknown
+ALML,0.0,0.0,0,Sensory
+ADLL,0.0,0.0,0,Unknown
+ADFR,0.0,0.0,0,Unknown
+RIAL,0.0,0.0,0,Unknown
+SIADR,0.0,0.0,0,Unknown
+IL2VL,0.0,0.0,0,Unknown
+SIBVR,0.0,0.0,0,Unknown
+OLQDL,0.0,0.0,0,Unknown
+RIFR,0.0,0.0,0,Unknown
+PVR,0.0,0.0,0,Unknown
+ALMR,0.0,0.0,0,Sensory
+SIAVR,0.0,0.0,0,Unknown
+AWBL,0.0,0.0,0,Unknown
+IL2R,0.0,0.0,0,Unknown
+AVM,0.0,0.0,0,Unknown
+I1L ,0.0,0.0,0,Unknown
+ I3            ,0.0,0.0,0,Unknown
+ I5            ,0.0,0.0,0,Unknown
+ I6            ,0.0,0.0,0,Unknown
+ M2L           ,0.0,0.0,0,Unknown
+ M3L           ,0.0,0.0,0,Unknown
+ M3R           ,0.0,0.0,0,Unknown
+ MCR           ,0.0,0.0,0,Unknown
+ MI            ,0.0,0.0,0,Unknown
+ NSML          ,0.0,0.0,0,Unknown
+I5 ,0.0,0.0,0,Unknown
+I6 ,0.0,0.0,0,Unknown
+M1 ,0.0,0.0,0,Unknown
+ I2L         ,0.0,0.0,0,Unknown
+ M3L         ,0.0,0.0,0,Unknown
+ NSML        ,0.0,0.0,0,Unknown
+ RIPL        ,0.0,0.0,0,Unknown
+I1R ,0.0,0.0,0,Unknown
+M2L ,0.0,0.0,0,Unknown
+MI ,0.0,0.0,0,Unknown
+I2L ,0.0,0.0,0,Unknown
+I3 ,0.0,0.0,0,Unknown
+I4 ,0.0,0.0,0,Unknown
+M2R ,0.0,0.0,0,Unknown
+NSML ,221.0,0.0,0,Unknown
+M3L ,221.0,0.0,0,Unknown
+ADFL ,0.0,0.0,0,Unknown
+IL1L ,0.0,0.0,0,Unknown
+RIPL ,0.0,0.0,0,Unknown
+RIPR ,0.0,0.0,0,Unknown
+RMED ,0.0,0.0,0,Unknown
+URAVL ,0.0,0.0,0,Unknown
+ I2R           ,0.0,0.0,0,Unknown
+ M1            ,0.0,0.0,0,Unknown
+ M2R           ,0.0,0.0,0,Unknown
+ NSMR          ,0.0,0.0,0,Unknown
+ I4            ,0.0,0.0,0,Unknown
+ NSMR        ,0.0,0.0,0,Unknown
+ I1R         ,0.0,0.0,0,Unknown
+ M1          ,221.0,0.0,0,Unknown
+ M2R         ,221.0,0.0,0,Unknown
+ M2L         ,221.0,0.0,0,Unknown
+ M5          ,0.0,0.0,0,Unknown
+ I2R         ,0.0,0.0,0,Unknown
+ I3          ,221.0,0.0,0,Unknown
+ M3R         ,0.0,0.0,0,Unknown
+ RIPR        ,0.0,0.0,0,Unknown
+ I5          ,221.0,0.0,0,Unknown
+ MCL         ,0.0,0.0,0,Unknown
+ I1L         ,0.0,0.0,0,Unknown
+ I4          ,221.0,0.0,0,Unknown
+ MI          ,221.0,0.0,0,Unknown
+ I6          ,221.0,0.0,0,Unknown
+M5 ,221.0,0.0,0,Unknown
+MCL ,0.0,0.0,0,Unknown
+ AWBL          ,0.0,0.0,0,Unknown
+ ADLL          ,0.0,0.0,0,Unknown
+ AWCR          ,0.0,0.0,0,Unknown
+ URXL          ,0.0,0.0,0,Unknown
+ AUAL          ,0.0,0.0,0,Unknown
+ AIAL          ,0.0,0.0,0,Unknown
+ AIBL          ,0.0,0.0,0,Unknown
+ AIBR          ,0.0,0.0,0,Unknown
+ ADAL          ,0.0,0.0,0,Unknown
+ RIAL          ,0.0,0.0,0,Unknown
+ RIBL          ,0.0,0.0,0,Unknown
+ RIGL          ,0.0,0.0,0,Unknown
+ RIR           ,0.0,0.0,0,Unknown
+ RIVL          ,0.0,0.0,0,Unknown
+ SMBDL         ,0.0,0.0,0,Unknown
+ SMBVL         ,0.0,0.0,0,Unknown
+ASER ,0.0,0.0,0,Unknown
+ASHL ,0.0,0.0,0,Unknown
+SDQR ,0.0,0.0,0,Unknown
+AIAL ,0.0,0.0,0,Unknown
+ADAL ,0.0,0.0,0,Unknown
+RIGL ,0.0,0.0,0,Unknown
+RMGL ,0.0,0.0,0,Unknown
+HSNL ,0.0,0.0,0,Unknown
+ ASHL        ,0.0,0.0,0,Unknown
+ AWCL        ,0.0,0.0,0,Unknown
+ AFDL        ,0.0,0.0,0,Unknown
+ AIZL        ,0.0,0.0,0,Unknown
+ ADAL        ,221.0,0.0,0,Unknown
+ RIAL        ,0.0,0.0,0,Unknown
+ URBL        ,0.0,0.0,0,Unknown
+ADLL ,0.0,0.0,0,Unknown
+ASEL ,0.0,0.0,0,Unknown
+ASHR ,0.0,0.0,0,Unknown
+AFDL ,0.0,0.0,0,Unknown
+AVHR ,0.0,0.0,0,Unknown
+HSNR ,0.0,0.0,0,Unknown
+ADFR ,0.0,0.0,0,Unknown
+ADLR ,0.0,0.0,0,Unknown
+ASIL ,0.0,0.0,0,Unknown
+ASIR ,0.0,0.0,0,Unknown
+AWCL ,0.0,0.0,0,Unknown
+AIAR ,0.0,0.0,0,Unknown
+AIBR ,0.0,0.0,0,Unknown
+AIZL ,0.0,0.0,0,Unknown
+AIZR ,0.0,0.0,0,Unknown
+AFDR ,0.0,0.0,0,Unknown
+CEPDL ,0.0,0.0,0,Unknown
+AINR ,0.0,0.0,0,Unknown
+IL2L ,0.0,0.0,0,Unknown
+CEPVL ,0.0,0.0,0,Unknown
+URXL ,0.0,0.0,0,Unknown
+URYVL ,0.0,0.0,0,Unknown
+AQR ,0.0,0.0,0,Unknown
+AUAL ,0.0,0.0,0,Unknown
+AIML ,0.0,0.0,0,Unknown
+RIAL ,221.0,0.0,0,Unknown
+RIR ,0.0,0.0,0,Unknown
+URBL ,0.0,0.0,0,Unknown
+DVA ,0.0,0.0,0,Unknown
+IL2DL ,0.0,0.0,0,Unknown
+RIBL ,0.0,0.0,0,Unknown
+ASGL ,0.0,0.0,0,Unknown
+ASKL ,0.0,0.0,0,Unknown
+ASKR ,0.0,0.0,0,Unknown
+AWBL ,0.0,0.0,0,Unknown
+AWCR ,0.0,0.0,0,Unknown
+AVFR ,0.0,0.0,0,Unknown
+PVQL ,0.0,0.0,0,Unknown
+PVQR ,0.0,0.0,0,Unknown
+FLPL ,0.0,0.0,0,Unknown
+BAGL ,0.0,0.0,0,Unknown
+AIBL ,0.0,0.0,0,Unknown
+ADAR ,0.0,0.0,0,Unknown
+RIBR ,0.0,0.0,0,Unknown
+RICR ,0.0,0.0,0,Unknown
+RIGR ,0.0,0.0,0,Unknown
+DVC ,0.0,0.0,0,Unknown
+PVT ,0.0,0.0,0,Unknown
+RIML ,0.0,0.0,0,Unknown
+RIMR ,0.0,0.0,0,Unknown
+SAADL ,0.0,0.0,0,Unknown
+SAADR ,0.0,0.0,0,Unknown
+SAAVL ,0.0,0.0,0,Unknown
+ASGR ,0.0,0.0,0,Unknown
+SDQL ,0.0,0.0,0,Unknown
+AVBR ,0.0,0.0,0,Unknown
+RMHR ,0.0,0.0,0,Unknown
+SAAVR ,0.0,0.0,0,Unknown
+SMDVR ,0.0,0.0,0,Unknown
+URYDL ,0.0,0.0,0,Unknown
+RIFR ,0.0,0.0,0,Unknown
+RIH ,0.0,0.0,0,Unknown
+SMBDL ,0.0,0.0,0,Unknown
+FLPR ,0.0,0.0,0,Unknown
+BDUL ,0.0,0.0,0,Unknown
+ADEL ,0.0,0.0,0,Unknown
+RICL ,0.0,0.0,0,Unknown
+PVPL ,0.0,0.0,0,Unknown
+IL2VL ,0.0,0.0,0,Unknown
+CEPVR ,0.0,0.0,0,Unknown
+BAGR ,0.0,0.0,0,Unknown
+RIAR ,0.0,0.0,0,Unknown
+AVAL ,0.0,0.0,0,Unknown
+RMDDL ,0.0,0.0,0,Unknown
+RMDL ,0.0,0.0,0,Unknown
+RMDR ,0.0,0.0,0,Unknown
+RIVL ,0.0,0.0,0,Unknown
+RIVR ,0.0,0.0,0,Unknown
+SMDDL ,0.0,0.0,0,Unknown
+SMDDR ,0.0,0.0,0,Unknown
+SMDVL ,0.0,0.0,0,Unknown
+OLLL ,0.0,0.0,0,Unknown
+AINL ,0.0,0.0,0,Unknown
+RIS ,0.0,0.0,0,Unknown
+ADER ,0.0,0.0,0,Unknown
+AVKR ,0.0,0.0,0,Unknown
+AVAR ,0.0,0.0,0,Unknown
+AWAR ,0.0,0.0,0,Unknown
+URXR ,0.0,0.0,0,Unknown
+RMGR ,0.0,0.0,0,Unknown
+PVPR ,0.0,0.0,0,Unknown
+SABVL ,0.0,0.0,0,Unknown
+AWBR ,0.0,0.0,0,Unknown
+AVHL ,0.0,0.0,0,Unknown
+AVKL ,0.0,0.0,0,Unknown
+SMBDR ,0.0,0.0,0,Unknown
+CEPDR ,0.0,0.0,0,Unknown
+ALNR ,0.0,0.0,0,Unknown
+URBR ,0.0,0.0,0,Unknown
+SIADL ,0.0,0.0,0,Unknown
+SMBVL ,0.0,0.0,0,Unknown
+PLNL ,0.0,0.0,0,Unknown
+PLNR ,0.0,0.0,0,Unknown
+AVFL ,0.0,0.0,0,Unknown
+SIAVL ,0.0,0.0,0,Unknown
+SIBDL ,0.0,0.0,0,Unknown
+OLLR ,0.0,0.0,0,Unknown
+URYVR ,0.0,0.0,0,Unknown
+RMEV ,0.0,0.0,0,Unknown
+SIAVR ,0.0,0.0,0,Unknown
+SIBVL ,0.0,0.0,0,Unknown
+OLQDL ,0.0,0.0,0,Unknown
+OLQVL ,0.0,0.0,0,Unknown
+AVDR ,0.0,0.0,0,Unknown
+AVEL ,0.0,0.0,0,Unknown
+ ASHR          ,0.0,0.0,0,Unknown
+ AWAR          ,0.0,0.0,0,Unknown
+ AWBR          ,0.0,0.0,0,Unknown
+ AFDR          ,0.0,0.0,0,Unknown
+ AIYR          ,0.0,0.0,0,Unknown
+ AIZR          ,0.0,0.0,0,Unknown
+ RIH           ,0.0,0.0,0,Unknown
+ ASEL          ,0.0,0.0,0,Unknown
+ ASER          ,0.0,0.0,0,Unknown
+ ASGL          ,0.0,0.0,0,Unknown
+ ASHL          ,0.0,0.0,0,Unknown
+ AWCL          ,221.0,0.0,0,Unknown
+ OLQVL         ,0.0,0.0,0,Unknown
+ RIPL          ,0.0,0.0,0,Unknown
+ AVJR          ,0.0,0.0,0,Unknown
+ AVAL          ,0.0,0.0,0,Unknown
+ AVAR          ,0.0,0.0,0,Unknown
+ AVBL          ,0.0,0.0,0,Unknown
+ AVDL          ,0.0,0.0,0,Unknown
+ AVDR          ,0.0,0.0,0,Unknown
+ ADLR          ,0.0,0.0,0,Unknown
+ AIAR          ,0.0,0.0,0,Unknown
+ RICL          ,0.0,0.0,0,Unknown
+ RICR          ,0.0,0.0,0,Unknown
+ AVBR          ,0.0,0.0,0,Unknown
+ AIYL          ,0.0,0.0,0,Unknown
+ ASGR        ,0.0,0.0,0,Unknown
+ AWBR        ,221.0,0.0,0,Unknown
+ AFDR        ,221.0,0.0,0,Unknown
+ PVQR        ,0.0,0.0,0,Unknown
+ ADFL          ,0.0,0.0,0,Unknown
+ AVFL          ,0.0,0.0,0,Unknown
+ AVHR          ,0.0,0.0,0,Unknown
+ RIML          ,0.0,0.0,0,Unknown
+ HSNL          ,0.0,0.0,0,Unknown
+ RMGL        ,0.0,0.0,0,Unknown
+ ADFL        ,221.0,0.0,0,Unknown
+ ASHR        ,221.0,0.0,0,Unknown
+ ASKL        ,0.0,0.0,0,Unknown
+ RICL        ,221.0,0.0,0,Unknown
+ AVER          ,0.0,0.0,0,Unknown
+ HSNR          ,0.0,0.0,0,Unknown
+ ASJR          ,0.0,0.0,0,Unknown
+ ASKR          ,0.0,0.0,0,Unknown
+ CEPDL         ,0.0,0.0,0,Unknown
+ PVQL          ,0.0,0.0,0,Unknown
+ AIML          ,0.0,0.0,0,Unknown
+ AIMR          ,0.0,0.0,0,Unknown
+ RMDVL         ,0.0,0.0,0,Unknown
+ SIBDL         ,0.0,0.0,0,Unknown
+ RMGL          ,0.0,0.0,0,Unknown
+ RMDR          ,0.0,0.0,0,Unknown
+ URAVL         ,0.0,0.0,0,Unknown
+ AVEL          ,0.0,0.0,0,Unknown
+ RMHL          ,0.0,0.0,0,Unknown
+ BAGR          ,0.0,0.0,0,Unknown
+ RMHR          ,0.0,0.0,0,Unknown
+ SIBDR         ,0.0,0.0,0,Unknown
+ SIBVR         ,0.0,0.0,0,Unknown
+ SMDDL         ,0.0,0.0,0,Unknown
+ SMDDR         ,0.0,0.0,0,Unknown
+ SMDVR         ,0.0,0.0,0,Unknown
+ ALML          ,0.0,0.0,0,Unknown
+ SIAVL         ,0.0,0.0,0,Unknown
+ SDQL          ,0.0,0.0,0,Unknown
+ RID           ,0.0,0.0,0,Unknown
+ DVA           ,0.0,0.0,0,Unknown
+ SAADL         ,0.0,0.0,0,Unknown
+ RIVL        ,221.0,0.0,0,Unknown
+ AIBL        ,221.0,0.0,0,Unknown
+ ALMR        ,0.0,0.0,0,Unknown
+ DVA         ,221.0,0.0,0,Unknown
+ SDQL        ,0.0,0.0,0,Unknown
+ AVBL        ,0.0,0.0,0,Unknown
+ RIVR        ,0.0,0.0,0,Unknown
+ SAADL       ,221.0,0.0,0,Unknown
+ SIAVR       ,0.0,0.0,0,Unknown
+ SIBDL       ,221.0,0.0,0,Unknown
+ PVPL          ,0.0,0.0,0,Unknown
+ RIVR          ,221.0,0.0,0,Unknown
+ AIAR        ,0.0,0.0,0,Unknown
+ AWCR        ,221.0,0.0,0,Unknown
+ AWBL        ,221.0,0.0,0,Unknown
+ ASIR        ,0.0,0.0,0,Unknown
+ ASJL        ,0.0,0.0,0,Unknown
+ ASIL        ,0.0,0.0,0,Unknown
+ ADAR        ,0.0,0.0,0,Unknown
+ AVDR        ,221.0,0.0,0,Unknown
+ PVQL        ,221.0,0.0,0,Unknown
+ OLQVL       ,221.0,0.0,0,Unknown
+ AVFR          ,0.0,0.0,0,Unknown
+ AIBR        ,221.0,0.0,0,Unknown
+ OLLL        ,0.0,0.0,0,Unknown
+ RIBL        ,0.0,0.0,0,Unknown
+ RIGR        ,0.0,0.0,0,Unknown
+ OLQDL       ,0.0,0.0,0,Unknown
+ AVKL        ,0.0,0.0,0,Unknown
+ BAGL        ,0.0,0.0,0,Unknown
+ PVPL        ,221.0,0.0,0,Unknown
+ URYDL       ,0.0,0.0,0,Unknown
+ URYVL       ,0.0,0.0,0,Unknown
+ RMFL        ,0.0,0.0,0,Unknown
+ ADLL        ,221.0,0.0,0,Unknown
+ IL2L        ,0.0,0.0,0,Unknown
+ AVEL        ,221.0,0.0,0,Unknown
+ URXL        ,221.0,0.0,0,Unknown
+ RMDDR       ,0.0,0.0,0,Unknown
+ ALML        ,0.0,0.0,0,Unknown
+ AVFR        ,221.0,0.0,0,Unknown
+ RMHL        ,0.0,0.0,0,Unknown
+ HSNR        ,221.0,0.0,0,Unknown
+ ADFR          ,0.0,0.0,0,Unknown
+ ADAR          ,221.0,0.0,0,Unknown
+ RIAR          ,0.0,0.0,0,Unknown
+ AVHL          ,0.0,0.0,0,Unknown
+ PVPR          ,0.0,0.0,0,Unknown
+ SMBVR         ,0.0,0.0,0,Unknown
+ AWAL          ,0.0,0.0,0,Unknown
+ ADLR        ,221.0,0.0,0,Unknown
+ AWAL        ,0.0,0.0,0,Unknown
+ RIFR          ,0.0,0.0,0,Unknown
+ PVCL          ,0.0,0.0,0,Unknown
+ IL2R          ,0.0,0.0,0,Unknown
+ ASGL        ,221.0,0.0,0,Unknown
+ AINR          ,0.0,0.0,0,Unknown
+ ASKR        ,221.0,0.0,0,Unknown
+ AIZR        ,0.0,0.0,0,Unknown
+ RICR        ,221.0,0.0,0,Unknown
+ RMGR        ,0.0,0.0,0,Unknown
+ AVHL        ,221.0,0.0,0,Unknown
+ AVAR        ,221.0,0.0,0,Unknown
+ AVER        ,0.0,0.0,0,Unknown
+ PVQR          ,221.0,0.0,0,Unknown
+ ASEL        ,221.0,0.0,0,Unknown
+ AIYL        ,0.0,0.0,0,Unknown
+ BDUR          ,0.0,0.0,0,Unknown
+ AQR           ,0.0,0.0,0,Unknown
+ PVT           ,0.0,0.0,0,Unknown
+ RIMR          ,0.0,0.0,0,Unknown
+ SABD          ,0.0,0.0,0,Unknown
+ PHBL        ,0.0,0.0,0,Unknown
+ PHAR        ,0.0,0.0,0,Unknown
+ PHBR        ,0.0,0.0,0,Unknown
+ AVG         ,0.0,0.0,0,Unknown
+ DVC         ,0.0,0.0,0,Unknown
+ PVPR        ,221.0,0.0,0,Unknown
+ AVJL        ,0.0,0.0,0,Unknown
+ AVJR        ,0.0,0.0,0,Unknown
+ PVT         ,221.0,0.0,0,Unknown
+ SIAVL       ,221.0,0.0,0,Unknown
+ AVFL        ,221.0,0.0,0,Unknown
+ AVL         ,0.0,0.0,0,Unknown
+ SABVR         ,0.0,0.0,0,Unknown
+ ALA         ,0.0,0.0,0,Unknown
+ BDUR        ,0.0,0.0,0,Unknown
+ OLQVR         ,0.0,0.0,0,Unknown
+ BAGL          ,221.0,0.0,0,Unknown
+ URXR          ,0.0,0.0,0,Unknown
+ URYVR         ,0.0,0.0,0,Unknown
+ AUAR          ,0.0,0.0,0,Unknown
+ SMBDR         ,0.0,0.0,0,Unknown
+ RIH         ,221.0,0.0,0,Unknown
+ SMBVR       ,0.0,0.0,0,Unknown
+ SMDVR       ,221.0,0.0,0,Unknown
+ CEPVR         ,0.0,0.0,0,Unknown
+ URBR          ,0.0,0.0,0,Unknown
+ RIPR          ,0.0,0.0,0,Unknown
+ SIBVL         ,0.0,0.0,0,Unknown
+ RMFL          ,0.0,0.0,0,Unknown
+ SAAVL         ,0.0,0.0,0,Unknown
+ AINR        ,221.0,0.0,0,Unknown
+ AIAL        ,0.0,0.0,0,Unknown
+ ASGR          ,221.0,0.0,0,Unknown
+ AIYR        ,0.0,0.0,0,Unknown
+ ASIL          ,221.0,0.0,0,Unknown
+ AUAL        ,221.0,0.0,0,Unknown
+ ASIR          ,221.0,0.0,0,Unknown
+ URYDL         ,221.0,0.0,0,Unknown
+ SAAVR         ,0.0,0.0,0,Unknown
+ SAADR         ,0.0,0.0,0,Unknown
+ ADFR        ,221.0,0.0,0,Unknown
+ RIGL        ,0.0,0.0,0,Unknown
+ SMDDL       ,221.0,0.0,0,Unknown
+ RIS         ,0.0,0.0,0,Unknown
+ RIML        ,221.0,0.0,0,Unknown
+ SIBVL       ,221.0,0.0,0,Unknown
+ ASER        ,0.0,0.0,0,Unknown
+ URBR        ,221.0,0.0,0,Unknown
+ RMDVR       ,0.0,0.0,0,Unknown
+ URADL         ,0.0,0.0,0,Unknown
+ OLLL          ,221.0,0.0,0,Unknown
+ OLQDL         ,221.0,0.0,0,Unknown
+ CEPDR         ,0.0,0.0,0,Unknown
+ RIS           ,221.0,0.0,0,Unknown
+ AINL          ,0.0,0.0,0,Unknown
+ AINL        ,221.0,0.0,0,Unknown
+ ADER        ,0.0,0.0,0,Unknown
+ IL2L          ,221.0,0.0,0,Unknown
+ PVR           ,0.0,0.0,0,Unknown
+ RMDDL         ,0.0,0.0,0,Unknown
+ RMDVR         ,0.0,0.0,0,Unknown
+ RMER          ,0.0,0.0,0,Unknown
+ IL1L          ,0.0,0.0,0,Unknown
+ IL1VL         ,0.0,0.0,0,Unknown
+ URYVL         ,221.0,0.0,0,Unknown
+ AVL           ,0.0,0.0,0,Unknown
+ RMEV          ,0.0,0.0,0,Unknown
+ ADEL          ,0.0,0.0,0,Unknown
+ RMER        ,0.0,0.0,0,Unknown
+ RMDL        ,0.0,0.0,0,Unknown
+ URAVL       ,221.0,0.0,0,Unknown
+ CEPVL         ,0.0,0.0,0,Unknown
+ RIBR          ,0.0,0.0,0,Unknown
+ SIAVR         ,221.0,0.0,0,Unknown
+ BDUL          ,0.0,0.0,0,Unknown
+ PVCR          ,0.0,0.0,0,Unknown
+ PVDR          ,0.0,0.0,0,Unknown
+ AVKR        ,0.0,0.0,0,Unknown
+ AUAR        ,0.0,0.0,0,Unknown
+ RMDVL       ,0.0,0.0,0,Unknown
+ SIBVR       ,0.0,0.0,0,Unknown
+ SMDVL       ,0.0,0.0,0,Unknown
+ BAGR        ,221.0,0.0,0,Unknown
+ IL1L        ,221.0,0.0,0,Unknown
+ PVWL          ,0.0,0.0,0,Unknown
+ PDER          ,0.0,0.0,0,Unknown
+ PVR         ,0.0,0.0,0,Unknown
+ SDQR        ,0.0,0.0,0,Unknown
+ PVM         ,0.0,0.0,0,Unknown
+ PDEL        ,0.0,0.0,0,Unknown
+ PDER        ,0.0,0.0,0,Unknown
+ PVCL        ,0.0,0.0,0,Unknown
+ PVCR        ,0.0,0.0,0,Unknown
+ SIADR       ,0.0,0.0,0,Unknown
+ SAAVR       ,221.0,0.0,0,Unknown
+ AVBR        ,221.0,0.0,0,Unknown
+ PQR           ,0.0,0.0,0,Unknown
+ PVWR          ,0.0,0.0,0,Unknown
+ AVHR        ,221.0,0.0,0,Unknown
+ AVDL        ,0.0,0.0,0,Unknown
+ LUAR        ,0.0,0.0,0,Unknown
+ PQR         ,0.0,0.0,0,Unknown
+ PVWR        ,0.0,0.0,0,Unknown
+ RMEL          ,0.0,0.0,0,Unknown
+ RMED          ,0.0,0.0,0,Unknown
+ DVC           ,221.0,0.0,0,Unknown
+ RMEV        ,221.0,0.0,0,Unknown
+ RIBR        ,0.0,0.0,0,Unknown
+ SIADL       ,0.0,0.0,0,Unknown
+ AIML        ,221.0,0.0,0,Unknown
+ AVG           ,0.0,0.0,0,Unknown
+ PVDL          ,0.0,0.0,0,Unknown
+ LUAL        ,0.0,0.0,0,Unknown
+ PHAL        ,0.0,0.0,0,Unknown
+ ASJR        ,0.0,0.0,0,Unknown
+ URYDR         ,0.0,0.0,0,Unknown
+ URAVR         ,0.0,0.0,0,Unknown
+ ADER          ,221.0,0.0,0,Unknown
+ AVKL          ,221.0,0.0,0,Unknown
+ FLPR          ,0.0,0.0,0,Unknown
+ FLPR        ,221.0,0.0,0,Unknown
+ FLPL          ,0.0,0.0,0,Unknown
+ RIR         ,0.0,0.0,0,Unknown
+ ALNR          ,0.0,0.0,0,Unknown
+ RMED        ,0.0,0.0,0,Unknown
+ SMDDR       ,221.0,0.0,0,Unknown
+ FLPL        ,221.0,0.0,0,Unknown
+ RIMR        ,221.0,0.0,0,Unknown
+ OLQDR       ,0.0,0.0,0,Unknown
+ OLQVR       ,0.0,0.0,0,Unknown
+ SMBDR       ,221.0,0.0,0,Unknown
+ SIBDR       ,0.0,0.0,0,Unknown
+ URXR        ,221.0,0.0,0,Unknown
+ RMHR        ,221.0,0.0,0,Unknown
+ OLLR        ,0.0,0.0,0,Unknown
+ ADEL        ,0.0,0.0,0,Unknown
+ URYDR       ,0.0,0.0,0,Unknown
+ AQR         ,0.0,0.0,0,Unknown
+ PVDR        ,0.0,0.0,0,Unknown
+ DVB         ,0.0,0.0,0,Unknown
+ AVAL        ,221.0,0.0,0,Unknown
+ SMBDL       ,221.0,0.0,0,Unknown
+ PLNL          ,0.0,0.0,0,Unknown
+ SABD        ,0.0,0.0,0,Unknown
+ SABVL         ,0.0,0.0,0,Unknown
+ SMBVL       ,221.0,0.0,0,Unknown
+ RIAR        ,221.0,0.0,0,Unknown
+ SAAVL       ,221.0,0.0,0,Unknown
+ IL2VR         ,0.0,0.0,0,Unknown
+ OLQDR         ,0.0,0.0,0,Unknown
+ CEPVL       ,221.0,0.0,0,Unknown
+ SDQR          ,0.0,0.0,0,Unknown
+ PDB         ,0.0,0.0,0,Unknown
+ IL1DR         ,0.0,0.0,0,Unknown
+ IL1R          ,0.0,0.0,0,Unknown
+ IL1VR         ,0.0,0.0,0,Unknown
+ AIMR        ,0.0,0.0,0,Unknown
+ IL2VR       ,0.0,0.0,0,Unknown
+ LUAR          ,0.0,0.0,0,Unknown
+ LUAL          ,0.0,0.0,0,Unknown
+ RMDDL       ,0.0,0.0,0,Unknown
+ PHCL        ,0.0,0.0,0,Unknown
+ PHCR        ,0.0,0.0,0,Unknown
+ URYVR       ,221.0,0.0,0,Unknown
+ SABVR       ,0.0,0.0,0,Unknown
+ IL1VL       ,0.0,0.0,0,Unknown
+ SAADR       ,221.0,0.0,0,Unknown
+ ALNR        ,221.0,0.0,0,Unknown
+ ALNL        ,0.0,0.0,0,Unknown
+ RMDR        ,221.0,0.0,0,Unknown
+ IL2DR       ,0.0,0.0,0,Unknown
+ IL2VL       ,0.0,0.0,0,Unknown
+ PVDL        ,0.0,0.0,0,Unknown
+ SABVL       ,221.0,0.0,0,Unknown
+ ALMR          ,0.0,0.0,0,Unknown
+ IL2R        ,0.0,0.0,0,Unknown
+ RIFR        ,221.0,0.0,0,Unknown
+ PVWL        ,0.0,0.0,0,Unknown
+ AVM           ,0.0,0.0,0,Unknown
+ URADR         ,0.0,0.0,0,Unknown
+ PLNR          ,0.0,0.0,0,Unknown
+ PLML        ,0.0,0.0,0,Unknown
+ PLMR        ,0.0,0.0,0,Unknown
+ DVB           ,0.0,0.0,0,Unknown
+ IL1DR       ,0.0,0.0,0,Unknown
+ IL1DL       ,0.0,0.0,0,Unknown
+AIYR ,221.0,0.0,0,Unknown
+AIMR ,0.0,0.0,0,Unknown
+AVJL ,0.0,0.0,0,Unknown
+PVCL ,221.0,0.0,0,Unknown
+IL2R ,221.0,0.0,0,Unknown
+IL2VR ,221.0,0.0,0,Unknown
+RMDVL ,221.0,0.0,0,Unknown
+SIBVR ,221.0,0.0,0,Unknown
+AUAR ,221.0,0.0,0,Unknown
+IL1R ,0.0,0.0,0,Unknown
+URYDR ,221.0,0.0,0,Unknown
+AVER ,221.0,0.0,0,Unknown
+URAVR ,0.0,0.0,0,Unknown
+PVR ,221.0,0.0,0,Unknown
+OLQVR ,221.0,0.0,0,Unknown
+ALA ,0.0,0.0,0,Unknown
+RMDVR ,221.0,0.0,0,Unknown
+SMBVR ,221.0,0.0,0,Unknown
+OLQDR ,221.0,0.0,0,Unknown
+URADL ,0.0,0.0,0,Unknown
+AVM ,0.0,0.0,0,Unknown
+BDUR ,221.0,0.0,0,Unknown
+PQR ,221.0,0.0,0,Unknown
+PHAL ,0.0,0.0,0,Unknown
+PVCR ,221.0,0.0,0,Unknown
+AVL ,221.0,0.0,0,Unknown
+AVBL ,221.0,0.0,0,Unknown
+ALML ,221.0,0.0,0,Unknown
+SIADR ,0.0,0.0,0,Unknown
+AVDL ,221.0,0.0,0,Unknown
+ CEPVR       ,221.0,0.0,0,Unknown
+ IL1R        ,221.0,0.0,0,Unknown
+ IL1VR       ,0.0,0.0,0,Unknown
+ PVM           ,0.0,0.0,0,Unknown
+ AVM         ,221.0,0.0,0,Unknown
+ CEPDL       ,221.0,0.0,0,Unknown
+ PHAR          ,0.0,0.0,0,Unknown
+ PHBR          ,0.0,0.0,0,Unknown
+ PLNL        ,221.0,0.0,0,Unknown
+ BDUL        ,221.0,0.0,0,Unknown
+IL1VL ,0.0,0.0,0,Unknown
+ASJL ,0.0,0.0,0,Unknown
+IL1DL ,0.0,0.0,0,Unknown
+IL2DR ,0.0,0.0,0,Unknown
+AVG ,221.0,0.0,0,Unknown
+AVJR ,221.0,0.0,0,Unknown
+LUAL ,221.0,0.0,0,Unknown
+RIFL ,0.0,0.0,0,Unknown
+LUAR ,221.0,0.0,0,Unknown
+PVDL ,221.0,0.0,0,Unknown
+PVDR ,221.0,0.0,0,Unknown
+PHBL ,0.0,0.0,0,Unknown
+PHBR ,221.0,0.0,0,Unknown
+PHCL ,0.0,0.0,0,Unknown
+PVWR ,221.0,0.0,0,Unknown
+RMHL ,221.0,0.0,0,Unknown
+ALMR ,221.0,0.0,0,Unknown
+PDER ,221.0,0.0,0,Unknown
+DVB ,221.0,0.0,0,Unknown
+PVWL ,221.0,0.0,0,Unknown
+RMDDR ,0.0,0.0,0,Unknown
+PDB ,0.0,0.0,0,Unknown
+PLML ,221.0,0.0,0,Unknown
+PLMR ,221.0,0.0,0,Unknown
+ PHAL          ,221.0,0.0,0,Unknown
+ PDB           ,221.0,0.0,0,Unknown
+ PHCR          ,0.0,0.0,0,Unknown
+ PLNR        ,0.0,0.0,0,Unknown
+IL1DR ,0.0,0.0,0,Unknown
+RMEL ,0.0,0.0,0,Unknown
+URADR ,0.0,0.0,0,Unknown
+PVM ,221.0,0.0,0,Unknown
+PHCR ,221.0,0.0,0,Unknown
+ PHCL          ,221.0,0.0,0,Unknown
+SABVR ,221.0,0.0,0,Unknown
+RID ,0.0,0.0,0,Unknown
+RMER ,0.0,0.0,0,Unknown
+SABD ,221.0,0.0,0,Unknown
+SIBDR ,221.0,0.0,0,Unknown
+ PDEL          ,0.0,0.0,0,Unknown
+PDEL ,221.0,0.0,0,Unknown
+PLNR,221.0,0.0,0,Unknown
+ALNL,0.0,0.0,0,Unknown
+I2R ,221.0,0.0,0,Unknown
+NSMR ,221.0,0.0,0,Unknown
+M3R ,221.0,0.0,0,Unknown
+MCR ,0.0,0.0,0,Unknown
+AWAL ,221.0,0.0,0,Unknown
+AIYL ,221.0,0.0,0,Unknown
+ALNL ,0.0,0.0,0,Unknown
+RMFL ,221.0,0.0,0,Unknown
+IL1VR ,0.0,0.0,0,Unknown
+RMFR ,0.0,0.0,0,Unknown
+PHAR ,221.0,0.0,0,Unknown
+ASJR ,221.0,0.0,0,Unknown
+RIBL,221.0,0.0,0,Interneuron
+RIBR,221.0,0.0,0,Interneuron
+RIGR,0.0,0.0,0,Unknown
+AIAR,221.0,0.0,0,Unknown
+ASER,221.0,0.0,0,Sensory
+RIGL,221.0,0.0,0,Unknown
+IL1VR,221.0,0.0,0,Unknown
+RMDDL,221.0,0.0,0,Unknown
+RMDDR,0.0,0.0,0,Unknown
+RMGL,221.0,0.0,0,Unknown
+AIZL,0.0,0.0,0,Unknown
+AIZR,221.0,0.0,0,Unknown
+AQR,221.0,0.0,0,Unknown
+RMED,221.0,0.0,0,Unknown
+ASHL,221.0,0.0,0,Sensory
+RIPR,221.0,0.0,0,Unknown
+SDQR,221.0,0.0,0,Unknown
+SDQL,221.0,0.0,0,Unknown
+RMER,221.0,0.0,0,Unknown
+IL1VL,221.0,0.0,0,Unknown
+RIPL,221.0,0.0,0,Unknown
+RIR,221.0,0.0,0,Unknown
+ADEL,221.0,0.0,0,Unknown
+AIAL,221.0,0.0,0,Unknown
+AIMR,221.0,0.0,0,Unknown
+RMEL,0.0,0.0,0,Unknown
+IL1DR,221.0,0.0,0,Unknown
+CANR,221.0,0.0,0,Unknown
+ I2L           ,221.0,0.0,0,Unknown
+ MCL           ,221.0,0.0,0,Unknown
+ MCR         ,221.0,0.0,0,Unknown
+ I1L           ,221.0,0.0,0,Unknown
+ I1R           ,221.0,0.0,0,Unknown
+ AFDL          ,221.0,0.0,0,Unknown
+ AIZL          ,221.0,0.0,0,Unknown
+ RIGR          ,221.0,0.0,0,Unknown
+ SMDVL         ,221.0,0.0,0,Unknown
+ AVJL          ,221.0,0.0,0,Unknown
+ ASJL          ,221.0,0.0,0,Unknown
+ ASKL          ,221.0,0.0,0,Unknown
+ RMGR          ,221.0,0.0,0,Unknown
+ RMDDR         ,221.0,0.0,0,Unknown
+ RMDL          ,221.0,0.0,0,Unknown
+ SIADR         ,221.0,0.0,0,Unknown
+ RIFL          ,0.0,0.0,0,Unknown
+ SIADL         ,221.0,0.0,0,Unknown
+ AVKR          ,221.0,0.0,0,Unknown
+ ALNL          ,221.0,0.0,0,Unknown
+ RMEL        ,221.0,0.0,0,Unknown
+ RIFL        ,221.0,0.0,0,Unknown
+ ALA           ,221.0,0.0,0,Unknown
+ OLLR          ,221.0,0.0,0,Unknown
+ AWAR        ,221.0,0.0,0,Unknown
+ HSNL        ,221.0,0.0,0,Unknown
+ IL2DL         ,0.0,0.0,0,Unknown
+ URBL          ,221.0,0.0,0,Unknown
+ IL1DL         ,221.0,0.0,0,Unknown
+ URADL       ,221.0,0.0,0,Unknown
+ IL2DR         ,221.0,0.0,0,Unknown
+ RMFR          ,221.0,0.0,0,Unknown
+ RID         ,221.0,0.0,0,Unknown
+ IL2VL         ,221.0,0.0,0,Unknown
+ URAVR       ,221.0,0.0,0,Unknown
+ URADR       ,221.0,0.0,0,Unknown
+ CEPDR       ,221.0,0.0,0,Unknown
+ IL2DL       ,221.0,0.0,0,Unknown
+ PHBL          ,221.0,0.0,0,Unknown

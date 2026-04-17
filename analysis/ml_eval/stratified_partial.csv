@@ -1,0 +1,6 @@
+Motif,Gene,StratCol,Level,n,partial_r,p
+"(1, 2)_(2, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",WBGene00012164,Type,Unknown,51,0.5475113122171946,3.2105556316608176e-05
+"(0, 1)_(1, 2)_nan_nan_nan_nan_nan_nan_nan",WBGene00015504,Type,Unknown,51,-0.49846153846153846,0.00019721025152492978
+"(1, 0)_(1, 2)_(2, 1)_nan_nan_nan_nan_nan_nan",WBGene00015169,Type,Unknown,51,-0.545158371040724,3.525672081364356e-05
+"(0, 1)_(1, 0)_(2, 1)_nan_nan_nan_nan_nan_nan",WBGene00009400,Type,Unknown,51,0.49221719457013574,0.00024374518598601494
+"(0, 1)_(2, 0)_nan_nan_nan_nan_nan_nan_nan",WBGene00009751,Type,Unknown,51,0.5340271493212669,5.439212966047007e-05

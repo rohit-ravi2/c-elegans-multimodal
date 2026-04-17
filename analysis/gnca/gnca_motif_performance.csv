@@ -1,0 +1,6 @@
+motif,pearson_r,mae
+reciprocal,0.9999998,8.591661e-09
+chain,0.9999998,2.6848939e-09
+feedforward,,5.369788e-10
+divergent,,0.0
+convergent,,5.369788e-10

@@ -1,0 +1,3 @@
+metric,real,temporal_null_mean,identity_null_mean,cycleperm_null_mean
+cycle_corr_median,0.5953152181266537,-0.08304120836328646,0.5953152181266536,0.5956608296066147
+spectral_peak_match,1.0,0.9833492822966506,1.0,1.0

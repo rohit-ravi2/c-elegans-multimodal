@@ -1,0 +1,71 @@
+{
+  "created_unix": 1776444797.1579564,
+  "root": "/mnt/ssd4tb/Desktop/C-Elegans",
+  "slots": {
+    "connectome_edges": {
+      "path": "/mnt/ssd4tb/Desktop/C-Elegans/analysis/gene_mapping/connectome_edges_canonical.csv",
+      "name": "connectome_edges_canonical.csv",
+      "ext": ".csv",
+      "size_bytes": 2161352,
+      "mtime": 1770397943.4751477,
+      "md5": "9a87abe96e43f9adbf762f6e546cd240",
+      "sniff": {
+        "columns": [
+          "pre",
+          "post",
+          "gap_weight",
+          "chem_weight",
+          "functional_weight",
+          "uncertainty",
+          "data_sources"
+        ],
+        "shape_hint": [
+          5,
+          7
+        ],
+        "read_error": null
+      },
+      "notes": "",
+      "canonical": true
+    },
+    "expression_matrix": {
+      "path": "/mnt/ssd4tb/Desktop/C-Elegans/data/expression/scrna_seq_other/GSE136049/GSE136049_gene_by_barcode_count_matrix_all_cells.mtx",
+      "name": "GSE136049_gene_by_barcode_count_matrix_all_cells.mtx",
+      "ext": ".mtx",
+      "size_bytes": 558280509,
+      "mtime": 1643914176.0,
+      "md5": "6931ab30dd5625a80b14471c7621d09f",
+      "sniff": {
+        "columns": [
+          "<mtx_matrixmarket>"
+        ],
+        "shape_hint": null,
+        "read_error": null
+      },
+      "notes": "",
+      "canonical": true
+    },
+    "neuron_metadata": {
+      "path": "/mnt/ssd4tb/Desktop/C-Elegans/data/expression/scrna_seq_other/GSE136049/GSE136049_cell_type_annotation_lookup_table.csv",
+      "name": "GSE136049_cell_type_annotation_lookup_table.csv",
+      "ext": ".csv",
+      "size_bytes": 4032224,
+      "mtime": 1643913790.0,
+      "md5": "4ef63604f0f143d29a6e62fc17498978",
+      "sniff": {
+        "columns": [
+          "barcode",
+          "cell.type",
+          "tissue.type"
+        ],
+        "shape_hint": [
+          5,
+          3
+        ],
+        "read_error": null
+      },
+      "notes": "",
+      "canonical": true
+    }
+  }
+}

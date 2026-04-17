@@ -1,0 +1,41 @@
+{
+  "name": "lineageblocked_seed13",
+  "nodes": {
+    "train": 1069,
+    "val": 223,
+    "test": 241,
+    "total_labeled": 1533
+  },
+  "checks": {
+    "disjoint": true,
+    "coverage_full": true,
+    "bilateral_cross_fold_pairs": 0,
+    "lineage_isolation_ok": true
+  },
+  "class_proportions_vs_global": {
+    "Unknown": {
+      "train": 0.6974120769741208,
+      "val": 0.1453218314532183,
+      "test": 0.15726609157266092
+    },
+    "Interneuron": {
+      "train": 0.8333333333333334,
+      "val": 0.16666666666666666,
+      "test": 0.0
+    },
+    "Sensory": {
+      "train": 0.6,
+      "val": 0.0,
+      "test": 0.4
+    },
+    "Glia": {
+      "train": 0.5,
+      "val": 0.5,
+      "test": 0.0
+    }
+  },
+  "leakage_probes": {
+    "avg_min_shortest_path_train_to_test": 1.0248962655601659,
+    "fraction_test_with_direct_train_neighbor": 0.979253112033195
+  }
+}

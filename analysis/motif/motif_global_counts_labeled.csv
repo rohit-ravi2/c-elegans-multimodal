@@ -1,0 +1,27 @@
+MotifID,Count,Type
+"(0, 0)+(0, 1)",7130,Self-loop + Outbound
+"(0, 0)+(0, 2)",3353,Self-loop + Outbound
+"(0, 0)+(1, 0)",1672,Self-loop + Outbound
+"(0, 0)+(1, 1)",170,Self-loop + Outbound
+"(0, 0)+(1, 2)",404,Self-loop + Outbound
+"(0, 0)+(2, 0)",427,Self-loop + Outbound
+"(0, 1)+(0, 2)",38858,Fan-out
+"(0, 1)+(1, 0)",4842,Reciprocal / 2-cycle
+"(0, 1)+(1, 1)",1596,Self-loop + Outbound
+"(0, 1)+(1, 2)",2541,Mixed
+"(0, 1)+(2, 0)",2547,Mixed
+"(0, 1)+(2, 1)",22690,Fan-in
+"(0, 2)+(1, 0)",4330,Mixed
+"(0, 2)+(1, 1)",1697,Self-loop + Outbound
+"(0, 2)+(1, 2)",20612,Fan-in
+"(0, 2)+(2, 0)",1166,Reciprocal / 2-cycle
+"(0, 2)+(2, 1)",2060,Mixed
+"(1, 0)+(1, 1)",2911,Self-loop + Outbound
+"(1, 0)+(1, 2)",38385,Fan-out
+"(1, 0)+(2, 0)",21988,Fan-in
+"(1, 0)+(2, 1)",2182,Mixed
+"(1, 1)+(1, 2)",888,Self-loop + Outbound
+"(1, 1)+(2, 0)",601,Self-loop + Outbound
+"(1, 2)+(2, 0)",3289,Mixed
+"(2, 0)+(2, 1)",42769,Fan-out
+nan+nan,0,ParseError

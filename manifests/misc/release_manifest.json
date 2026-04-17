@@ -1,0 +1,62 @@
+{
+  "created": "2025-08-11 12:59:24",
+  "inputs": [
+    {
+      "path": "./Barrett_et_al_2022_CeNGEN_bulk_RNAseq_data.tsv",
+      "md5": "bb779398f4fc9f3289879d81709be80f",
+      "size_MB": 12.24,
+      "modified": "2025-08-11 11:24:55"
+    },
+    {
+      "path": "./CeNGEN_aggr_bio_reps_101821.tsv",
+      "md5": "5ff1626cb3e59dd6729cee05e86f7acf",
+      "size_MB": 25.57,
+      "modified": "2025-08-11 11:24:58"
+    },
+    {
+      "path": "./Barrett_et_al_2022_CeNGEN_bulk_RNAseq_geneLevel_metadata.tsv",
+      "md5": "d660896e0bf2dcebc6cc0cea95623f9b",
+      "size_MB": 7.58,
+      "modified": "2025-08-11 11:25:01"
+    }
+  ],
+  "tables": [
+    "scratch/reports/aggr_classes.tsv",
+    "scratch/reports/aggr_marker_tagged_columns.tsv",
+    "scratch/reports/aggr_only_classes.tsv",
+    "scratch/reports/aggr_only_gene_ids.tsv",
+    "scratch/reports/aggr_umbrella_classes.tsv",
+    "scratch/reports/bulk_classes.tsv",
+    "scratch/reports/bulk_only_classes.tsv",
+    "scratch/reports/expr_aggr_class_strict.tsv",
+    "scratch/reports/expr_aggr_class_strict_log1p.tsv",
+    "scratch/reports/expr_aggr_class_strict_z.tsv",
+    "scratch/reports/expr_aggr_class_umbrella.tsv",
+    "scratch/reports/expr_aggr_class_umbrella_log1p.tsv",
+    "scratch/reports/expr_aggr_class_umbrella_z.tsv",
+    "scratch/reports/expr_bulk_class_strict.tsv",
+    "scratch/reports/expr_bulk_class_strict_log1p.tsv",
+    "scratch/reports/expr_bulk_class_strict_z.tsv",
+    "scratch/reports/expr_bulk_class_umbrella.tsv",
+    "scratch/reports/expr_bulk_class_umbrella_log1p.tsv",
+    "scratch/reports/expr_bulk_class_umbrella_z.tsv",
+    "scratch/reports/gene_corr_bulk_vs_aggr_common.tsv",
+    "scratch/reports/gene_corr_strict_z.tsv",
+    "scratch/reports/gene_corr_umbrella_z.tsv",
+    "scratch/reports/input_provenance.tsv",
+    "scratch/reports/largest_relevant_files.tsv",
+    "scratch/reports/overlap_classes.tsv",
+    "scratch/reports/unresolved_gene_ids.tsv"
+  ],
+  "maps": [
+    "scratch/reports/gene_id_map.csv",
+    "scratch/reports/aggr_class_with_umbrella.csv",
+    "scratch/reports/bulk_raw_to_class.csv",
+    "scratch/reports/aggr_raw_to_class.csv"
+  ],
+  "notes": [
+    "Matrices provided in raw/log1p/z; strict overlap = exact class name intersection; umbrella = aggr subtypes rolled up (I1..I6\u2192I; IL1/IL2\u2192IL).",
+    "ID mapping anchored to WBPS19 gene_meta; unresolved IDs listed for curation.",
+    "Gene-wise correlations computed on z-scored, class-aligned matrices."
+  ]
+}

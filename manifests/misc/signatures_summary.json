@@ -1,0 +1,13 @@
+{
+  "hubs_counts": {
+    "degree": 20,
+    "betweenness": 20,
+    "cycle": 20
+  },
+  "deg_betw_cycle_overlap": {
+    "deg_vs_betw": 0,
+    "deg_vs_cycle": 0,
+    "betw_vs_cycle": 20
+  },
+  "go_gate_pass": false
+}

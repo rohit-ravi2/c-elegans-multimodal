@@ -1,0 +1,144 @@
+{
+  "inputs": {
+    "backbones_all": "/home/rohit/Desktop/Projects/C-Elegans/track2_outputs/20250826_110441/runs_gcn/backbone_comparison/cv_results_all_backbones.csv",
+    "ablation_all": "/home/rohit/Desktop/Projects/C-Elegans/track2_outputs/20250826_110441/runs_gcn/ablation_runs/ablation_cv_results_all.csv",
+    "baseline_9B": "/home/rohit/Desktop/Projects/C-Elegans/track2_outputs/20250826_110441/runs_gcn/baselines_mlp_vs_gcn/cv_results_all.csv"
+  },
+  "backbone_leaderboard": [
+    {
+      "backbone": "gcn",
+      "n_runs": 25,
+      "val_macroF1_mean": 0.7785321594276323,
+      "val_macroF1_ci95_half": NaN,
+      "val_balAcc_mean": 0.8366760140863441,
+      "val_balAcc_ci95_half": NaN,
+      "val_weightedF1_mean": 0.8517719009227785,
+      "val_weightedF1_ci95_half": NaN
+    },
+    {
+      "backbone": "gat",
+      "n_runs": 25,
+      "val_macroF1_mean": 0.7726879654279846,
+      "val_macroF1_ci95_half": NaN,
+      "val_balAcc_mean": 0.8401126641836828,
+      "val_balAcc_ci95_half": NaN,
+      "val_weightedF1_mean": 0.8534578916327784,
+      "val_weightedF1_ci95_half": NaN
+    },
+    {
+      "backbone": "mlp",
+      "n_runs": 25,
+      "val_macroF1_mean": 0.728096357687095,
+      "val_macroF1_ci95_half": NaN,
+      "val_balAcc_mean": 0.7782241472592979,
+      "val_balAcc_ci95_half": NaN,
+      "val_weightedF1_mean": 0.7984759254956811,
+      "val_weightedF1_ci95_half": NaN
+    },
+    {
+      "backbone": "gin",
+      "n_runs": 25,
+      "val_macroF1_mean": 0.7173546505349113,
+      "val_macroF1_ci95_half": NaN,
+      "val_balAcc_mean": 0.8228337656816852,
+      "val_balAcc_ci95_half": NaN,
+      "val_weightedF1_mean": 0.7625897841895825,
+      "val_weightedF1_ci95_half": NaN
+    },
+    {
+      "backbone": "sage",
+      "n_runs": 25,
+      "val_macroF1_mean": 0.701483091151019,
+      "val_macroF1_ci95_half": NaN,
+      "val_balAcc_mean": 0.7846500756005776,
+      "val_balAcc_ci95_half": NaN,
+      "val_weightedF1_mean": 0.7528738407289566,
+      "val_weightedF1_ci95_half": NaN
+    }
+  ],
+  "paired_gcn_vs_mlp": [
+    {
+      "metric": "val_macroF1",
+      "n_pairs": 15,
+      "gcn_mean": 0.7785321594276323,
+      "mlp_mean": 0.7280963576870951,
+      "mean_delta": 0.05043580174053727,
+      "std_delta": 0.12170829181498358,
+      "t_stat": 1.6049606586432417,
+      "p_value": 0.13081624409350318
+    },
+    {
+      "metric": "val_balAcc",
+      "n_pairs": 15,
+      "gcn_mean": 0.836676014086344,
+      "mlp_mean": 0.7782241472592979,
+      "mean_delta": 0.05845186682704616,
+      "std_delta": 0.1245084179040861,
+      "t_stat": 1.8182152707961938,
+      "p_value": 0.09048662008562532
+    },
+    {
+      "metric": "val_weightedF1",
+      "n_pairs": 15,
+      "gcn_mean": 0.8517719009227785,
+      "mlp_mean": 0.7984759254956814,
+      "mean_delta": 0.053295975427097256,
+      "std_delta": 0.11704367140313414,
+      "t_stat": 1.7635675878456778,
+      "p_value": 0.09960634070970831
+    }
+  ],
+  "ablation_summary": [
+    {
+      "abla": "topo_only",
+      "n_runs": 15,
+      "val_macroF1_mean": 0.7646682919913416,
+      "val_macroF1_ci95_half": 0.1356803046495809,
+      "val_balAcc_mean": 0.8440299817882313,
+      "val_balAcc_ci95_half": 0.11762355372484097,
+      "val_weightedF1_mean": 0.8399904194088089,
+      "val_weightedF1_ci95_half": 0.1314100422202809
+    },
+    {
+      "abla": "core_only",
+      "n_runs": 15,
+      "val_macroF1_mean": 0.7641443629714233,
+      "val_macroF1_ci95_half": 0.14040874077954424,
+      "val_balAcc_mean": 0.8523737011434285,
+      "val_balAcc_ci95_half": 0.10779856838110413,
+      "val_weightedF1_mean": 0.8378313714621192,
+      "val_weightedF1_ci95_half": 0.13782844116619403
+    },
+    {
+      "abla": "all_blocks",
+      "n_runs": 15,
+      "val_macroF1_mean": 0.7594494998265403,
+      "val_macroF1_ci95_half": 0.13883001090603087,
+      "val_balAcc_mean": 0.8280391432256567,
+      "val_balAcc_ci95_half": 0.1315230507425779,
+      "val_weightedF1_mean": 0.842013995371585,
+      "val_weightedF1_ci95_half": 0.12443541326082688
+    },
+    {
+      "abla": "core+topo",
+      "n_runs": 15,
+      "val_macroF1_mean": 0.7594494998265403,
+      "val_macroF1_ci95_half": 0.13883001090603087,
+      "val_balAcc_mean": 0.8280391432256567,
+      "val_balAcc_ci95_half": 0.1315230507425779,
+      "val_weightedF1_mean": 0.842013995371585,
+      "val_weightedF1_ci95_half": 0.12443541326082688
+    }
+  ],
+  "embedding_images": [],
+  "feature_importance_csv": null,
+  "feature_importance_img": null,
+  "summary_bullets": [
+    "Best backbone: gcn (Macro-F1=0.779 \u00b1 nan 95% CI; BalAcc=0.837 \u00b1 nan).",
+    "Paired GCN\u2212MLP (val_macroF1): \u0394=0.050 (t=1.60, p=0.131, n=15).",
+    "Paired GCN\u2212MLP (val_balAcc): \u0394=0.058 (t=1.82, p=0.090, n=15).",
+    "Paired GCN\u2212MLP (val_weightedF1): \u0394=0.053 (t=1.76, p=0.100, n=15).",
+    "Ablation best: topo_only with Macro-F1=0.765 \u00b1 0.136 (95% CI).",
+    "\u26a0 30 perfect (1.0) validation folds detected; verify fold difficulty/leakage."
+  ]
+}
