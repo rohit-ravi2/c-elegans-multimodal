@@ -1,0 +1,2 @@
+n_neurons,n_chem_edges,n_gap_edges,n_pep_edges,min_cross_layer_rho,n_specialized_archetypes,n_archetypes_with_nt_enrichment,command_fisher_p,monoamine_fisher_p,nb23_multiplex_overlap,n_criteria_pass,verdict
+222,2191,285,4480,0.3595745656211295,8,2,0.013614099684469349,3.294253313697628e-07,5/5,5,STRONG POSITIVE — multiplex archetype framing is biologically coherent and reproducible

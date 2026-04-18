@@ -1,0 +1,9 @@
+archetype,n_neurons,NT_dominant,NT_breakdown,n_sensory,n_command,n_monoamine,sample_neurons
+Wired_broadcaster,11,Glu,"{'Glu': 5, 'ACh': 4, 'Other': 1}",1,0,0,"ADLL,AVHR,DVA,DVC,IL1R"
+Wired_receiver,9,ACh,"{'ACh': 6, 'Glu': 2, 'Other': 1}",0,2,0,"ADAL,AIBL,AVBL,AVDL,AVJL"
+Wired_integrator,4,Glu,"{'Glu': 2, 'ACh': 2}",0,0,0,"RIAL,RIAR,RMDL,RMFR"
+Electrical_synchronizer,4,ACh,"{'ACh': 3, 'Other': 1}",0,0,0,"AVKL,RMDVL,SIBDL,SIBVR"
+Wireless_modulator,15,Glu,"{'Glu': 6, 'ACh': 5, 'Other': 3}",9,2,1,"ADFR,AFDL,AFDR,AIYL,AIYR"
+Wireless_target,17,ACh,"{'ACh': 10, 'Glu': 5, 'GABA': 2}",4,0,0,"ASEL,ASER,ASHR,IL2L,PVQL"
+Wireless_integrator,4,Glu,{'Glu': 4},2,0,0,"ASGL,ASGR,AUAL,AUAR"
+Multiplex_integrator,49,ACh,"{'ACh': 21, 'Glu': 12, 'DA': 6}",5,6,11,"ADAR,ADEL,ADER,ADFL,AIAL"

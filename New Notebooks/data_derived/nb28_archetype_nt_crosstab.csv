@@ -1,0 +1,11 @@
+archetype,5HT,ACh,DA,GABA,Glu,OA,Other,TA,Unknown
+Electrical_synchronizer,0,3,0,0,0,0,1,0,0
+Intermediate,0,13,0,0,14,0,7,0,0
+Multiplex_integrator,2,21,6,2,12,1,3,2,0
+Quiet,0,21,0,1,4,0,8,0,41
+Wired_broadcaster,0,4,0,1,5,0,1,0,0
+Wired_integrator,0,2,0,0,2,0,0,0,0
+Wired_receiver,0,6,0,0,2,0,1,0,0
+Wireless_integrator,0,0,0,0,4,0,0,0,0
+Wireless_modulator,0,5,0,0,6,1,3,0,0
+Wireless_target,0,10,0,2,5,0,0,0,0
