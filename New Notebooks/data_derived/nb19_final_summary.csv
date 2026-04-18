@@ -1,0 +1,2 @@
+transitions,pooled_N,pooled_arrivals,auc_topology,auc_gap_only,auc_full,delta_gap_adds,null_95pct_delta,earliest_delta,latest_delta,verdict
+3,98718,1837,0.7579292636283976,0.5337136931874069,0.7660651118815894,0.008135848253191802,-0.00022132887630447185,0.0016440593059285913,0.0013080151678910301,WEAK POSITIVE — gap features help but below threshold
