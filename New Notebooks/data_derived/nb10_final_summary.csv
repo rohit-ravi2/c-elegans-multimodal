@@ -1,0 +1,2 @@
+n_transitions,pooled_N,pooled_arrivals,pooled_auc,null_95pct,shared_neighbors_coef,deg_product_coef,verdict
+3,50530,408,0.5958436924724028,0.5835495315617683,0.168244892339676,0.02102671481546004,NULL — gap junction arrival not predictable from topology alone
