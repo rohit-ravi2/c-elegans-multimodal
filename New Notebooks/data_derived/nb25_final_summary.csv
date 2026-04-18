@@ -1,0 +1,2 @@
+n_contacting_pairs,n_peptide_only,n_syn_only,n_both,n_neither,test1_coef_syn_edge,test1_p,test1_ci_low,test1_ci_high,test1_pass,test2_rel_diff,test2_ci_low,test2_ci_high,test2_pass,test3_any_monoamine_sig,verdict
+10060,1143,1502,266,7149,0.10229768560610947,0.21,-0.05161495119864197,0.24938767854329835,False,-0.0469059522686538,-0.15096748811829366,0.08405207919734213,False,True,WEAK — peptide compensation only visible in one test (specify which)
