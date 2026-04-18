@@ -1,0 +1,2 @@
+n_classes,n_plus_nonzero,n_dualinh_nonzero,n_tests,n_fdr_global,n_fdr_per_motif,null_95pct,verdict
+84,55,1,17692,25,44,114.0,INCONCLUSIVE — insufficient motif coverage for test
