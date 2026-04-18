@@ -1,0 +1,2 @@
+auc_topology,auc_topo_genes,auc_full_with_peptide,delta_genes_over_topo,delta_peptide_over_topogenes,null_95pct_pepdelta,verdict
+0.7579292636283976,0.8019018309730728,0.8034497187925769,0.04397256734467514,0.0015478878195041013,-0.00039728670831203425,WEAK POSITIVE — peptide beats null but adds < 0.01 AUC

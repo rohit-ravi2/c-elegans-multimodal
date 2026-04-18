@@ -1,0 +1,2 @@
+n_cross_stage_high_auc,n_low_degradation,mean_cross_stage_auc,mean_cross_stage_degradation,verdict
+5,6,0.7697881420959002,0.012878524570766456,STRONG GENERALIZATION — topology+genes rule holds across developmental transitions
