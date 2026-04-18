@@ -1,0 +1,2 @@
+topology_auc_mean,topology_auc_ci_low,topology_auc_ci_high,full_auc_mean,full_auc_ci_low,full_auc_ci_high,delta_mean,delta_ci_low,delta_ci_high,verdict
+0.7577927797506564,0.7462424783468461,0.769902287003156,0.8018705283935885,0.7928064444888264,0.8113541868456943,0.04387057507152047,0.03241613522233473,0.05554842464181374,BOTH PASS — Nb07/Nb09 findings survive rigorous uncertainty quantification
