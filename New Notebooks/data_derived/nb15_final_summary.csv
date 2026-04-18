@@ -1,0 +1,2 @@
+cengen_genes_conserved,cengen_base_rate,conservation_std_across_classes,hub_spearman_rho,hub_spearman_p,verdict
+6028,0.440997878411003,0.06815122207684897,0.10399728857299545,0.34648712433543805,DESCRIPTIVE — per-class conservation scores vary but don't correlate with hub status
