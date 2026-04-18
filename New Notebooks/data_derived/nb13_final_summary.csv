@@ -1,0 +1,2 @@
+edges_total,edges_excitatory,edges_inhibitory,edges_unassigned,frac_assigned,EI_ratio,unsigned_ffls,signed_ffls_total,n_significant_sign_classes,verdict
+2191,1370,39,782,0.6430853491556366,35.12820512820513,4984,2431,6,INCOMPLETE — insufficient sign coverage for meaningful analysis
