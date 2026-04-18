@@ -1,0 +1,2 @@
+A_pep_edges,A_pep_density,A_syn_edges,A_syn_density,jaccard,deg_spearman_in,deg_spearman_out,mean_cc_syn,mean_cc_pep,verdict
+4480,0.09131303248950308,2191,0.0446577799518976,0.044956140350877194,0.11439944920638047,0.27991654806411603,0.28832953242131243,0.40384027220049273,STRUCTURALLY DISTINCT — peptide connectome is a distinct graph overlay
