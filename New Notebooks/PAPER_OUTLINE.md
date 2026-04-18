@@ -1,12 +1,12 @@
-# Paper 1 — Draft Outline
+# Paper 1 — Draft Outline (v2, post-Nb 20–23)
 
-**Working title:** Topological rules, refined by gene expression, govern developmental edge arrival in the *C. elegans* connectome.
+**Working title:** A three-layer mechanistic decomposition of chemical synapse formation in the *C. elegans* connectome: physical contact, topological refinement, and gene-expression specificity.
 
-**Target venue:** PLOS Computational Biology (primary), Network Neuroscience, or Cell Reports.
+**Target venue:** PLOS Computational Biology (primary), Network Neuroscience, or Cell Reports. Potentially Nature Communications given the newer AUC 0.89 headline.
 
-## 1-paragraph abstract (draft)
+## 1-paragraph abstract (v2)
 
-Understanding which pairs of neurons form synaptic connections during development is a central question in connectomics. Prior work has correlated neuronal gene expression with static connectome features such as hub status and motif participation, but such correlational tests have returned mostly null results once proper class-level statistics are applied. Here, using Witvliet et al. 2020's developmental series (L1 through adult) together with the CeNGEN L4 neuron-class expression atlas, we frame wiring as a dynamical question: given the connectome at stage *t*, can we predict which edges arrive at stage *t+1*? We find that pure local topology — shared output partners and triadic closure — predicts chemical-synapse arrival with **AUC 0.758 [95% CI 0.746–0.770]** across three developmental transitions. Adding CeNGEN class-level expression features boosts prediction to **AUC 0.802 [0.793–0.811]**, a statistically robust but modest refinement (Δ = +0.044 [+0.032, +0.056]) confirmed by permutation null (shuffled-gene Δ = −0.022). The rule generalizes across developmental transitions (mean cross-stage AUC 0.77). It is chemical-synapse-specific: electrical (gap-junction) arrival is at chance (AUC 0.60), and the peptide-signaling graph is structurally distinct from the synaptic graph (Jaccard 0.045). Gene-motif, gene-hub, and gene-rewiring correlations at class level (N=84) all fail to survive multiple-testing correction, consistent with the view that **gene expression is not the primary architect of C. elegans wiring but a modulatory refinement layer on top of a topological rule**.
+We decompose chemical synapse formation in the *C. elegans* connectome into three mechanistically distinct and independently-contributing layers. Using Witvliet et al. 2020's developmental series (L1 through adult) paired with the Brittin/Zhen nerve-ring EM contact matrix and the CeNGEN L4 neuron-class expression atlas, we frame edge formation as an arrival task: given the connectome at stage *t*, can we predict which chemical synapses arrive by stage *t+1*? **Physical contact alone predicts arrival at AUC 0.833 [95% CI 0.822–0.843]** — the strongest single determinant. Adding chemical-graph topology (shared output partners, triadic closure) raises this to **AUC 0.874 [0.863–0.884]** (Δ = +0.041 [+0.035, +0.048]). Adding CeNGEN gene expression raises it further to **AUC 0.890 [0.881–0.898]** (Δ = +0.016 [+0.010, +0.021]). All three layers contribute independently, with 95% CIs on every delta excluding zero. The mechanism hierarchy — physical adjacency dominates (0.83), topology adds specificity (+0.04), transcription adds refinement (+0.02) — maps cleanly to developmental biology: axon guidance, activity-dependent plasticity, and terminal-differentiation gene programs. The rule is chemical-synapse-specific: electrical (gap junction) arrival is at chance (AUC 0.60), and the peptide-wireless signaling graph is structurally distinct from the synaptic graph (Jaccard 0.045), with 5 textbook state-integrator neurons (RIM, RMG, RIG) identified as multiplex hubs. Static gene-motif correlations at class level (N=84) universally fail BH-FDR correction, consistent with the view that gene expression is not the primary architect of *C. elegans* wiring but a modulatory refinement on top of contact and topology.
 
 ## Section plan
 
@@ -23,28 +23,42 @@ Understanding which pairs of neurons form synaptic connections during developmen
 - Nb 06: Ligand-receptor compatibility does not add above physical contact (contact-only AUC 0.78)
 - Nb 14, 15: neither behavior genes nor ortholog conservation enriched in hub classes
 
-**2.2 Local topology predicts developmental edge arrival.** (Figure: per-transition AUC panels + coefficient weights)
-- Nb 07: AUC 0.758 [0.746, 0.770] on 98,718 candidate pairs across L1→L2→L3→adult transitions
-- Triadic closure (+0.26) and shared output partners (+0.31) are the strongest coefficients
-- Negative in-degree coefficient (−0.11) suggests saturation: already-popular targets less likely to gain edges
+**2.2 Physical contact is the dominant predictor.** (Figure: contact-only AUC + distribution of contact areas)
+- **Nb 20: Contact-only AUC 0.833** [0.822, 0.843], single strongest predictor of edge arrival.
+- Brittin/Zhen nerve-ring EM contact matrix: 161 of the 185 common neurons covered.
+- Interpretation: neurons must physically touch in the nerve ring to form a chemical synapse. This anatomical constraint captures most of the wiring signal.
 
-**2.3 Gene expression is a modest refinement on the topological rule.** (Figure: boxplot of AUC with/without genes across folds + cross-stage matrix)
-- Nb 09: AUC boost 0.758 → 0.802 (Δ +0.044 [0.032, 0.056])
-- Permutation null (shuffled gene features): Δ = −0.022 (genes don't just fail to help randomly — shuffling hurts, confirming real signal)
-- Nb 17: rule generalizes across stages (mean cross-stage AUC 0.77, degradation 0.01)
-- Nb 18: bootstrap CIs on every metric exclude null
+**2.3 Local topology adds specificity above contact.** (Figure: nested model AUC panels)
+- **Nb 22: Δ topology above contact = +0.041** [+0.035, +0.048], CI excludes zero.
+- Triadic closure (+0.26) and shared output partners (+0.31) are the strongest coefficients (Nb 07).
+- Negative in-degree coefficient (−0.11): already-popular targets less likely to gain edges (anti-preferential-attachment).
+- Contact + topology → AUC **0.874** [0.863, 0.884].
 
-**2.4 Rule is chemical-synapse-specific.** (Figure: parallel gap junction / peptide panels)
-- Nb 10: gap junction arrival at AUC 0.60 — essentially null, consistent with innexin-specific biology
-- Nb 12: peptide wireless connectome is structurally independent (Jaccard 0.045, different hubs, higher clustering)
-- Nb 16: adding peptide features to topology+genes gives +0.002 AUC (not distinguishable from null)
+**2.4 Gene expression adds further refinement.** (Figure: full 3-layer stack + delta CIs)
+- **Nb 22: Δ genes above contact+topology = +0.016** [+0.010, +0.021], CI excludes zero.
+- Full three-layer model: **AUC 0.890** [0.881, 0.898].
+- Permutation null (shuffled gene features): Δ = −0.022.
+- Nb 17: rule generalizes across developmental stages (mean cross-stage AUC 0.77, degradation 0.01).
 
-**2.5 Signed-motif structure reveals coherent excitation and dual-inhibition gating.** (Figure: 8-panel sign-class motif enrichment)
-- Nb 13: 6 / 8 sign classes show significant deviation from sign-shuffled null
-- Coherent (+,+,+) FFL enriched at z = +3.6
-- Dual-inhibition (−,+,−) motif enriched at z = +28 — a massively over-represented "fail-safe silencing" pattern
+**2.5 Rule is chemical-synapse-specific.** (Figure: parallel gap junction / peptide panels)
+- Nb 10: gap junction arrival at AUC 0.60 — essentially null.
+- **Nb 19: gap-junctions at stage t do NOT predict chemical arrival at t+1** (Δ +0.008, fails preregistered bar +0.02). The mammalian "electrical scaffold" hypothesis does not obviously apply to C. elegans at this resolution.
+- Nb 12: peptide wireless connectome is structurally independent (Jaccard 0.045 with synaptic, different hubs, higher clustering).
+- Nb 16: adding peptide features to contact+topology+genes gives +0.002 AUC (not distinguishable from null).
 
-**2.6 Individual-edge reliability is limited but motif statistics are robust.** (Supplementary)
+**2.6 Multiplex hubs are textbook state-integrator neurons.** (Figure: scatter plot of synaptic vs peptide degree + labeled multiplex hubs)
+- **Nb 23: 5 neurons in top 10% of both graphs — RIM L/R, RMG L/R, RIGR.**
+- RIM: classical locomotion state-integrator (Coe 2018).
+- RMG: social/pheromone integrator via NPR-1 (Macosko 2009).
+- Independent data-driven identification of the biology — convergent validation of Nb12's two-graph separation.
+
+**2.7 Signed-motif structure reveals coherent excitation and dual-inhibition gating.** (Figure: 8-panel sign-class motif enrichment)
+- Nb 13: 6 / 8 sign classes show significant deviation from sign-shuffled null.
+- Coherent (+,+,+) FFL enriched at z = +3.6.
+- Dual-inhibition (−,+,−) motif enriched at z = +28 — a massively over-represented "fail-safe silencing" pattern.
+- **Nb 21 honest caveat**: the (−,+,−) motif is so rare (37 total, concentrated in ≤2 neurons at class level) that class-level gene correlation fails due to N limits, not sign-ambiguity.
+
+**2.8 Individual-edge reliability is limited but motif statistics are robust.** (Supplementary)
 - Nb 08: Cross-dataset Jaccard 0.42 (Cook hermaphrodite vs Witvliet adult); cross-sex 0.38.
 - Per-class motif Spearman ~0.60 across datasets — degrees and motif counts are more reliable than individual edges.
 
