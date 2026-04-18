@@ -1,0 +1,2 @@
+n_synaptic_hubs,n_peptide_hubs,n_multiplex_hubs,syn_threshold,pep_threshold,multiplex_hubs_list,verdict
+23,24,5,34.80000000000001,94.0,RIGR;RIML;RIMR;RMGL;RMGR,DESCRIPTIVE — 5 multiplex hubs identified; see list for cross-system bridges
