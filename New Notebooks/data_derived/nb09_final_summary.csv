@@ -1,0 +1,2 @@
+N_candidates,topology_only_auc,topology_plus_genes_auc,delta,null_95pct_delta,null_mean_delta,genes_only_auc,verdict,paper_angle
+98718,0.7579292636283976,0.8019018309730728,0.04397256734467514,-0.021892056529624483,-0.026605686317512766,0.7207971178327819,POSITIVE — gene expression adds meaningfully above topology for edge arrival,"Paper: topology is the primary rule, gene expression is a modest refinement layer"
