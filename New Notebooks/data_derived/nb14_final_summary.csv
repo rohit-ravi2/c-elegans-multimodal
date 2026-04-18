@@ -1,0 +1,2 @@
+yemini_genes_total,yemini_in_cengen,n_classes_tested,n_sig_classes_q05,hub_spearman_rho,hub_spearman_p,verdict
+280,234,84,68,-0.024537997359742023,0.8246579704335161,POSITIVE (class-level) — behavior-gene enrichment is class-specific but not hub-correlated
