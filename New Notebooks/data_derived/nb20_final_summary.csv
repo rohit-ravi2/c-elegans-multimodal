@@ -1,0 +1,2 @@
+n_common_with_contact,auc_topology_only,auc_contact_only,auc_topology_plus_contact,delta_topology_above_contact,delta_contact_above_topology,null_95pct_topology_delta,verdict,paper_implication
+161,0.7579292636283976,0.836153150433342,0.8745836912037663,0.03843054077042429,0.1166544275753687,0.0038702914706075895,POSITIVE — topology contains genuine signal BEYOND physical contact,Nb07/09 topological rule is robust to the contact confound
