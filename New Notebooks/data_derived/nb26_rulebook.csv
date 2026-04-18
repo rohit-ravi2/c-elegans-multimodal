@@ -1,0 +1,11 @@
+rule_id,arrival_probability,n_samples,n_arrivals,conditions
+R1,0.0,1,0,log_contact <= 7.496 AND triangle_closure <= 0.500 AND pre_PC1 <= -14.906
+R2,0.0,1,0,log_contact <= 7.496 AND triangle_closure <= 0.500 AND pre_PC1 > -14.906
+R3,0.0,1,0,log_contact <= 7.496 AND triangle_closure > 0.500 AND log_contact <= 6.529
+R4,0.0,1,0,log_contact <= 7.496 AND triangle_closure > 0.500 AND log_contact > 6.529
+R5,0.0,1,0,log_contact > 7.496 AND pre_PC1 <= -39.886
+R6,0.0,1,0,log_contact > 7.496 AND pre_PC1 > -39.886 AND triangle_closure <= 0.500 AND pre_PC2 <= -21.338 AND pre_PC1 <= 2.201
+R7,0.0,1,0,log_contact > 7.496 AND pre_PC1 > -39.886 AND triangle_closure <= 0.500 AND pre_PC2 <= -21.338 AND pre_PC1 > 2.201
+R8,0.0,1,0,log_contact > 7.496 AND pre_PC1 > -39.886 AND triangle_closure <= 0.500 AND pre_PC2 > -21.338
+R9,0.0,1,0,log_contact > 7.496 AND pre_PC1 > -39.886 AND triangle_closure > 0.500 AND log_contact <= 8.450
+R10,0.0,1,0,log_contact > 7.496 AND pre_PC1 > -39.886 AND triangle_closure > 0.500 AND log_contact > 8.450

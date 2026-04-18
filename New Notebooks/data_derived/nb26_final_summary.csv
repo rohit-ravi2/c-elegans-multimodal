@@ -1,0 +1,2 @@
+black_box_auc,distilled_model,distilled_auc,distilled_ci_low,distilled_ci_high,n_rules,accuracy_loss,stable_features,verdict
+0.8233501305750217,l1_logistic,0.7910734409769506,0.7804208021965338,0.8015227602889989,8,0.03227668959807106,"log_contact,pre_PC1,pre_PC2,triangle_closure",POSITIVE — rulebook successfully distills the black-box model
